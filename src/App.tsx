@@ -28,9 +28,18 @@ function MatchList() {
         .select('*')
         .order('match_date', { ascending: activeTab === 'UPCOMING' })
 
-      if (error) throw error
+      if (error) {
+        console.error('Supabase error:', error)
+        throw error
+      }
       
-      const filteredData = (data || []).filter(match => {
+      if (!data) {
+        console.warn('No data returned from Supabase')
+        setMatches([])
+        return
+      }
+      
+      const filteredData = data.filter(match => {
         const matchDate = new Date(match.match_date)
         const isMatchInPast = matchDate < today
         
@@ -46,6 +55,8 @@ function MatchList() {
       setMatches(filteredData)
     } catch (error) {
       console.error('Error fetching matches:', error)
+      // Show error state to user
+      setMatches([])
     } finally {
       setLoading(false)
     }
@@ -110,7 +121,13 @@ function MatchList() {
       </div>
       
       {loading ? (
-        <div className="loading">Loading matches...</div>
+        <div className="loading" style={{ padding: '20px', textAlign: 'center' }}>
+          Loading matches...
+        </div>
+      ) : matches.length === 0 ? (
+        <div style={{ padding: '20px', textAlign: 'center' }}>
+          No matches found for this section
+        </div>
       ) : (
         Object.entries(matchesByDate).map(([date, dateMatches]) => (
           <div key={date} className="date-section">
