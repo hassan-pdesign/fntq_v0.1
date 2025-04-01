@@ -1,0 +1,108 @@
+.leaderboard-entry {
+  display: flex;
+  flex-direction: column;
+  align-items: top;
+  background: rgba(255, 255, 255, 0.05);
+  padding: 1.5rem;
+  border-radius: 8px;
+  /* margin-bottom: 1rem; */
+  transition: transform 0.2s ease, background-color 0.2s ease;
+  gap: 1rem;
+}
+
+.leaderboard-entry:hover {
+  background: rgba(255, 255, 255, 0.08);
+  transform: translateY(-2px);
+}
+
+.entry-rank {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #888;
+  min-width: 60px;
+  text-align: center;
+}
+
+.entry-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.entry-details-left {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: stretch;
+}
+
+.entry-name {
+  color: #EEE;
+  font-family: Karantina;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%; /* 32px */
+  text-transform: uppercase;
+}
+
+.entry-players {
+  color: #888;
+  font-size: 1.2rem;
+  padding: 0px 60px;
+}
+
+.entry-stats {
+  display: flex;
+  gap: 2rem;
+  padding: 0px 60px;
+  font-size: 0.8rem;
+}
+
+.entry-stats-1, .entry-stats-2 {
+  display: flex;
+  flex-direction: row;
+  gap: .5rem;
+}
+
+.overall-rank, .total-points {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  color: #666;
+}
+
+.overall-rank-value, .total-points-value {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+}
+
+.rank-change {
+  font-size: 20px;
+  border: 1px solid #444;
+  padding: 6px 12px;
+}
+
+.rank-up {
+  color: #4CAF50;
+}
+
+.rank-down {
+  color: #f44336;
+}
+
+.rank-same {
+  color: #FFA500;
+}
+
+.entry-points {
+  font-size: 2rem;
+  color: #EEE;
+font-family: Impact;
+font-style: normal;
+font-weight: 400;
+line-height: 100%; /* 24px */
+text-transform: uppercase;
+} 

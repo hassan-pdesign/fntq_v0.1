@@ -1,0 +1,330 @@
+{
+  "match_number": 5,
+  "match_title": "Punjab Kings v Gujarat Titans - March 25, 2025",
+  "teams": {
+    "team1": "Punjab Kings",
+    "team2": "Gujarat Titans",
+    "winner": "Punjab Kings"
+  },
+  "participant_scores": [
+    {
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": true,
+          "points": 130.46,
+          "effective_points": 260.92
+        },
+        {
+          "player": "Glenn Maxwell",
+          "is_captain": false,
+          "points": 28.35,
+          "effective_points": 28.35
+        },
+        {
+          "player": "Mohammed Siraj",
+          "is_captain": false,
+          "points": 5.9,
+          "effective_points": 5.9
+        }
+      ],
+      "total_points": 295,
+      "rounded_off_total_points": 295,
+      "rank": 1,
+      "overall_points": 772,
+      "overall_rank": 3,
+      "overall_rank_change": "↑4"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Marcus Stoinis",
+          "is_captain": true,
+          "points": -1.95,
+          "effective_points": -3.9
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 130.46,
+          "effective_points": 130.46
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 70.79,
+          "effective_points": 70.79
+        }
+      ],
+      "total_points": 197,
+      "rounded_off_total_points": 197,
+      "rank": 2,
+      "overall_points": 646,
+      "overall_rank": 7,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Shubman Gill",
+          "is_captain": true,
+          "points": 49.71,
+          "effective_points": 99.42
+        },
+        {
+          "player": "Priyansh Arya",
+          "is_captain": false,
+          "points": 59.35,
+          "effective_points": 59.35
+        },
+        {
+          "player": "Jos Buttler",
+          "is_captain": false,
+          "points": 26.28,
+          "effective_points": 26.28
+        }
+      ],
+      "total_points": 185,
+      "rounded_off_total_points": 185,
+      "rank": 3,
+      "overall_points": 574,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Shubman Gill",
+          "is_captain": true,
+          "points": 49.71,
+          "effective_points": 99.42
+        },
+        {
+          "player": "Jos Buttler",
+          "is_captain": false,
+          "points": 26.28,
+          "effective_points": 26.28
+        },
+        {
+          "player": "Marco Jansen",
+          "is_captain": false,
+          "points": 34.64,
+          "effective_points": 34.64
+        }
+      ],
+      "total_points": 160,
+      "rounded_off_total_points": 160,
+      "rank": 4,
+      "overall_points": 405,
+      "overall_rank": 11,
+      "overall_rank_change": "↑2"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Yuzvendra Chahal",
+          "is_captain": true,
+          "points": 10.41,
+          "effective_points": 20.82
+        },
+        {
+          "player": "Shashank Singh",
+          "is_captain": false,
+          "points": 52.35,
+          "effective_points": 52.35
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 70.79,
+          "effective_points": 70.79
+        }
+      ],
+      "total_points": 144,
+      "rounded_off_total_points": 144,
+      "rank": 5,
+      "overall_points": 980,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Rashid Khan",
+          "is_captain": true,
+          "points": 31.38,
+          "effective_points": 62.76
+        },
+        {
+          "player": "Glenn Maxwell",
+          "is_captain": false,
+          "points": 28.35,
+          "effective_points": 28.35
+        },
+        {
+          "player": "Jos Buttler",
+          "is_captain": false,
+          "points": 26.28,
+          "effective_points": 26.28
+        }
+      ],
+      "total_points": 117,
+      "rounded_off_total_points": 117,
+      "rank": 6,
+      "overall_points": 606,
+      "overall_rank": 8,
+      "overall_rank_change": "↓2"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Marcus Stoinis",
+          "is_captain": true,
+          "points": -1.95,
+          "effective_points": -3.9
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 70.79,
+          "effective_points": 70.79
+        },
+        {
+          "player": "Kagiso Rabada",
+          "is_captain": false,
+          "points": 43.29,
+          "effective_points": 43.29
+        }
+      ],
+      "total_points": 110,
+      "rounded_off_total_points": 110,
+      "rank": 7,
+      "overall_points": 897,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Shubman Gill",
+          "is_captain": true,
+          "points": 49.71,
+          "effective_points": 99.42
+        },
+        {
+          "player": "Prabhsimran Singh",
+          "is_captain": false,
+          "points": -13.65,
+          "effective_points": -13.65
+        },
+        {
+          "player": "Rahul Tewatia",
+          "is_captain": false,
+          "points": 9.53,
+          "effective_points": 9.53
+        }
+      ],
+      "total_points": 95,
+      "rounded_off_total_points": 95,
+      "rank": 8,
+      "overall_points": 463,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Mohammed Siraj",
+          "is_captain": true,
+          "points": 5.9,
+          "effective_points": 11.8
+        },
+        {
+          "player": "Marco Jansen",
+          "is_captain": false,
+          "points": 34.64,
+          "effective_points": 34.64
+        },
+        {
+          "player": "Rashid Khan",
+          "is_captain": false,
+          "points": 31.38,
+          "effective_points": 31.38
+        }
+      ],
+      "total_points": 78,
+      "rounded_off_total_points": 78,
+      "rank": 9,
+      "overall_points": 652,
+      "overall_rank": 6,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Glenn Maxwell",
+          "is_captain": true,
+          "points": 28.35,
+          "effective_points": 56.7
+        },
+        {
+          "player": "Arshad Khan",
+          "is_captain": false,
+          "points": -11.59,
+          "effective_points": -11.59
+        },
+        {
+          "player": "Marcus Stoinis",
+          "is_captain": false,
+          "points": -1.95,
+          "effective_points": -1.95
+        }
+      ],
+      "total_points": 43,
+      "rounded_off_total_points": 43,
+      "rank": 10,
+      "overall_points": 689,
+      "overall_rank": 4,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Marcus Stoinis",
+          "is_captain": true,
+          "points": -1.95,
+          "effective_points": -3.9
+        },
+        {
+          "player": "Shubman Gill",
+          "is_captain": false,
+          "points": 49.71,
+          "effective_points": 49.71
+        },
+        {
+          "player": "Prabhsimran Singh",
+          "is_captain": false,
+          "points": -13.65,
+          "effective_points": -13.65
+        }
+      ],
+      "total_points": 32,
+      "rounded_off_total_points": 32,
+      "rank": 11,
+      "overall_points": 654,
+      "overall_rank": 5,
+      "overall_rank_change": "↓1"
+    }
+  ]
+}

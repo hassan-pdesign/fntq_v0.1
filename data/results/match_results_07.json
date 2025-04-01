@@ -1,0 +1,301 @@
+{
+  "match_number": 7,
+  "match_title": "Sunrisers Hyderabad v Lucknow Super Giants - March 27, 2025",
+  "teams": {
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Lucknow Super Giants",
+    "winner": "Lucknow Super Giants"
+  },
+  "participant_scores": [
+    {
+      "name": "Utkarsh",
+      "players": [
+        {
+          "player": "Pat Cummins",
+          "is_captain": true,
+          "points": 90.15,
+          "effective_points": 180.3
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 41.17,
+          "effective_points": 41.17
+        },
+        {
+          "player": "Travis Head",
+          "is_captain": false,
+          "points": 48.15,
+          "effective_points": 48.15
+        }
+      ],
+      "total_points": 270,
+      "rounded_off_total_points": 270,
+      "rank": 1,
+      "overall_points": 589,
+      "overall_rank": 11,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 92.61,
+          "effective_points": 185.22
+        },
+        {
+          "player": "Travis Head",
+          "is_captain": false,
+          "points": 48.15,
+          "effective_points": 48.15
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 21.52,
+          "effective_points": 21.52
+        }
+      ],
+      "total_points": 255,
+      "rounded_off_total_points": 255,
+      "rank": 2,
+      "overall_points": 1062,
+      "overall_rank": 3,
+      "overall_rank_change": "↑2"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Travis Head",
+          "is_captain": true,
+          "points": 48.15,
+          "effective_points": 96.3
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": 5.46,
+          "effective_points": 5.46
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 92.61,
+          "effective_points": 92.61
+        }
+      ],
+      "total_points": 194,
+      "rounded_off_total_points": 194,
+      "rank": 3,
+      "overall_points": 1021,
+      "overall_rank": 4,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Travis Head",
+          "is_captain": true,
+          "points": 48.15,
+          "effective_points": 96.3
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 92.61,
+          "effective_points": 92.61
+        },
+        {
+          "player": "Nitish Kumar Reddy",
+          "is_captain": false,
+          "points": 1.4,
+          "effective_points": 1.4
+        }
+      ],
+      "total_points": 190,
+      "rounded_off_total_points": 190,
+      "rank": 4,
+      "overall_points": 812,
+      "overall_rank": 7,
+      "overall_rank_change": "↑3"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Ishan Kishan",
+          "is_captain": true,
+          "points": -4.37,
+          "effective_points": -8.74
+        },
+        {
+          "player": "Travis Head",
+          "is_captain": false,
+          "points": 48.15,
+          "effective_points": 48.15
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 92.61,
+          "effective_points": 92.61
+        }
+      ],
+      "total_points": 132,
+      "rounded_off_total_points": 132,
+      "rank": 5,
+      "overall_points": 881,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Ishan Kishan",
+          "is_captain": true,
+          "points": -4.37,
+          "effective_points": -8.74
+        },
+        {
+          "player": "Travis Head",
+          "is_captain": false,
+          "points": 48.15,
+          "effective_points": 48.15
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 92.61,
+          "effective_points": 92.61
+        }
+      ],
+      "total_points": 132,
+      "rounded_off_total_points": 132,
+      "rank": 5,
+      "overall_points": 783,
+      "overall_rank": 8,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Travis Head",
+          "is_captain": true,
+          "points": 48.15,
+          "effective_points": 96.3
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 21.52,
+          "effective_points": 21.52
+        },
+        {
+          "player": "Rishabh Pant",
+          "is_captain": false,
+          "points": 3.86,
+          "effective_points": 3.86
+        }
+      ],
+      "total_points": 122,
+      "rounded_off_total_points": 122,
+      "rank": 7,
+      "overall_points": 551,
+      "overall_rank": 12,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": true,
+          "points": 5.46,
+          "effective_points": 10.92
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 41.17,
+          "effective_points": 41.17
+        },
+        {
+          "player": "Travis Head",
+          "is_captain": false,
+          "points": 48.15,
+          "effective_points": 48.15
+        }
+      ],
+      "total_points": 100,
+      "rounded_off_total_points": 100,
+      "rank": 8,
+      "overall_points": 1376,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Rishabh Pant",
+          "is_captain": true,
+          "points": 3.86,
+          "effective_points": 7.72
+        },
+        {
+          "player": "Mohammed Shami",
+          "is_captain": false,
+          "points": 22.38,
+          "effective_points": 22.38
+        },
+        {
+          "player": "Travis Head",
+          "is_captain": false,
+          "points": 48.15,
+          "effective_points": 48.15
+        }
+      ],
+      "total_points": 78,
+      "rounded_off_total_points": 78,
+      "rank": 9,
+      "overall_points": 903,
+      "overall_rank": 5,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Nitish Kumar Reddy",
+          "is_captain": true,
+          "points": 1.4,
+          "effective_points": 2.8
+        },
+        {
+          "player": "Aiden Markram",
+          "is_captain": false,
+          "points": -7.15,
+          "effective_points": -7.15
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 41.17,
+          "effective_points": 41.17
+        }
+      ],
+      "total_points": 37,
+      "rounded_off_total_points": 37,
+      "rank": 10,
+      "overall_points": 1079,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    }
+  ]
+}
