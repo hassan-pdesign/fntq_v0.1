@@ -2,28 +2,20 @@ import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
 import { useLocation, useNavigate } from 'react-router-dom'
 import type { LeaderboardEntry } from '../../../types/leaderboard'
-import { MatchHeader } from '../../../components/MatchHeader'
+import { MatchHeader } from '../../shared/components/MatchHeader'
 import { LeaderboardEntry as LeaderboardEntryComponent } from '../../../components/LeaderboardEntry'
 import teamAcronyms from '../../../../data/team_acronyms.json'
 import { getMatchDetails } from '../../../utils/fixtureUtils'
 import styles from './LeaderboardPage.module.css'
+import { Match } from '../../../types/match'
+import { useLeaderboardData } from '../hooks/useLeaderboardData'
+import { LeaderboardCardList } from '../components/LeaderboardCardList'
+import { LoadingState } from '../../shared/components/LoadingState'
+import { EmptyState } from '../../shared/components/EmptyState'
 
 const ENTRIES_PER_PAGE = 15
 
 // Define Match interface to match the one from FixturesPage
-interface Match {
-  match_number: string
-  team1: string
-  team2: string
-  venue: string
-  date: string
-  day: string
-  time_ist: string
-  cricinfo_url: string
-  result?: string
-}
-
-// Match the expected MatchHeader props
 interface MatchInfo {
   matchNumber: number;
   team1: string;
@@ -65,213 +57,167 @@ function formatDate(dateString: string): string {
   return `${dayOfWeek}, ${month} ${day}`;
 }
 
-export function LeaderboardPage() {
-  const location = useLocation();
-  const navigate = useNavigate();
-  const selectedMatch = location.state?.selectedMatch as Match | undefined;
+// Helper function to format time from "07:30 PM" to "7:30 PM"
+function formatTime(timeString: string): string {
+  // Check if the time is already in the correct format
+  if (!timeString || timeString === 'TBA') return timeString;
   
-  const [leaderboardEntries, setLeaderboardEntries] = useState<LeaderboardEntry[]>([]);
-  const [currentPage, setCurrentPage] = useState(0);
-  const [loading, setLoading] = useState(true);
-  const [matchInfo, setMatchInfo] = useState<MatchInfo>({
-    matchNumber: 0,
-    team1: '',
-    team2: '',
-    venue: '',
-    date: '',
-    time: '',
-    separator: '•' // Add the separator
-  });
-  const [rawMatchData, setRawMatchData] = useState<MatchData | null>(null);
-  const [matchNumber, setMatchNumber] = useState<number>(0);
+  // Handle 12-hour time format (e.g., "07:30 PM")
+  const timeMatch = timeString.match(/^(\d{1,2}):(\d{1,2})\s*(AM|PM)$/i);
+  if (timeMatch) {
+    const [, hours, minutes, period] = timeMatch;
+    // Remove leading zero from hours if present
+    const formattedHours = hours.replace(/^0+/, '') || '12'; // Replace '0' with '12' for midnight
+    return `${formattedHours}:${minutes} ${period.toUpperCase()}`;
+  }
+  
+  return timeString; // Return original if no match
+}
 
-  // Always scroll to top when the component mounts
+export function LeaderboardPage() {
+  const location = useLocation()
+  const navigate = useNavigate()
+  const [selectedMatch, setSelectedMatch] = useState<Match | undefined>(
+    location.state?.selectedMatch
+  )
+  const [allMatches, setAllMatches] = useState<Match[]>([])
+  const [loading, setLoading] = useState(true)
+  
+  const { entries, loading: leaderboardLoading, error } = useLeaderboardData({
+    selectedMatch
+  })
+  
+  // Fetch all completed matches for navigation
   useEffect(() => {
-    window.scrollTo(0, 0);
-  }, []);
-
-  // Handle touch events for swipe detection
-  const [touchStart, setTouchStart] = useState<number | null>(null);
-  const [touchEnd, setTouchEnd] = useState<number | null>(null);
-
-  // Required minimum distance traveled to be considered swipe
-  const minSwipeDistance = 50;
-
-  const onTouchStart = (e: React.TouchEvent) => {
-    setTouchEnd(null);
-    setTouchStart(e.targetTouches[0].clientX);
-  };
-
-  const onTouchMove = (e: React.TouchEvent) => {
-    setTouchEnd(e.targetTouches[0].clientX);
-  };
-
-  const onTouchEnd = () => {
-    if (!touchStart || !touchEnd) return;
-    
-    const distance = touchStart - touchEnd;
-    const isLeftSwipe = distance > minSwipeDistance;
-    const isRightSwipe = distance < -minSwipeDistance;
-    
-    // If right swipe, navigate back to fixtures page
-    if (isRightSwipe) {
-      // Use navigate(-1) to go back in history instead of directly to /fixtures
-      // This helps maintain the scroll position
-      navigate(-1);
-    }
-    // If left swipe, go to next page (if available)
-    else if (isLeftSwipe) {
-      goToNextPage();
-    }
-  };
-
-  useEffect(() => {
-    async function loadMatchData() {
+    async function fetchMatches() {
       try {
-        setLoading(true);
+        const response = await fetch('/matches.json')
+        if (!response.ok) throw new Error('Failed to fetch matches')
         
-        // Determine which match data to load
-        const matchNumber = selectedMatch ? parseInt(selectedMatch.match_number) : 41;
-        setMatchNumber(matchNumber);
+        const data: Match[] = await response.json()
         
-        // Ensure match number has correct format for file path (pad with leading zero if needed)
-        const formattedMatchNumber = matchNumber < 10 ? `0${matchNumber}` : `${matchNumber}`;
+        // Filter to only include completed matches with results
+        const completedMatches = data.filter(match => 
+          match.result && match.result !== "N/A"
+        ).sort((a, b) => {
+          // Sort by match number
+          return parseInt(a.match_number) - parseInt(b.match_number)
+        })
         
-        // Dynamically import the match results with correctly formatted match number
-        const matchData = await import(`../../../../data/results/match_results_${formattedMatchNumber}.json`);
-        setRawMatchData(matchData);
-        
-        // Parse the entries from the match data
-        const entries: LeaderboardEntry[] = matchData.participant_scores.map((participant: any) => ({
-          rank: participant.rank,
-          name: participant.name.toUpperCase(),
-          points: participant.rounded_off_total_points,
-          totalPoints: participant.overall_points,
-          overallRank: participant.overall_rank,
-          players: {
-            captain: participant.players.find((p: any) => p.is_captain)?.player || '',
-            player1: participant.players.find((p: any) => !p.is_captain)?.player || '',
-            player2: participant.players.filter((p: any) => !p.is_captain)[1]?.player || ''
-          }
-        }));
-        
-        setLeaderboardEntries(entries);
-        
-        // Get fixture details from utils or use selected match
-        const fixtureDetails = getMatchDetails(matchNumber);
-
-        // Format the date string
-        const formattedDate = selectedMatch?.date ? formatDate(selectedMatch.date) : 
-                              fixtureDetails?.date ? formatDate(fixtureDetails.date) : 'TBA';
-        
-        setMatchInfo({
-          matchNumber: matchNumber,
-          team1: selectedMatch ? selectedMatch.team1 : (fixtureDetails?.team1 || 'TBA'),
-          team2: selectedMatch ? selectedMatch.team2 : (fixtureDetails?.team2 || 'TBA'),
-          venue: selectedMatch ? selectedMatch.venue : (fixtureDetails?.venue || 'TBA'),
-          date: formattedDate,
-          time: selectedMatch ? selectedMatch.time_ist : (fixtureDetails?.time || 'TBA'),
-          separator: '•' // Add the separator
-        });
-        
+        setAllMatches(completedMatches)
+        setLoading(false)
       } catch (error) {
-        console.error('Failed to load match data:', error);
-        setLeaderboardEntries([]);
-        setRawMatchData(null);
-      } finally {
-        setLoading(false);
+        console.error('Error fetching matches:', error)
+        setLoading(false)
       }
     }
     
-    loadMatchData();
-  }, [selectedMatch]);
-
-  const pageCount = Math.ceil(leaderboardEntries.length / ENTRIES_PER_PAGE)
-  const startIndex = currentPage * ENTRIES_PER_PAGE
-  const visibleEntries = leaderboardEntries.slice(startIndex, startIndex + ENTRIES_PER_PAGE)
-
-  const goToNextPage = () => {
-    setCurrentPage(prev => Math.min(pageCount - 1, prev + 1))
-  }
-
-  const goToPreviousPage = () => {
-    setCurrentPage(prev => Math.max(0, prev - 1))
-  }
-
+    fetchMatches()
+  }, [])
+  
   useEffect(() => {
-    const handleKeyDown = (event: KeyboardEvent) => {
-      if (event.key === 'ArrowRight') {
-        goToNextPage()
-      } else if (event.key === 'ArrowLeft') {
-        goToPreviousPage()
-      }
+    if (location.state?.selectedMatch) {
+      setSelectedMatch(location.state.selectedMatch)
     }
-
-    window.addEventListener('keydown', handleKeyDown)
-    return () => window.removeEventListener('keydown', handleKeyDown)
-  }, [pageCount]) // Include pageCount in dependencies since it's used in the handlers
-
-  if (loading) {
-    return <div className={styles['loading']}>Loading match results...</div>;
+  }, [location.state])
+  
+  const handleBackClick = () => {
+    navigate('/fixtures')
   }
-
-  return (
-    <motion.div 
-      className={styles['leaderboard-page']}
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      transition={{ duration: 0.3 }}
-      onTouchStart={onTouchStart}
-      onTouchMove={onTouchMove}
-      onTouchEnd={onTouchEnd}
-    >
-      {/* Match Leaderboard Section */}
-      <div className={styles['match-leaderboard']}>
-        <MatchHeader matchInfo={matchInfo} />
-        
-        {leaderboardEntries.length === 0 ? (
-          <div className={styles['no-data']}>No results available for this match yet.</div>
-        ) : (
-          <>
-            <motion.div 
-              className={styles['leaderboard-entries']}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.2 }}
-            >
-              {visibleEntries.map((entry, index) => (
-                <LeaderboardEntryComponent
-                  key={entry.name}
-                  entry={entry}
-                  index={startIndex + index}
-                  rankChange={rawMatchData?.participant_scores[startIndex + index]?.overall_rank_change || "0"}
-                />
-              ))}
-            </motion.div>
-            
-            {/* Pagination controls - These are currently hidden in CSS but kept for future use */}
-            <div className={styles['pagination-controls']}>
-              <button 
-                className={styles['pagination-button']}
-                onClick={goToPreviousPage}
-                disabled={currentPage === 0}
-              >
-                Previous
-              </button>
-              <span className={styles['page-indicator']}>
-                Page {currentPage + 1} of {pageCount}
-              </span>
-              <button 
-                className={styles['pagination-button']}
-                onClick={goToNextPage}
-                disabled={currentPage === pageCount - 1}
-              >
-                Next
-              </button>
-            </div>
-          </>
-        )}
+  
+  // Handle navigation to previous match
+  const handlePreviousMatch = () => {
+    if (!selectedMatch || allMatches.length === 0) return
+    
+    const currentIndex = allMatches.findIndex(
+      match => match.match_number === selectedMatch.match_number
+    )
+    
+    if (currentIndex > 0) {
+      const previousMatch = allMatches[currentIndex - 1]
+      setSelectedMatch(previousMatch)
+      navigate('/leaderboard', { state: { selectedMatch: previousMatch }, replace: true })
+    }
+  }
+  
+  // Handle navigation to next match
+  const handleNextMatch = () => {
+    if (!selectedMatch || allMatches.length === 0) return
+    
+    const currentIndex = allMatches.findIndex(
+      match => match.match_number === selectedMatch.match_number
+    )
+    
+    if (currentIndex < allMatches.length - 1) {
+      const nextMatch = allMatches[currentIndex + 1]
+      setSelectedMatch(nextMatch)
+      navigate('/leaderboard', { state: { selectedMatch: nextMatch }, replace: true })
+    }
+  }
+  
+  // Determine if previous/next match buttons should be enabled
+  const getPreviousMatchAvailable = () => {
+    if (!selectedMatch || allMatches.length === 0) return false
+    
+    const currentIndex = allMatches.findIndex(
+      match => match.match_number === selectedMatch.match_number
+    )
+    
+    return currentIndex > 0
+  }
+  
+  const getNextMatchAvailable = () => {
+    if (!selectedMatch || allMatches.length === 0) return false
+    
+    const currentIndex = allMatches.findIndex(
+      match => match.match_number === selectedMatch.match_number
+    )
+    
+    return currentIndex < allMatches.length - 1
+  }
+  
+  if (loading) {
+    return <LoadingState message="Loading matches..." />
+  }
+  
+  if (!selectedMatch) {
+    return (
+      <div className={styles.container}>
+        <EmptyState message="No match selected. Please select a match from the fixtures page." />
+        <button className={styles.backButton} onClick={handleBackClick}>
+          Back to Fixtures
+        </button>
       </div>
-    </motion.div>
+    )
+  }
+  
+  return (
+    <div className={styles.container}>
+      <MatchHeader 
+        matchNumber={selectedMatch.match_number}
+        team1={selectedMatch.team1}
+        team2={selectedMatch.team2}
+        result={selectedMatch.result}
+        venue={selectedMatch.venue}
+        date={formatDate(selectedMatch.date)}
+        time={formatTime(selectedMatch.time_ist)}
+        onPreviousMatch={handlePreviousMatch}
+        onNextMatch={handleNextMatch}
+        hasPreviousMatch={getPreviousMatchAvailable()}
+        hasNextMatch={getNextMatchAvailable()}
+      />
+      
+      {error ? (
+        <EmptyState message={error} />
+      ) : leaderboardLoading ? (
+        <LoadingState message="Loading leaderboard..." />
+      ) : (
+        <LeaderboardCardList 
+          entries={entries}
+          matchNumber={selectedMatch.match_number}
+          loading={leaderboardLoading}
+        />
+      )}
+    </div>
   )
 } 

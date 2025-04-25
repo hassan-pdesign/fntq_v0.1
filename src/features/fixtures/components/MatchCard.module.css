@@ -1,0 +1,63 @@
+.matchCard {
+  background-color: var(--card-bg, #252525);
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 16px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.matchCard:hover {
+  /* transform: translateY(-2px); */
+  scale: 1.02;
+}
+
+.matchHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 12px;
+  gap: 12px;
+}
+
+.matchNumber {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: var(--accent-color, #f55a00);
+}
+
+.matchTime {
+  font-size: 1rem;
+  color: var(--text-color-secondary, #888);
+}
+
+.teamsContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.team {
+  /* flex: 1; */
+}
+
+.vs {
+  margin: 0 10px;
+  font-size: 1.2rem;
+  opacity: 0.7;
+}
+
+.venue {
+  font-size: 1rem;
+  color: var(--text-color-secondary, #888);
+  margin-bottom: 8px;
+}
+
+.result {
+  font-size: .75rem;
+  margin-top: 12px;
+  padding-top: 8px;
+  font-weight: 500;
+  color: var(--highlight-color, #4caf50);
+} 

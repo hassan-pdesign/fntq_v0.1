@@ -1,0 +1,65 @@
+.row {
+  display: grid;
+  grid-template-columns: 0.5fr 2fr 1fr 0.8fr 0.8fr;
+  padding: var(--spacing-md);
+  border-bottom: 1px solid var(--border-color);
+  transition: background-color var(--transition-fast);
+}
+
+.row:last-child {
+  border-bottom: none;
+}
+
+.row:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.rank {
+  font-weight: 600;
+  color: var(--accent-color);
+  display: flex;
+  align-items: center;
+  padding: var(--spacing-sm);
+}
+
+.username {
+  font-weight: 500;
+  padding: var(--spacing-sm);
+  display: flex;
+  align-items: center;
+}
+
+.score {
+  font-weight: 600;
+  color: var(--highlight-color);
+  display: flex;
+  align-items: center;
+  padding: var(--spacing-sm);
+}
+
+.matches {
+  display: flex;
+  align-items: center;
+  padding: var(--spacing-sm);
+}
+
+.change {
+  display: flex;
+  align-items: center;
+  padding: var(--spacing-sm);
+}
+
+.rankUp {
+  color: var(--highlight-color);
+  font-weight: 500;
+}
+
+.rankDown {
+  color: var(--error-color);
+  font-weight: 500;
+}
+
+.noChange {
+  color: var(--text-color-secondary);
+  opacity: 0.6;
+} 

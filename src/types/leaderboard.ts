@@ -1,6 +1,25 @@
-export interface LeaderboardEntry {
+export interface LeaderboardDataEntry {
   rank: number
+  username: string
+  score: number
+  prediction: string
+  actual?: string
+  overall_rank?: number
+  overall_points?: number
+  overall_rank_change?: string
+}
+
+export interface OverallLeaderboardEntry {
+  rank: number
+  username: string
+  totalScore: number
+  matchesPlayed: number
+  previousRank?: number
+}
+
+export interface LeaderboardEntry {
   name: string
+  rank: number
   points: number
   totalPoints: number
   overallRank: number
@@ -9,15 +28,4 @@ export interface LeaderboardEntry {
     player1: string
     player2: string
   }
-}
-
-export interface OverallLeaderboardEntry {
-  name: string
-  matchesPlayed: number
-  cumulativePoints: number
-  average: number
-  wins: number
-  podiums: number
-  overallRank: number
-  overallRankChange: string
 } 

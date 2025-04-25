@@ -1,11 +1,11 @@
 export interface Match {
-  id: string  // it's a uuid in the database
-  team_1: string
-  team_2: string
-  match_date: string
+  match_number: string
+  team1: string
+  team2: string
   venue: string
-  city: string
-  is_completed: boolean
-  season: string
-  result?: string  // Optional result field to store match outcome
+  date: string
+  day: string
+  time_ist: string
+  cricinfo_url: string
+  result?: string
 } 

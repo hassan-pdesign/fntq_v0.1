@@ -1,0 +1,15 @@
+.emptyContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px;
+  text-align: center;
+  background-color: var(--card-bg, #252525);
+  border-radius: 12px;
+  margin: 20px 0;
+}
+
+.message {
+  font-size: 1.2rem;
+  color: var(--text-color-secondary, #888);
+} 

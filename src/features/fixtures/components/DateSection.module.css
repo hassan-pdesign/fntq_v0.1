@@ -1,0 +1,17 @@
+.dateSection {
+  margin-bottom: 32px;
+}
+
+.dateLabel {
+  font-size: 1.2rem;
+  margin-bottom: 16px;
+  font-weight: 600;
+  color: var(--text-color-primary, #fff);
+  padding: 8px 16px;
+}
+
+.matchesContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+} 

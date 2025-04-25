@@ -1,0 +1,22 @@
+.cardsContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.loading, .emptyState {
+  text-align: center;
+  padding: 40px 16px;
+  font-size: 1.2rem;
+  color: var(--text-color-secondary, #888);
+}
+
+/* Responsive styles */
+@media (min-width: 768px) {
+  .cardsContainer {
+    padding: 0px;
+  }
+} 

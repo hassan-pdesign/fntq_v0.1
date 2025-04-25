@@ -1,0 +1,38 @@
+.tableContainer {
+  margin-top: var(--spacing-lg);
+  background-color: var(--card-bg);
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-md);
+  overflow: hidden;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 0.5fr 2fr 1fr 2fr 1.5fr;
+  padding: var(--spacing-md);
+  background-color: rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid var(--border-color);
+  font-weight: 600;
+}
+
+.rankHeader,
+.userHeader,
+.scoreHeader,
+.predictionHeader,
+.overallHeader {
+  padding: var(--spacing-sm);
+  color: var(--text-color-secondary);
+}
+
+.entriesContainer {
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.loading,
+.emptyState {
+  padding: var(--spacing-xl);
+  text-align: center;
+  color: var(--text-color-secondary);
+  font-size: var(--font-size-lg);
+} 

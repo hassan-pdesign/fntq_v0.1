@@ -87,4 +87,28 @@
     padding: 0.4rem 0.8rem;
     font-size: 0.9rem;
   }
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 40px 24px 80px 24px; /* Add bottom padding equal to bottom bar height */
+  display: flex;
+  flex-direction: column;
+}
+
+.backButton {
+  align-self: center;
+  margin-top: var(--spacing-lg);
+  padding: var(--spacing-md) var(--spacing-lg);
+  background-color: var(--card-bg);
+  color: var(--text-color-primary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius-md);
+  cursor: pointer;
+  transition: background-color var(--transition-fast);
+}
+
+.backButton:hover {
+  background-color: rgba(255, 255, 255, 0.05);
 } 

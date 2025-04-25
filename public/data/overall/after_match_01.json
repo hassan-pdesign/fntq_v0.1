@@ -1,0 +1,110 @@
+{
+  "Joshua": {
+    "matches_played": 1,
+    "cumulative_points": 244,
+    "average": 244.0,
+    "wins": 1,
+    "podiums": 1,
+    "overall_rank": 1,
+    "overall_rank_change": "-"
+  },
+  "KV": {
+    "matches_played": 1,
+    "cumulative_points": 242,
+    "average": 242.0,
+    "wins": 0,
+    "podiums": 1,
+    "overall_rank": 2,
+    "overall_rank_change": "-"
+  },
+  "Bipin": {
+    "matches_played": 1,
+    "cumulative_points": 240,
+    "average": 240.0,
+    "wins": 0,
+    "podiums": 1,
+    "overall_rank": 3,
+    "overall_rank_change": "-"
+  },
+  "Vikki": {
+    "matches_played": 1,
+    "cumulative_points": 237,
+    "average": 237.0,
+    "wins": 0,
+    "podiums": 0,
+    "overall_rank": 4,
+    "overall_rank_change": "-"
+  },
+  "Parkhi": {
+    "matches_played": 1,
+    "cumulative_points": 203,
+    "average": 203.0,
+    "wins": 0,
+    "podiums": 0,
+    "overall_rank": 5,
+    "overall_rank_change": "-"
+  },
+  "Dubai Deepak": {
+    "matches_played": 1,
+    "cumulative_points": 191,
+    "average": 191.0,
+    "wins": 0,
+    "podiums": 0,
+    "overall_rank": 6,
+    "overall_rank_change": "-"
+  },
+  "Pavethy": {
+    "matches_played": 1,
+    "cumulative_points": 146,
+    "average": 146.0,
+    "wins": 0,
+    "podiums": 0,
+    "overall_rank": 7,
+    "overall_rank_change": "-"
+  },
+  "Sawant": {
+    "matches_played": 1,
+    "cumulative_points": 139,
+    "average": 139.0,
+    "wins": 0,
+    "podiums": 0,
+    "overall_rank": 8,
+    "overall_rank_change": "-"
+  },
+  "Sunil": {
+    "matches_played": 1,
+    "cumulative_points": 111,
+    "average": 111.0,
+    "wins": 0,
+    "podiums": 0,
+    "overall_rank": 9,
+    "overall_rank_change": "-"
+  },
+  "Karthik": {
+    "matches_played": 1,
+    "cumulative_points": 86,
+    "average": 86.0,
+    "wins": 0,
+    "podiums": 0,
+    "overall_rank": 10,
+    "overall_rank_change": "-"
+  },
+  "Janeesh": {
+    "matches_played": 1,
+    "cumulative_points": 84,
+    "average": 84.0,
+    "wins": 0,
+    "podiums": 0,
+    "overall_rank": 11,
+    "overall_rank_change": "-"
+  },
+  "Ducati Deepak": {
+    "matches_played": 1,
+    "cumulative_points": 33,
+    "average": 33.0,
+    "wins": 0,
+    "podiums": 0,
+    "overall_rank": 12,
+    "overall_rank_change": "-"
+  }
+}

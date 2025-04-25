@@ -104,4 +104,89 @@
   font-weight: 400;
   line-height: 100%; /* 24px */
   text-transform: uppercase;
+}
+
+.entryRow {
+  display: grid;
+  grid-template-columns: 0.5fr 2fr 1fr 2fr 1.5fr;
+  padding: var(--spacing-md);
+  border-bottom: 1px solid var(--border-color);
+  transition: background-color var(--transition-fast);
+}
+
+.entryRow:last-child {
+  border-bottom: none;
+}
+
+.entryRow:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.rank {
+  font-weight: 600;
+  color: var(--accent-color);
+  display: flex;
+  align-items: center;
+  padding: var(--spacing-sm);
+}
+
+.username {
+  font-weight: 500;
+  padding: var(--spacing-sm);
+  display: flex;
+  align-items: center;
+}
+
+.score {
+  font-weight: 600;
+  color: var(--highlight-color);
+  display: flex;
+  align-items: center;
+  padding: var(--spacing-sm);
+}
+
+.prediction {
+  padding: var(--spacing-sm);
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+}
+
+.actual {
+  font-size: var(--font-size-sm);
+  color: var(--text-color-secondary);
+  margin-top: var(--spacing-xs);
+}
+
+.overall {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-sm);
+}
+
+.overallRank {
+  font-weight: 600;
+  min-width: 30px;
+}
+
+.rankChange {
+  font-size: 14px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.improved {
+  color: #4CAF50;
+}
+
+.dropped {
+  color: #f44336;
+}
+
+.overallPoints {
+  font-size: 14px;
+  color: var(--text-color-secondary);
+  margin-left: auto;
 } 

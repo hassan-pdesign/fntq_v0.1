@@ -1,0 +1,56 @@
+.tableContainer {
+  width: 100%;
+  border-radius: 8px;
+  background-color: #1a1a1a;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.headerInfo {
+  padding: 10px 15px;
+  background-color: #222;
+  border-bottom: 1px solid #333;
+}
+
+.matchInfo {
+  font-size: 0.9rem;
+  color: #ccc;
+  text-align: right;
+  font-weight: 500;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 50px 2fr 1fr 1fr 80px;
+  padding: 12px 15px;
+  background-color: #2a2a2a;
+  border-bottom: 1px solid #333;
+  font-weight: bold;
+}
+
+.rankHeader,
+.userHeader,
+.scoreHeader,
+.matchesHeader,
+.changeHeader {
+  color: #fff;
+  text-align: left;
+}
+
+.scoreHeader,
+.matchesHeader,
+.changeHeader {
+  text-align: center;
+}
+
+.entriesContainer {
+  max-height: 500px;
+  overflow-y: auto;
+}
+
+.loading,
+.emptyState {
+  padding: 30px;
+  text-align: center;
+  color: #999;
+} 
