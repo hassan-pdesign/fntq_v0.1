@@ -12,6 +12,9 @@ interface OverallLeaderboardSectionProps {
 const getEntries = (overallData: any): OverallLeaderboardEntry[] => {
   return Object.entries(overallData).map(([name, data]: [string, any]) => ({
     name,
+    username: name,
+    rank: data.overall_rank,
+    totalScore: data.cumulative_points,
     matchesPlayed: data.matches_played,
     cumulativePoints: data.cumulative_points,
     average: data.average,

@@ -28,7 +28,7 @@ export function useOverallLeaderboard(matchNumber?: number) {
           const matchData = await response.json();
           
           // Transform match data format to match OverallLeaderboardEntry
-          data = Object.entries(matchData).map(([username, info]: [string, any], index) => ({
+          data = Object.entries(matchData).map(([username, info]: [string, any]) => ({
             rank: info.overall_rank,
             username,
             totalScore: info.cumulative_points,

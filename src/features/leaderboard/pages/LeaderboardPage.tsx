@@ -1,51 +1,12 @@
 import { useState, useEffect } from 'react'
-import { motion } from 'framer-motion'
 import { useLocation, useNavigate } from 'react-router-dom'
-import type { LeaderboardEntry } from '../../../types/leaderboard'
 import { MatchHeader } from '../../shared/components/MatchHeader'
-import { LeaderboardEntry as LeaderboardEntryComponent } from '../../../components/LeaderboardEntry'
-import teamAcronyms from '../../../../data/team_acronyms.json'
-import { getMatchDetails } from '../../../utils/fixtureUtils'
 import styles from './LeaderboardPage.module.css'
 import { Match } from '../../../types/match'
 import { useLeaderboardData } from '../hooks/useLeaderboardData'
 import { LeaderboardCardList } from '../components/LeaderboardCardList'
 import { LoadingState } from '../../shared/components/LoadingState'
 import { EmptyState } from '../../shared/components/EmptyState'
-
-const ENTRIES_PER_PAGE = 15
-
-// Define Match interface to match the one from FixturesPage
-interface MatchInfo {
-  matchNumber: number;
-  team1: string;
-  team2: string;
-  venue: string;
-  date: string;
-  time: string;
-  separator?: string; // Add optional separator prop
-}
-
-// Add interface for raw match data to provide proper typing
-interface MatchData {
-  match_number: string;
-  teams: {
-    team1: string;
-    team2: string;
-  };
-  participant_scores: Array<{
-    rank: number;
-    name: string;
-    rounded_off_total_points: number;
-    overall_points: number;
-    overall_rank: number;
-    overall_rank_change: string;
-    players: Array<{
-      player: string;
-      is_captain: boolean;
-    }>;
-  }>;
-}
 
 // Helper function to format date as "Mon, April 21"
 function formatDate(dateString: string): string {

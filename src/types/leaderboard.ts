@@ -15,6 +15,13 @@ export interface OverallLeaderboardEntry {
   totalScore: number
   matchesPlayed: number
   previousRank?: number
+  name?: string
+  cumulativePoints?: number
+  average?: number
+  wins?: number
+  podiums?: number
+  overallRank?: number
+  overallRankChange?: string
 }
 
 export interface LeaderboardEntry {

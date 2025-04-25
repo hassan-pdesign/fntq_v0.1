@@ -13,7 +13,7 @@ export function OverallLeaderboardCard({ entry }: OverallLeaderboardCardProps) {
     const change = entry.previousRank - entry.rank
     
     if (change === 0) {
-      return <span className={styles.neutral}>-</span>
+      return <span className={styles.neutral}>↔</span>
     } else if (change > 0) {
       return <span className={styles.improved}>↑{change}</span>
     } else {

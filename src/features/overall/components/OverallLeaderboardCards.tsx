@@ -10,7 +10,7 @@ interface OverallLeaderboardCardsProps {
   matchNumber?: number
 }
 
-export function OverallLeaderboardCards({ entries, loading, matchNumber }: OverallLeaderboardCardsProps) {
+export function OverallLeaderboardCards({ entries, loading }: OverallLeaderboardCardsProps) {
   const [sortedEntries, setSortedEntries] = useState<OverallLeaderboardEntry[]>([])
   
   useEffect(() => {

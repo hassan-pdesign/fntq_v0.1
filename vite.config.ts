@@ -10,7 +10,7 @@ function apiRoutes(): Plugin {
     name: 'api-routes',
     configureServer(server) {
       // Serve match data through API endpoint
-      server.middlewares.use('/api/matches', (req, res) => {
+      server.middlewares.use('/api/matches', (_, res) => {
         try {
           const matchResults = [];
           // Read all match result files

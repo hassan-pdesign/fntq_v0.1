@@ -1,5 +1,3 @@
-import { motion } from 'framer-motion'
-import type { LeaderboardEntry as LeaderboardEntryType } from '../../../types/leaderboard'
 import styles from './LeaderboardEntry.module.css'
 
 interface LeaderboardDataEntry {

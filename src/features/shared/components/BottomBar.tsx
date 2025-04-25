@@ -1,18 +1,10 @@
-import { useState } from 'react'
 import { useNavigate, useLocation } from 'react-router-dom'
 
 export function BottomBar() {
   const navigate = useNavigate()
   const location = useLocation()
-  const [activeTab, setActiveTab] = useState(() => {
-    const path = location.pathname
-    if (path === '/overall') return 'overall'
-    if (path === '/fixtures') return 'fixtures'
-    return 'fixtures'
-  })
 
   const handleTabClick = (tab: string) => {
-    setActiveTab(tab)
     switch (tab) {
       case 'overall':
         navigate('/overall')

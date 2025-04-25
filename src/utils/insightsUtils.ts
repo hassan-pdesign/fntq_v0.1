@@ -1,5 +1,3 @@
-import { Match } from '../types/match';
-
 interface MatchResult {
   match_number: number;
   match_title: string;
@@ -27,18 +25,6 @@ interface PlayerScore {
   is_captain?: boolean;
   points: number;
   effective_points: number;
-}
-
-interface CumulativeStats {
-  [participant: string]: {
-    matches_played: number;
-    cumulative_points: number;
-    average: number;
-    wins: number;
-    podiums: number;
-    overall_rank: number;
-    overall_rank_change: string;
-  };
 }
 
 interface Insight {

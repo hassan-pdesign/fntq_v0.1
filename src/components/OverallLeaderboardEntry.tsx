@@ -9,12 +9,13 @@ interface OverallLeaderboardEntryProps {
 
 export function OverallLeaderboardEntry({ entry, index }: OverallLeaderboardEntryProps) {
   const getRankChangeClass = () => {
+    if (!entry.overallRankChange) return styles['rank-same']
     if (entry.overallRankChange.startsWith('↑')) return styles['rank-up']
     if (entry.overallRankChange.startsWith('↓')) return styles['rank-down']
     return styles['rank-same']
   }
 
-  const displayRankChange = entry.overallRankChange === '-' ? '↔' : entry.overallRankChange
+  const displayRankChange = !entry.overallRankChange || entry.overallRankChange === '-' ? '↔' : entry.overallRankChange
 
   return (
     <motion.div 
