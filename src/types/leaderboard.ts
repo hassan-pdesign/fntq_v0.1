@@ -9,4 +9,15 @@ export interface LeaderboardEntry {
     player1: string
     player2: string
   }
+}
+
+export interface OverallLeaderboardEntry {
+  name: string
+  matchesPlayed: number
+  cumulativePoints: number
+  average: number
+  wins: number
+  podiums: number
+  overallRank: number
+  overallRankChange: string
 } 

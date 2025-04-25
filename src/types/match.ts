@@ -7,4 +7,5 @@ export interface Match {
   city: string
   is_completed: boolean
   season: string
+  result?: string  // Optional result field to store match outcome
 } 

@@ -1,7 +1,14 @@
 .leaderboard-page {
-  max-width: 800px;
-  margin: 2rem auto;
-  padding: 0 1rem;
+  max-width: 100%;
+  margin: 2rem auto 0;
+  padding: 0 1rem 80px; /* Add bottom padding equal to bottom bar height */
+  display: flex;
+  flex-direction: column;
+  height: auto; /* Use auto height to hug content */
+}
+
+.match-leaderboard {
+  margin-bottom: 0; /* Remove bottom margin */
 }
 
 .leaderboard-entries {
@@ -47,6 +54,19 @@
 .page-indicator {
   color: rgba(255, 255, 255, 0.8);
   font-size: 0.9rem;
+}
+
+.loading {
+  padding: 40px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 16px;
+}
+
+.no-data {
+  padding: 30px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.7);
 }
 
 @media (max-width: 768px) {

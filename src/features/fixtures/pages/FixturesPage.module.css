@@ -1,0 +1,10 @@
+.fixtures-container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 40px 24px 80px 24px; /* Add bottom padding equal to bottom bar height */
+  display: flex;
+  flex-direction: column;
+  height: auto; /* Use auto height to hug content */
+}
+
+/* Removed media query for mobile devices that was applying scaling */ 

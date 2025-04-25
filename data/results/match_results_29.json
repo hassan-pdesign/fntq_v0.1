@@ -1,0 +1,388 @@
+{
+  "match_number": 29,
+  "match_title": "Mumbai Indians v Delhi Capitals - April 13, 2025",
+  "teams": {
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Capitals",
+    "winner": "Mumbai Indians"
+  },
+  "participant_scores": [
+    {
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Karn Sharma",
+          "is_captain": true,
+          "points": 95.69,
+          "effective_points": 191.38
+        },
+        {
+          "player": "Ashwani Kumar",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Karun Nair",
+          "is_captain": false,
+          "points": 102.97,
+          "effective_points": 102.97
+        }
+      ],
+      "total_points": 294,
+      "rounded_off_total_points": 294,
+      "rank": 1,
+      "overall_points": 2085,
+      "overall_rank": 11,
+      "overall_rank_change": "↑2"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "KL Rahul",
+          "is_captain": true,
+          "points": 1.89,
+          "effective_points": 3.78
+        },
+        {
+          "player": "Vipraj Nigam",
+          "is_captain": false,
+          "points": 63.35,
+          "effective_points": 63.35
+        },
+        {
+          "player": "Tilak Varma",
+          "is_captain": false,
+          "points": 55.32,
+          "effective_points": 55.32
+        }
+      ],
+      "total_points": 122,
+      "rounded_off_total_points": 122,
+      "rank": 2,
+      "overall_points": 3449,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": -1.82,
+          "effective_points": -3.64
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 1.89,
+          "effective_points": 1.89
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "is_captain": false,
+          "points": 74.95,
+          "effective_points": 74.95
+        }
+      ],
+      "total_points": 73,
+      "rounded_off_total_points": 73,
+      "rank": 3,
+      "overall_points": 4122,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "KL Rahul",
+          "is_captain": true,
+          "points": 1.89,
+          "effective_points": 3.78
+        },
+        {
+          "player": "Rohit Sharma",
+          "is_captain": false,
+          "points": 14.72,
+          "effective_points": 14.72
+        },
+        {
+          "player": "Ryan Rickelton",
+          "is_captain": false,
+          "points": 38.66,
+          "effective_points": 38.66
+        }
+      ],
+      "total_points": 57,
+      "rounded_off_total_points": 57,
+      "rank": 4,
+      "overall_points": 3025,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "KL Rahul",
+          "is_captain": true,
+          "points": 1.89,
+          "effective_points": 3.78
+        },
+        {
+          "player": "Axar Patel",
+          "is_captain": false,
+          "points": 11.29,
+          "effective_points": 11.29
+        },
+        {
+          "player": "Ryan Rickelton",
+          "is_captain": false,
+          "points": 38.66,
+          "effective_points": 38.66
+        }
+      ],
+      "total_points": 54,
+      "rounded_off_total_points": 54,
+      "rank": 5,
+      "overall_points": 1880,
+      "overall_rank": 13,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Jake Fraser-McGurk",
+          "is_captain": true,
+          "points": -2.84,
+          "effective_points": -5.68
+        },
+        {
+          "player": "Tilak Varma",
+          "is_captain": false,
+          "points": 55.32,
+          "effective_points": 55.32
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 1.89,
+          "effective_points": 1.89
+        }
+      ],
+      "total_points": 52,
+      "rounded_off_total_points": 52,
+      "rank": 6,
+      "overall_points": 2635,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Rohit Sharma",
+          "is_captain": true,
+          "points": 14.72,
+          "effective_points": 29.44
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": -1.82,
+          "effective_points": -1.82
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 1.89,
+          "effective_points": 1.89
+        }
+      ],
+      "total_points": 30,
+      "rounded_off_total_points": 30,
+      "rank": 7,
+      "overall_points": 2792,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": -1.82,
+          "effective_points": -3.64
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 24.1,
+          "effective_points": 24.1
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 1.89,
+          "effective_points": 1.89
+        }
+      ],
+      "total_points": 22,
+      "rounded_off_total_points": 22,
+      "rank": 8,
+      "overall_points": 2020,
+      "overall_rank": 12,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": -1.82,
+          "effective_points": -3.64
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 24.1,
+          "effective_points": 24.1
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 1.89,
+          "effective_points": 1.89
+        }
+      ],
+      "total_points": 22,
+      "rounded_off_total_points": 22,
+      "rank": 8,
+      "overall_points": 3684,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": -1.82,
+          "effective_points": -3.64
+        },
+        {
+          "player": "Jake Fraser-McGurk",
+          "is_captain": false,
+          "points": -2.84,
+          "effective_points": -2.84
+        },
+        {
+          "player": "Jasprit Bumrah",
+          "is_captain": false,
+          "points": 26.31,
+          "effective_points": 26.31
+        }
+      ],
+      "total_points": 20,
+      "rounded_off_total_points": 20,
+      "rank": 10,
+      "overall_points": 3564,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": -1.82,
+          "effective_points": -3.64
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 1.89,
+          "effective_points": 1.89
+        },
+        {
+          "player": "Axar Patel",
+          "is_captain": false,
+          "points": 11.29,
+          "effective_points": 11.29
+        }
+      ],
+      "total_points": 10,
+      "rounded_off_total_points": 10,
+      "rank": 11,
+      "overall_points": 2813,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Mitchell Starc",
+          "is_captain": true,
+          "points": -9.92,
+          "effective_points": -19.84
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 1.89,
+          "effective_points": 1.89
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 24.1,
+          "effective_points": 24.1
+        }
+      ],
+      "total_points": 6,
+      "rounded_off_total_points": 6,
+      "rank": 12,
+      "overall_points": 3203,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "KL Rahul",
+          "is_captain": true,
+          "points": 1.89,
+          "effective_points": 3.78
+        },
+        {
+          "player": "Jake Fraser-McGurk",
+          "is_captain": false,
+          "points": -2.84,
+          "effective_points": -2.84
+        },
+        {
+          "player": "Will Jacks",
+          "is_captain": false,
+          "points": -0.65,
+          "effective_points": -0.65
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 13,
+      "overall_points": 3467,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "match_number": 15,
+  "match_title": "Kolkata Knight Riders v Sunrisers Hyderabad - April 03, 2025",
+  "teams": {
+    "team1": "Kolkata Knight Riders",
+    "team2": "Sunrisers Hyderabad",
+    "winner": "Kolkata Knight Riders"
+  },
+  "participant_scores": [
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Venkatesh Iyer",
+          "is_captain": true,
+          "points": 85.21,
+          "effective_points": 170.42
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": -8.28,
+          "effective_points": -8.28
+        },
+        {
+          "player": "Nitish Kumar Reddy",
+          "is_captain": false,
+          "points": 19.32,
+          "effective_points": 19.32
+        }
+      ],
+      "total_points": 181,
+      "rounded_off_total_points": 181,
+      "rank": 1,
+      "overall_points": 704,
+      "overall_rank": 13,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Venkatesh Iyer",
+          "is_captain": true,
+          "points": 85.21,
+          "effective_points": 170.42
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": -8.28,
+          "effective_points": -8.28
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": false,
+          "points": 15.14,
+          "effective_points": 15.14
+        }
+      ],
+      "total_points": 177,
+      "rounded_off_total_points": 177,
+      "rank": 2,
+      "overall_points": 1477,
+      "overall_rank": 6,
+      "overall_rank_change": "↑2"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": true,
+          "points": 27.8,
+          "effective_points": 55.6
+        },
+        {
+          "player": "Ishan Kishan",
+          "is_captain": false,
+          "points": -5.89,
+          "effective_points": -5.89
+        },
+        {
+          "player": "Venkatesh Iyer",
+          "is_captain": false,
+          "points": 85.21,
+          "effective_points": 85.21
+        }
+      ],
+      "total_points": 135,
+      "rounded_off_total_points": 135,
+      "rank": 3,
+      "overall_points": 1379,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Ishan Kishan",
+          "is_captain": true,
+          "points": -5.89,
+          "effective_points": -11.78
+        },
+        {
+          "player": "Venkatesh Iyer",
+          "is_captain": false,
+          "points": 85.21,
+          "effective_points": 85.21
+        },
+        {
+          "player": "Rinku Singh",
+          "is_captain": false,
+          "points": 44.73,
+          "effective_points": 44.73
+        }
+      ],
+      "total_points": 118,
+      "rounded_off_total_points": 118,
+      "rank": 4,
+      "overall_points": 1481,
+      "overall_rank": 5,
+      "overall_rank_change": "↑2"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": true,
+          "points": 27.8,
+          "effective_points": 55.6
+        },
+        {
+          "player": "Ishan Kishan",
+          "is_captain": false,
+          "points": -5.89,
+          "effective_points": -5.89
+        },
+        {
+          "player": "Quinton de Kock",
+          "is_captain": false,
+          "points": -9.4,
+          "effective_points": -9.4
+        }
+      ],
+      "total_points": 40,
+      "rounded_off_total_points": 40,
+      "rank": 5,
+      "overall_points": 1809,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Travis Head",
+          "is_captain": true,
+          "points": 5.87,
+          "effective_points": 11.74
+        },
+        {
+          "player": "Moeen Ali",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 26.03,
+          "effective_points": 26.03
+        }
+      ],
+      "total_points": 38,
+      "rounded_off_total_points": 38,
+      "rank": 6,
+      "overall_points": 1722,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Moeen Ali",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": false,
+          "points": 27.8,
+          "effective_points": 27.8
+        },
+        {
+          "player": "Travis Head",
+          "is_captain": false,
+          "points": 5.87,
+          "effective_points": 5.87
+        }
+      ],
+      "total_points": 34,
+      "rounded_off_total_points": 34,
+      "rank": 7,
+      "overall_points": 1694,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 15.14,
+          "effective_points": 30.28
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": -8.28,
+          "effective_points": -8.28
+        },
+        {
+          "player": "Moeen Ali",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 22,
+      "rounded_off_total_points": 22,
+      "rank": 8,
+      "overall_points": 1465,
+      "overall_rank": 8,
+      "overall_rank_change": "↓2"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Travis Head",
+          "is_captain": true,
+          "points": 5.87,
+          "effective_points": 11.74
+        },
+        {
+          "player": "Moeen Ali",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Andre Russell",
+          "is_captain": false,
+          "points": 7.97,
+          "effective_points": 7.97
+        }
+      ],
+      "total_points": 20,
+      "rounded_off_total_points": 20,
+      "rank": 9,
+      "overall_points": 1548,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 15.14,
+          "effective_points": 30.28
+        },
+        {
+          "player": "Ishan Kishan",
+          "is_captain": false,
+          "points": -5.89,
+          "effective_points": -5.89
+        },
+        {
+          "player": "Quinton de Kock",
+          "is_captain": false,
+          "points": -9.4,
+          "effective_points": -9.4
+        }
+      ],
+      "total_points": 15,
+      "rounded_off_total_points": 15,
+      "rank": 10,
+      "overall_points": 1475,
+      "overall_rank": 7,
+      "overall_rank_change": "↓2"
+    },
+    {
+      "name": "Utkarsh",
+      "players": [
+        {
+          "player": "Quinton de Kock",
+          "is_captain": true,
+          "points": -9.4,
+          "effective_points": -18.8
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": -8.28,
+          "effective_points": -8.28
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 26.03,
+          "effective_points": 26.03
+        }
+      ],
+      "total_points": -1,
+      "rounded_off_total_points": -1,
+      "rank": 11,
+      "overall_points": 599,
+      "overall_rank": 14,
+      "overall_rank_change": "↓1"
+    }
+  ]
+}

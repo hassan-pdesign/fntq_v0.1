@@ -1,0 +1,330 @@
+{
+  "match_number": 38,
+  "match_title": "Mumbai Indians v Chennai Super Kings - April 20, 2025",
+  "teams": {
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings",
+    "winner": "Mumbai Indians"
+  },
+  "participant_scores": [
+    {
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Jasprit Bumrah",
+          "is_captain": true,
+          "points": 58.65,
+          "effective_points": 117.3
+        },
+        {
+          "player": "Shivam Dube",
+          "is_captain": false,
+          "points": 29.45,
+          "effective_points": 29.45
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 67.47,
+          "effective_points": 67.47
+        }
+      ],
+      "total_points": 214,
+      "rounded_off_total_points": 214,
+      "rank": 1,
+      "overall_points": 2801,
+      "overall_rank": 9,
+      "overall_rank_change": "↑3"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 67.47,
+          "effective_points": 67.47
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": 11.24,
+          "effective_points": 22.48
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": -0.5,
+          "effective_points": -0.5
+        }
+      ],
+      "total_points": 89,
+      "rounded_off_total_points": 89,
+      "rank": 2,
+      "overall_points": 2733,
+      "overall_rank": 11,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": true,
+          "points": 34.73,
+          "effective_points": 69.46
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": 11.24,
+          "effective_points": 11.24
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": -0.5,
+          "effective_points": -0.5
+        }
+      ],
+      "total_points": 80,
+      "rounded_off_total_points": 80,
+      "rank": 3,
+      "overall_points": 5094,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": false,
+          "points": 34.73,
+          "effective_points": 34.73
+        },
+        {
+          "player": "Will Jacks",
+          "is_captain": false,
+          "points": 7.95,
+          "effective_points": 7.95
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": 11.24,
+          "effective_points": 22.48
+        }
+      ],
+      "total_points": 65,
+      "rounded_off_total_points": 65,
+      "rank": 4,
+      "overall_points": 4075,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Will Jacks",
+          "is_captain": false,
+          "points": 7.95,
+          "effective_points": 7.95
+        },
+        {
+          "player": "Tilak Varma",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": 11.24,
+          "effective_points": 22.48
+        }
+      ],
+      "total_points": 30,
+      "rounded_off_total_points": 30,
+      "rank": 5,
+      "overall_points": 2355,
+      "overall_rank": 13,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": 11.24,
+          "effective_points": 11.24
+        },
+        {
+          "player": "Will Jacks",
+          "is_captain": true,
+          "points": 7.95,
+          "effective_points": 15.9
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": -0.5,
+          "effective_points": -0.5
+        }
+      ],
+      "total_points": 27,
+      "rounded_off_total_points": 27,
+      "rank": 6,
+      "overall_points": 4077,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Will Jacks",
+          "is_captain": true,
+          "points": 7.95,
+          "effective_points": 15.9
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": 11.24,
+          "effective_points": 11.24
+        },
+        {
+          "player": "Khaleel Ahmed",
+          "is_captain": false,
+          "points": -1.95,
+          "effective_points": -1.95
+        }
+      ],
+      "total_points": 25,
+      "rounded_off_total_points": 25,
+      "rank": 7,
+      "overall_points": 3445,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Rachin Ravindra",
+          "is_captain": true,
+          "points": -12.81,
+          "effective_points": -25.62
+        },
+        {
+          "player": "Jasprit Bumrah",
+          "is_captain": false,
+          "points": 58.65,
+          "effective_points": 58.65
+        },
+        {
+          "player": "MS Dhoni",
+          "is_captain": false,
+          "points": -10.74,
+          "effective_points": -10.74
+        }
+      ],
+      "total_points": 22,
+      "rounded_off_total_points": 22,
+      "rank": 8,
+      "overall_points": 4161,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Ryan Rickelton",
+          "is_captain": false,
+          "points": 13.49,
+          "effective_points": 13.49
+        },
+        {
+          "player": "Rachin Ravindra",
+          "is_captain": true,
+          "points": -12.81,
+          "effective_points": -25.62
+        },
+        {
+          "player": "Shivam Dube",
+          "is_captain": false,
+          "points": 29.45,
+          "effective_points": 29.45
+        }
+      ],
+      "total_points": 17,
+      "rounded_off_total_points": 17,
+      "rank": 9,
+      "overall_points": 3602,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": 11.24,
+          "effective_points": 22.48
+        },
+        {
+          "player": "Tilak Varma",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Rachin Ravindra",
+          "is_captain": false,
+          "points": -12.81,
+          "effective_points": -12.81
+        }
+      ],
+      "total_points": 10,
+      "rounded_off_total_points": 10,
+      "rank": 10,
+      "overall_points": 3892,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Rachin Ravindra",
+          "is_captain": false,
+          "points": -12.81,
+          "effective_points": -12.81
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": 11.24,
+          "effective_points": 22.48
+        },
+        {
+          "player": "Khaleel Ahmed",
+          "is_captain": false,
+          "points": -1.95,
+          "effective_points": -1.95
+        }
+      ],
+      "total_points": 8,
+      "rounded_off_total_points": 8,
+      "rank": 11,
+      "overall_points": 3932,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    }
+  ]
+}

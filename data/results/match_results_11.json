@@ -37,7 +37,7 @@
       "overall_rank_change": "↑5"
     },
     {
-      "name": "Deepak Dubai",
+      "name": "Dubai Deepak",
       "players": [
         {
           "player": "Ruturaj Gaikwad",
@@ -66,6 +66,35 @@
       "overall_rank_change": "-"
     },
     {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Ruturaj Gaikwad",
+          "is_captain": true,
+          "points": 63.48,
+          "effective_points": 126.96
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": 65.44,
+          "effective_points": 65.44
+        },
+        {
+          "player": "Phil Salt",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 192,
+      "rounded_off_total_points": 192,
+      "rank": 3,
+      "overall_points": 1515,
+      "overall_rank": 1,
+      "overall_rank_change": "↑2"
+    },
+    {
       "name": "KV",
       "players": [
         {
@@ -89,10 +118,10 @@
       ],
       "total_points": 136,
       "rounded_off_total_points": 136,
-      "rank": 3,
+      "rank": 4,
       "overall_points": 1362,
-      "overall_rank": 3,
-      "overall_rank_change": "↑1"
+      "overall_rank": 4,
+      "overall_rank_change": "-"
     },
     {
       "name": "Ducati Deepak",
@@ -118,7 +147,7 @@
       ],
       "total_points": 132,
       "rounded_off_total_points": 132,
-      "rank": 4,
+      "rank": 5,
       "overall_points": 782,
       "overall_rank": 11,
       "overall_rank_change": "-"
@@ -147,7 +176,7 @@
       ],
       "total_points": 132,
       "rounded_off_total_points": 132,
-      "rank": 4,
+      "rank": 5,
       "overall_points": 613,
       "overall_rank": 12,
       "overall_rank_change": "↑1"
@@ -176,10 +205,10 @@
       ],
       "total_points": 114,
       "rounded_off_total_points": 114,
-      "rank": 6,
+      "rank": 7,
       "overall_points": 1495,
-      "overall_rank": 1,
-      "overall_rank_change": "↑1"
+      "overall_rank": 2,
+      "overall_rank_change": "-"
     },
     {
       "name": "Joshua",
@@ -205,7 +234,7 @@
       ],
       "total_points": 108,
       "rounded_off_total_points": 108,
-      "rank": 7,
+      "rank": 8,
       "overall_points": 1084,
       "overall_rank": 8,
       "overall_rank_change": "↑1"
@@ -234,7 +263,7 @@
       ],
       "total_points": 65,
       "rounded_off_total_points": 65,
-      "rank": 8,
+      "rank": 9,
       "overall_points": 1250,
       "overall_rank": 6,
       "overall_rank_change": "↓1"
@@ -263,7 +292,7 @@
       ],
       "total_points": 50,
       "rounded_off_total_points": 50,
-      "rank": 9,
+      "rank": 10,
       "overall_points": 324,
       "overall_rank": 14,
       "overall_rank_change": "-"
@@ -292,7 +321,7 @@
       ],
       "total_points": 20,
       "rounded_off_total_points": 20,
-      "rank": 10,
+      "rank": 11,
       "overall_points": 1176,
       "overall_rank": 7,
       "overall_rank_change": "↓1"
@@ -321,7 +350,7 @@
       ],
       "total_points": 10,
       "rounded_off_total_points": 10,
-      "rank": 11,
+      "rank": 12,
       "overall_points": 986,
       "overall_rank": 10,
       "overall_rank_change": "↓2"
@@ -350,7 +379,7 @@
       ],
       "total_points": -2,
       "rounded_off_total_points": -2,
-      "rank": 12,
+      "rank": 13,
       "overall_points": 587,
       "overall_rank": 13,
       "overall_rank_change": "↓1"

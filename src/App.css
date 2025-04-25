@@ -1,1 +1,16 @@
 /* App styles moved to index.css */
+
+.app-container {
+  background-color: var(--background);
+  height: 100%;
+  width: 100%;
+  max-width: 430px; /* Standard mobile width */
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+
+.main-content {
+  padding-bottom: 80px; /* Space for bottom bar */
+}
+
+/* Bottom bar styles will be inherited from index.css */

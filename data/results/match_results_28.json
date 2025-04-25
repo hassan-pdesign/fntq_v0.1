@@ -1,0 +1,359 @@
+{
+  "match_number": 28,
+  "match_title": "Rajasthan Royals v Royal Challengers Bengaluru - April 13, 2025",
+  "teams": {
+    "team1": "Rajasthan Royals",
+    "team2": "Royal Challengers Bengaluru",
+    "winner": "Royal Challengers Bengaluru"
+  },
+  "participant_scores": [
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 83.73,
+          "effective_points": 83.73
+        },
+        {
+          "player": "Phil Salt",
+          "is_captain": true,
+          "points": 93.49,
+          "effective_points": 186.98
+        },
+        {
+          "player": "Suyash Sharma",
+          "is_captain": false,
+          "points": 6.2,
+          "effective_points": 6.2
+        }
+      ],
+      "total_points": 277,
+      "rounded_off_total_points": 277,
+      "rank": 1,
+      "overall_points": 3544,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": true,
+          "points": 83.73,
+          "effective_points": 167.46
+        },
+        {
+          "player": "Krunal Pandya",
+          "is_captain": false,
+          "points": 37.19,
+          "effective_points": 37.19
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 45.74,
+          "effective_points": 45.74
+        }
+      ],
+      "total_points": 250,
+      "rounded_off_total_points": 250,
+      "rank": 2,
+      "overall_points": 4049,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Rajat Patidar",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Phil Salt",
+          "is_captain": true,
+          "points": 93.49,
+          "effective_points": 186.98
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 45.74,
+          "effective_points": 45.74
+        }
+      ],
+      "total_points": 233,
+      "rounded_off_total_points": 233,
+      "rank": 3,
+      "overall_points": 3467,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 83.73,
+          "effective_points": 83.73
+        },
+        {
+          "player": "Riyan Parag",
+          "is_captain": false,
+          "points": 25.29,
+          "effective_points": 25.29
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 45.74,
+          "effective_points": 91.48
+        }
+      ],
+      "total_points": 200,
+      "rounded_off_total_points": 200,
+      "rank": 4,
+      "overall_points": 3662,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Phil Salt",
+          "is_captain": true,
+          "points": 93.49,
+          "effective_points": 186.98
+        },
+        {
+          "player": "Jitesh Sharma",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Nitish Rana",
+          "is_captain": false,
+          "points": 8.43,
+          "effective_points": 8.43
+        }
+      ],
+      "total_points": 195,
+      "rounded_off_total_points": 195,
+      "rank": 5,
+      "overall_points": 3327,
+      "overall_rank": 5,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": true,
+          "points": 83.73,
+          "effective_points": 167.46
+        },
+        {
+          "player": "Rajat Patidar",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Wanindu Hasaranga",
+          "is_captain": false,
+          "points": -0.73,
+          "effective_points": -0.73
+        }
+      ],
+      "total_points": 167,
+      "rounded_off_total_points": 167,
+      "rank": 6,
+      "overall_points": 2762,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 45.74,
+          "effective_points": 91.48
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 83.73,
+          "effective_points": 83.73
+        },
+        {
+          "player": "Sanju Samson",
+          "is_captain": false,
+          "points": -10.84,
+          "effective_points": -10.84
+        }
+      ],
+      "total_points": 164,
+      "rounded_off_total_points": 164,
+      "rank": 7,
+      "overall_points": 2803,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Sanju Samson",
+          "is_captain": true,
+          "points": -10.84,
+          "effective_points": -21.68
+        },
+        {
+          "player": "Nitish Rana",
+          "is_captain": false,
+          "points": 8.43,
+          "effective_points": 8.43
+        },
+        {
+          "player": "Phil Salt",
+          "is_captain": false,
+          "points": 93.49,
+          "effective_points": 93.49
+        }
+      ],
+      "total_points": 80,
+      "rounded_off_total_points": 80,
+      "rank": 8,
+      "overall_points": 2583,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Sanju Samson",
+          "is_captain": true,
+          "points": -10.84,
+          "effective_points": -21.68
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 83.73,
+          "effective_points": 83.73
+        },
+        {
+          "player": "Rajat Patidar",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 62,
+      "rounded_off_total_points": 62,
+      "rank": 9,
+      "overall_points": 2968,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Sanju Samson",
+          "is_captain": true,
+          "points": -10.84,
+          "effective_points": -21.68
+        },
+        {
+          "player": "Shubham Dubey",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 45.74,
+          "effective_points": 45.74
+        }
+      ],
+      "total_points": 24,
+      "rounded_off_total_points": 24,
+      "rank": 10,
+      "overall_points": 1791,
+      "overall_rank": 13,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Sanju Samson",
+          "is_captain": true,
+          "points": -10.84,
+          "effective_points": -21.68
+        },
+        {
+          "player": "Jofra Archer",
+          "is_captain": false,
+          "points": 11.12,
+          "effective_points": 11.12
+        },
+        {
+          "player": "Bhuvneshwar Kumar",
+          "is_captain": false,
+          "points": 29.34,
+          "effective_points": 29.34
+        }
+      ],
+      "total_points": 19,
+      "rounded_off_total_points": 19,
+      "rank": 11,
+      "overall_points": 3197,
+      "overall_rank": 6,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Sanju Samson",
+          "is_captain": false,
+          "points": -10.84,
+          "effective_points": -10.84
+        },
+        {
+          "player": "Rajat Patidar",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Maheesh Theekshana",
+          "is_captain": true,
+          "points": 0.31,
+          "effective_points": 0.62
+        }
+      ],
+      "total_points": -10,
+      "rounded_off_total_points": -10,
+      "rank": 12,
+      "overall_points": 1826,
+      "overall_rank": 12,
+      "overall_rank_change": "-"
+    }
+  ]
+}
