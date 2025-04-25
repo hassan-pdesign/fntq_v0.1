@@ -1,0 +1,214 @@
+{
+  "match_number": 10,
+  "match_title": "Delhi Capitals v Sunrisers Hyderabad - March 30, 2025",
+  "teams": {
+    "team1": "Delhi Capitals",
+    "team2": "Sunrisers Hyderabad",
+    "winner": "Delhi Capitals"
+  },
+  "participant_scores": [
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Travis Head",
+          "is_captain": true,
+          "points": 22.62,
+          "effective_points": 45.24
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "is_captain": false,
+          "points": 64.59,
+          "effective_points": 64.59
+        },
+        {
+          "player": "Faf du Plessis",
+          "is_captain": false,
+          "points": 62.31,
+          "effective_points": 62.31
+        }
+      ],
+      "total_points": 172,
+      "rounded_off_total_points": 172,
+      "rank": 1,
+      "overall_points": 1185,
+      "overall_rank": 5,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": true,
+          "points": 35.85,
+          "effective_points": 71.7
+        },
+        {
+          "player": "Travis Head",
+          "is_captain": false,
+          "points": 22.62,
+          "effective_points": 22.62
+        },
+        {
+          "player": "Faf du Plessis",
+          "is_captain": false,
+          "points": 62.31,
+          "effective_points": 62.31
+        }
+      ],
+      "total_points": 157,
+      "rounded_off_total_points": 157,
+      "rank": 2,
+      "overall_points": 1156,
+      "overall_rank": 6,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Travis Head",
+          "is_captain": true,
+          "points": 22.62,
+          "effective_points": 45.24
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 35.85,
+          "effective_points": 35.85
+        },
+        {
+          "player": "Jake Fraser-McGurk",
+          "is_captain": false,
+          "points": 20.74,
+          "effective_points": 20.74
+        }
+      ],
+      "total_points": 102,
+      "rounded_off_total_points": 102,
+      "rank": 3,
+      "overall_points": 1323,
+      "overall_rank": 3,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Vipraj Nigam",
+          "is_captain": true,
+          "points": -1.84,
+          "effective_points": -3.68
+        },
+        {
+          "player": "Mitchell Starc",
+          "is_captain": false,
+          "points": 110.51,
+          "effective_points": 110.51
+        },
+        {
+          "player": "Axar Patel",
+          "is_captain": false,
+          "points": -9.65,
+          "effective_points": -9.65
+        }
+      ],
+      "total_points": 97,
+      "rounded_off_total_points": 97,
+      "rank": 4,
+      "overall_points": 976,
+      "overall_rank": 9,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": true,
+          "points": 3.57,
+          "effective_points": 7.14
+        },
+        {
+          "player": "Ashutosh Sharma",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 35.85,
+          "effective_points": 35.85
+        }
+      ],
+      "total_points": 43,
+      "rounded_off_total_points": 43,
+      "rank": 5,
+      "overall_points": 481,
+      "overall_rank": 13,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Eshan Malinga",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Travis Head",
+          "is_captain": false,
+          "points": 22.62,
+          "effective_points": 22.62
+        },
+        {
+          "player": "Ishan Kishan",
+          "is_captain": false,
+          "points": -5.61,
+          "effective_points": -5.61
+        }
+      ],
+      "total_points": 17,
+      "rounded_off_total_points": 17,
+      "rank": 6,
+      "overall_points": 1052,
+      "overall_rank": 7,
+      "overall_rank_change": "↓2"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Travis Head",
+          "is_captain": false,
+          "points": 22.62,
+          "effective_points": 22.62
+        },
+        {
+          "player": "Pat Cummins",
+          "is_captain": true,
+          "points": -20.95,
+          "effective_points": -41.9
+        },
+        {
+          "player": "Jake Fraser-McGurk",
+          "is_captain": false,
+          "points": 20.74,
+          "effective_points": 20.74
+        }
+      ],
+      "total_points": 1,
+      "rounded_off_total_points": 1,
+      "rank": 7,
+      "overall_points": 1226,
+      "overall_rank": 4,
+      "overall_rank_change": "↓1"
+    }
+  ]
+}

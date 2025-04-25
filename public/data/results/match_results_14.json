@@ -1,0 +1,359 @@
+{
+  "match_number": 14,
+  "match_title": "Royal Challengers Bengaluru v Gujarat Titans - April 02, 2025",
+  "teams": {
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Gujarat Titans",
+    "winner": "Gujarat Titans"
+  },
+  "participant_scores": [
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": true,
+          "points": 38.95,
+          "effective_points": 77.9
+        },
+        {
+          "player": "Devdutt Padikkal",
+          "is_captain": false,
+          "points": 3.84,
+          "effective_points": 3.84
+        },
+        {
+          "player": "Jos Buttler",
+          "is_captain": false,
+          "points": 90.36,
+          "effective_points": 90.36
+        }
+      ],
+      "total_points": 172,
+      "rounded_off_total_points": 172,
+      "rank": 1,
+      "overall_points": 1363,
+      "overall_rank": 7,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Phil Salt",
+          "is_captain": true,
+          "points": 7.59,
+          "effective_points": 15.18
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 38.95,
+          "effective_points": 38.95
+        },
+        {
+          "player": "Jos Buttler",
+          "is_captain": false,
+          "points": 90.36,
+          "effective_points": 90.36
+        }
+      ],
+      "total_points": 144,
+      "rounded_off_total_points": 144,
+      "rank": 2,
+      "overall_points": 1064,
+      "overall_rank": 11,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Phil Salt",
+          "is_captain": true,
+          "points": 7.59,
+          "effective_points": 15.18
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 38.95,
+          "effective_points": 38.95
+        },
+        {
+          "player": "Jos Buttler",
+          "is_captain": false,
+          "points": 90.36,
+          "effective_points": 90.36
+        }
+      ],
+      "total_points": 144,
+      "rounded_off_total_points": 144,
+      "rank": 2,
+      "overall_points": 1528,
+      "overall_rank": 4,
+      "overall_rank_change": "↑2"
+    },
+    {
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 4.09,
+          "effective_points": 8.18
+        },
+        {
+          "player": "Shubman Gill",
+          "is_captain": false,
+          "points": 4.02,
+          "effective_points": 4.02
+        },
+        {
+          "player": "Mohammed Siraj",
+          "is_captain": false,
+          "points": 89.95,
+          "effective_points": 89.95
+        }
+      ],
+      "total_points": 102,
+      "rounded_off_total_points": 102,
+      "rank": 4,
+      "overall_points": 1213,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Phil Salt",
+          "is_captain": false,
+          "points": 7.59,
+          "effective_points": 7.59
+        },
+        {
+          "player": "Jos Buttler",
+          "is_captain": false,
+          "points": 90.36,
+          "effective_points": 90.36
+        },
+        {
+          "player": "Krunal Pandya",
+          "is_captain": true,
+          "points": -2.31,
+          "effective_points": -4.62
+        }
+      ],
+      "total_points": 93,
+      "rounded_off_total_points": 93,
+      "rank": 5,
+      "overall_points": 1244,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Devdutt Padikkal",
+          "is_captain": false,
+          "points": 3.84,
+          "effective_points": 3.84
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": true,
+          "points": 38.95,
+          "effective_points": 77.9
+        },
+        {
+          "player": "Krunal Pandya",
+          "is_captain": false,
+          "points": -2.31,
+          "effective_points": -2.31
+        }
+      ],
+      "total_points": 79,
+      "rounded_off_total_points": 79,
+      "rank": 6,
+      "overall_points": 1660,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Phil Salt",
+          "is_captain": true,
+          "points": 7.59,
+          "effective_points": 15.18
+        },
+        {
+          "player": "Liam Livingstone",
+          "is_captain": false,
+          "points": 50.34,
+          "effective_points": 50.34
+        },
+        {
+          "player": "Shubman Gill",
+          "is_captain": false,
+          "points": 4.02,
+          "effective_points": 4.02
+        }
+      ],
+      "total_points": 70,
+      "rounded_off_total_points": 70,
+      "rank": 7,
+      "overall_points": 523,
+      "overall_rank": 14,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Phil Salt",
+          "is_captain": false,
+          "points": 7.59,
+          "effective_points": 7.59
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": true,
+          "points": 38.95,
+          "effective_points": 77.9
+        },
+        {
+          "player": "Rashid Khan",
+          "is_captain": false,
+          "points": -17.93,
+          "effective_points": -17.93
+        }
+      ],
+      "total_points": 68,
+      "rounded_off_total_points": 68,
+      "rank": 8,
+      "overall_points": 1573,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Rajat Patidar",
+          "is_captain": true,
+          "points": 5.42,
+          "effective_points": 10.84
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 4.09,
+          "effective_points": 4.09
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 38.95,
+          "effective_points": 38.95
+        }
+      ],
+      "total_points": 54,
+      "rounded_off_total_points": 54,
+      "rank": 9,
+      "overall_points": 1443,
+      "overall_rank": 6,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 4.09,
+          "effective_points": 8.18
+        },
+        {
+          "player": "Josh Hazlewood",
+          "is_captain": false,
+          "points": 27.65,
+          "effective_points": 27.65
+        },
+        {
+          "player": "Shubman Gill",
+          "is_captain": false,
+          "points": 4.02,
+          "effective_points": 4.02
+        }
+      ],
+      "total_points": 40,
+      "rounded_off_total_points": 40,
+      "rank": 10,
+      "overall_points": 1300,
+      "overall_rank": 8,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 4.09,
+          "effective_points": 8.18
+        },
+        {
+          "player": "Yash Dayal",
+          "is_captain": false,
+          "points": 16.38,
+          "effective_points": 16.38
+        },
+        {
+          "player": "Shubman Gill",
+          "is_captain": false,
+          "points": 4.02,
+          "effective_points": 4.02
+        }
+      ],
+      "total_points": 29,
+      "rounded_off_total_points": 29,
+      "rank": 11,
+      "overall_points": 1460,
+      "overall_rank": 5,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Phil Salt",
+          "is_captain": true,
+          "points": 7.59,
+          "effective_points": 15.18
+        },
+        {
+          "player": "Shahrukh Khan",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Rajat Patidar",
+          "is_captain": false,
+          "points": 5.42,
+          "effective_points": 5.42
+        }
+      ],
+      "total_points": 21,
+      "rounded_off_total_points": 21,
+      "rank": 12,
+      "overall_points": 1684,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    }
+  ]
+}

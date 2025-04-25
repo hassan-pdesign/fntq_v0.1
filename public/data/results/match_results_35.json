@@ -1,0 +1,243 @@
+{
+  "match_number": 35,
+  "match_title": "Delhi Capitals v Gujarat Titans - April 19, 2025",
+  "teams": {
+    "team1": "Delhi Capitals",
+    "team2": "Gujarat Titans",
+    "winner": "Gujarat Titans"
+  },
+  "participant_scores": [
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "KL Rahul",
+          "is_captain": true,
+          "points": 34.12,
+          "effective_points": 68.24
+        },
+        {
+          "player": "Jos Buttler",
+          "is_captain": false,
+          "points": 104.06,
+          "effective_points": 104.06
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "is_captain": false,
+          "points": 66.43,
+          "effective_points": 66.43
+        }
+      ],
+      "total_points": 239,
+      "rounded_off_total_points": 239,
+      "rank": 1,
+      "overall_points": 4842,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 35.49,
+          "effective_points": 35.49
+        },
+        {
+          "player": "Prasidh Krishna",
+          "is_captain": false,
+          "points": 98.2,
+          "effective_points": 98.2
+        },
+        {
+          "player": "Karun Nair",
+          "is_captain": true,
+          "points": 31.0,
+          "effective_points": 62.0
+        }
+      ],
+      "total_points": 196,
+      "rounded_off_total_points": 196,
+      "rank": 2,
+      "overall_points": 3773,
+      "overall_rank": 5,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Shubman Gill",
+          "is_captain": false,
+          "points": 4.54,
+          "effective_points": 4.54
+        },
+        {
+          "player": "Jos Buttler",
+          "is_captain": false,
+          "points": 104.06,
+          "effective_points": 104.06
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": true,
+          "points": 34.12,
+          "effective_points": 68.24
+        }
+      ],
+      "total_points": 177,
+      "rounded_off_total_points": 177,
+      "rank": 3,
+      "overall_points": 2433,
+      "overall_rank": 11,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": true,
+          "points": 35.49,
+          "effective_points": 70.98
+        },
+        {
+          "player": "Karun Nair",
+          "is_captain": false,
+          "points": 31.0,
+          "effective_points": 31.0
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 34.12,
+          "effective_points": 34.12
+        }
+      ],
+      "total_points": 136,
+      "rounded_off_total_points": 136,
+      "rank": 4,
+      "overall_points": 3401,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 34.12,
+          "effective_points": 34.12
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": true,
+          "points": 35.49,
+          "effective_points": 70.98
+        },
+        {
+          "player": "Vipraj Nigam",
+          "is_captain": false,
+          "points": 18.84,
+          "effective_points": 18.84
+        }
+      ],
+      "total_points": 124,
+      "rounded_off_total_points": 124,
+      "rank": 5,
+      "overall_points": 3760,
+      "overall_rank": 6,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": true,
+          "points": 35.49,
+          "effective_points": 70.98
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 34.12,
+          "effective_points": 34.12
+        },
+        {
+          "player": "Rashid Khan",
+          "is_captain": false,
+          "points": 11.32,
+          "effective_points": 11.32
+        }
+      ],
+      "total_points": 116,
+      "rounded_off_total_points": 116,
+      "rank": 6,
+      "overall_points": 4126,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Axar Patel",
+          "is_captain": true,
+          "points": 17.76,
+          "effective_points": 35.52
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 35.49,
+          "effective_points": 35.49
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 34.12,
+          "effective_points": 34.12
+        }
+      ],
+      "total_points": 105,
+      "rounded_off_total_points": 105,
+      "rank": 7,
+      "overall_points": 3253,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 35.49,
+          "effective_points": 35.49
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": true,
+          "points": 34.12,
+          "effective_points": 68.24
+        },
+        {
+          "player": "Mitchell Starc",
+          "is_captain": false,
+          "points": -15.14,
+          "effective_points": -15.14
+        }
+      ],
+      "total_points": 89,
+      "rounded_off_total_points": 89,
+      "rank": 8,
+      "overall_points": 3779,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    }
+  ]
+}

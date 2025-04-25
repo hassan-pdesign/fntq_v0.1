@@ -1,0 +1,243 @@
+{
+  "match_number": 36,
+  "match_title": "Rajasthan Royals v Lucknow Super Giants - April 19, 2025",
+  "teams": {
+    "team1": "Rajasthan Royals",
+    "team2": "Lucknow Super Giants",
+    "winner": "Lucknow Super Giants"
+  },
+  "participant_scores": [
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 11.07,
+          "effective_points": 11.07
+        },
+        {
+          "player": "Aiden Markram",
+          "is_captain": true,
+          "points": 94.5,
+          "effective_points": 189.0
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 60.64,
+          "effective_points": 60.64
+        }
+      ],
+      "total_points": 261,
+      "rounded_off_total_points": 261,
+      "rank": 1,
+      "overall_points": 4021,
+      "overall_rank": 4,
+      "overall_rank_change": "↑2"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Aiden Markram",
+          "is_captain": false,
+          "points": 94.5,
+          "effective_points": 94.5
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 11.07,
+          "effective_points": 11.07
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": true,
+          "points": 60.64,
+          "effective_points": 121.28
+        }
+      ],
+      "total_points": 227,
+      "rounded_off_total_points": 227,
+      "rank": 2,
+      "overall_points": 2660,
+      "overall_rank": 10,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Prince Yadav",
+          "is_captain": false,
+          "points": 8.54,
+          "effective_points": 8.54
+        },
+        {
+          "player": "Jofra Archer",
+          "is_captain": true,
+          "points": 45.93,
+          "effective_points": 91.86
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 60.64,
+          "effective_points": 60.64
+        }
+      ],
+      "total_points": 161,
+      "rounded_off_total_points": 161,
+      "rank": 3,
+      "overall_points": 3934,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 11.07,
+          "effective_points": 22.14
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 60.64,
+          "effective_points": 60.64
+        },
+        {
+          "player": "Nitish Rana",
+          "is_captain": false,
+          "points": 4.09,
+          "effective_points": 4.09
+        }
+      ],
+      "total_points": 87,
+      "rounded_off_total_points": 87,
+      "rank": 4,
+      "overall_points": 3488,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 11.07,
+          "effective_points": 22.14
+        },
+        {
+          "player": "Jofra Archer",
+          "is_captain": false,
+          "points": 45.93,
+          "effective_points": 45.93
+        },
+        {
+          "player": "Digvesh Rathi",
+          "is_captain": false,
+          "points": 18.08,
+          "effective_points": 18.08
+        }
+      ],
+      "total_points": 86,
+      "rounded_off_total_points": 86,
+      "rank": 5,
+      "overall_points": 4050,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 60.64,
+          "effective_points": 60.64
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": -4.29,
+          "effective_points": -4.29
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 11.07,
+          "effective_points": 22.14
+        }
+      ],
+      "total_points": 78,
+      "rounded_off_total_points": 78,
+      "rank": 6,
+      "overall_points": 2239,
+      "overall_rank": 13,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 11.07,
+          "effective_points": 22.14
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": -4.29,
+          "effective_points": -4.29
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 60.64,
+          "effective_points": 60.64
+        }
+      ],
+      "total_points": 78,
+      "rounded_off_total_points": 78,
+      "rank": 6,
+      "overall_points": 3331,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 11.07,
+          "effective_points": 22.14
+        },
+        {
+          "player": "Rishabh Pant",
+          "is_captain": false,
+          "points": -16.36,
+          "effective_points": -16.36
+        },
+        {
+          "player": "Riyan Parag",
+          "is_captain": false,
+          "points": 31.67,
+          "effective_points": 31.67
+        }
+      ],
+      "total_points": 37,
+      "rounded_off_total_points": 37,
+      "rank": 8,
+      "overall_points": 3816,
+      "overall_rank": 6,
+      "overall_rank_change": "↓2"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "match_number": 4,
+  "match_title": "DC v LSG - March 24, 2025",
+  "teams": {
+    "team1": "Lucknow Super Giants",
+    "team2": "Delhi Capitals",
+    "winner": "Delhi Capitals"
+  },
+  "participant_scores": [
+    {
+      "rank": 1,
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Kuldeep Yadav",
+          "is_captain": true,
+          "points": 102.17,
+          "effective_points": 204.34
+        },
+        {
+          "player": "Jake Fraser-McGurk",
+          "points": -3.59,
+          "effective_points": -3.59
+        },
+        {
+          "player": "Nicholas Pooran",
+          "points": 64.92,
+          "effective_points": 64.92
+        }
+      ],
+      "total_points": 266,
+      "rounded_off_total_points": 266,
+      "overall_points": 836,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 2,
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Axar Patel",
+          "is_captain": true,
+          "points": 66.96,
+          "effective_points": 133.92
+        },
+        {
+          "player": "Nicholas Pooran",
+          "points": 64.92,
+          "effective_points": 64.92
+        },
+        {
+          "player": "Mitchell Starc",
+          "points": 54.57,
+          "effective_points": 54.57
+        }
+      ],
+      "total_points": 253,
+      "rounded_off_total_points": 253,
+      "overall_points": 787,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 3,
+      "name": "Utkarsh",
+      "players": [
+        {
+          "player": "Faf du Plessis",
+          "is_captain": true,
+          "points": 39.9,
+          "effective_points": 79.8
+        },
+        {
+          "player": "Axar Patel",
+          "points": 66.96,
+          "effective_points": 66.96
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "points": 102.17,
+          "effective_points": 102.17
+        }
+      ],
+      "total_points": 249,
+      "rounded_off_total_points": 249,
+      "overall_points": 319,
+      "overall_rank": 11,
+      "overall_rank_change": "↑4"
+    },
+    {
+      "rank": 4,
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 64.92,
+          "effective_points": 129.84
+        },
+        {
+          "player": "Faf du Plessis",
+          "points": 39.9,
+          "effective_points": 39.9
+        },
+        {
+          "player": "Axar Patel",
+          "points": 66.96,
+          "effective_points": 66.96
+        }
+      ],
+      "total_points": 237,
+      "rounded_off_total_points": 237,
+      "overall_points": 646,
+      "overall_rank": 3,
+      "overall_rank_change": "↑3"
+    },
+    {
+      "rank": 5,
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Faf du Plessis",
+          "is_captain": true,
+          "points": 39.9,
+          "effective_points": 79.8
+        },
+        {
+          "player": "Rishabh Pant",
+          "points": -15.58,
+          "effective_points": -15.58
+        },
+        {
+          "player": "Axar Patel",
+          "points": 66.96,
+          "effective_points": 66.96
+        }
+      ],
+      "total_points": 131,
+      "rounded_off_total_points": 131,
+      "overall_points": 489,
+      "overall_rank": 6,
+      "overall_rank_change": "↑4"
+    },
+    {
+      "rank": 6,
+      "name": "KV",
+      "players": [
+        {
+          "player": "Jake Fraser-McGurk",
+          "is_captain": true,
+          "points": -3.59,
+          "effective_points": -7.18
+        },
+        {
+          "player": "Axar Patel",
+          "points": 66.96,
+          "effective_points": 66.96
+        },
+        {
+          "player": "Nicholas Pooran",
+          "points": 64.92,
+          "effective_points": 64.92
+        }
+      ],
+      "total_points": 125,
+      "rounded_off_total_points": 125,
+      "overall_points": 622,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 7,
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Rishabh Pant",
+          "is_captain": true,
+          "points": -15.58,
+          "effective_points": -31.16
+        },
+        {
+          "player": "Faf du Plessis",
+          "points": 39.9,
+          "effective_points": 39.9
+        },
+        {
+          "player": "Nicholas Pooran",
+          "points": 64.92,
+          "effective_points": 64.92
+        }
+      ],
+      "total_points": 74,
+      "rounded_off_total_points": 74,
+      "overall_points": 574,
+      "overall_rank": 5,
+      "overall_rank_change": "↓2"
+    },
+    {
+      "rank": 8,
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Faf du Plessis",
+          "is_captain": true,
+          "points": 39.9,
+          "effective_points": 79.8
+        },
+        {
+          "player": "Rishabh Pant",
+          "points": -15.58,
+          "effective_points": -15.58
+        },
+        {
+          "player": "Jake Fraser-McGurk",
+          "points": -3.59,
+          "effective_points": -3.59
+        }
+      ],
+      "total_points": 61,
+      "rounded_off_total_points": 61,
+      "overall_points": 449,
+      "overall_rank": 8,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "rank": 9,
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Abishek Porel",
+          "is_captain": true,
+          "points": -5.8,
+          "effective_points": -11.6
+        },
+        {
+          "player": "Mitchell Marsh",
+          "points": 51.79,
+          "effective_points": 51.79
+        },
+        {
+          "player": "Jake Fraser-McGurk",
+          "points": -3.59,
+          "effective_points": -3.59
+        }
+      ],
+      "total_points": 37,
+      "rounded_off_total_points": 37,
+      "overall_points": 274,
+      "overall_rank": 12,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 10,
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Rishabh Pant",
+          "is_captain": true,
+          "points": -15.58,
+          "effective_points": -31.16
+        },
+        {
+          "player": "Ayush Badoni",
+          "points": -4.82,
+          "effective_points": -4.82
+        },
+        {
+          "player": "Axar Patel",
+          "points": 66.96,
+          "effective_points": 66.96
+        }
+      ],
+      "total_points": 31,
+      "rounded_off_total_points": 31,
+      "overall_points": 389,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "match_number": 9,
+  "match_title": "Gujarat Titans v Mumbai Indians - March 29, 2025",
+  "teams": {
+    "team1": "Gujarat Titans",
+    "team2": "Mumbai Indians",
+    "winner": "Gujarat Titans"
+  },
+  "participant_scores": [
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": 27.62,
+          "effective_points": 55.24
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 38.4,
+          "effective_points": 38.4
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 64.6,
+          "effective_points": 64.6
+        }
+      ],
+      "total_points": 158,
+      "rounded_off_total_points": 158,
+      "rank": 1,
+      "overall_points": 438,
+      "overall_rank": 13,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": true,
+          "points": 64.6,
+          "effective_points": 129.2
+        },
+        {
+          "player": "Mitchell Santner",
+          "is_captain": false,
+          "points": 12.51,
+          "effective_points": 12.51
+        },
+        {
+          "player": "Trent Boult",
+          "is_captain": false,
+          "points": 14.81,
+          "effective_points": 14.81
+        }
+      ],
+      "total_points": 157,
+      "rounded_off_total_points": 157,
+      "rank": 2,
+      "overall_points": 879,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": true,
+          "points": 64.6,
+          "effective_points": 129.2
+        },
+        {
+          "player": "Rohit Sharma",
+          "is_captain": false,
+          "points": 8.07,
+          "effective_points": 8.07
+        },
+        {
+          "player": "Tilak Varma",
+          "is_captain": false,
+          "points": 11.08,
+          "effective_points": 11.08
+        }
+      ],
+      "total_points": 148,
+      "rounded_off_total_points": 148,
+      "rank": 3,
+      "overall_points": 1225,
+      "overall_rank": 3,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Shubman Gill",
+          "is_captain": true,
+          "points": 34.7,
+          "effective_points": 69.4
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 64.6,
+          "effective_points": 64.6
+        },
+        {
+          "player": "Tilak Varma",
+          "is_captain": false,
+          "points": 11.08,
+          "effective_points": 11.08
+        }
+      ],
+      "total_points": 145,
+      "rounded_off_total_points": 145,
+      "rank": 4,
+      "overall_points": 956,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Shubman Gill",
+          "is_captain": true,
+          "points": 34.7,
+          "effective_points": 69.4
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 64.6,
+          "effective_points": 64.6
+        },
+        {
+          "player": "Mujeeb Ur Rahman",
+          "is_captain": false,
+          "points": 8.1,
+          "effective_points": 8.1
+        }
+      ],
+      "total_points": 142,
+      "rounded_off_total_points": 142,
+      "rank": 5,
+      "overall_points": 1381,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Shubman Gill",
+          "is_captain": true,
+          "points": 34.7,
+          "effective_points": 69.4
+        },
+        {
+          "player": "Sai Kishore",
+          "is_captain": false,
+          "points": 15.82,
+          "effective_points": 15.82
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": 27.62,
+          "effective_points": 27.62
+        }
+      ],
+      "total_points": 113,
+      "rounded_off_total_points": 113,
+      "rank": 6,
+      "overall_points": 1013,
+      "overall_rank": 6,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Jos Buttler",
+          "is_captain": true,
+          "points": 44.37,
+          "effective_points": 88.74
+        },
+        {
+          "player": "Rohit Sharma",
+          "is_captain": false,
+          "points": 8.07,
+          "effective_points": 8.07
+        },
+        {
+          "player": "Sai Kishore",
+          "is_captain": false,
+          "points": 15.82,
+          "effective_points": 15.82
+        }
+      ],
+      "total_points": 113,
+      "rounded_off_total_points": 113,
+      "rank": 6,
+      "overall_points": 976,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Rohit Sharma",
+          "is_captain": true,
+          "points": 8.07,
+          "effective_points": 16.14
+        },
+        {
+          "player": "Jos Buttler",
+          "is_captain": false,
+          "points": 44.37,
+          "effective_points": 44.37
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": 27.62,
+          "effective_points": 27.62
+        }
+      ],
+      "total_points": 88,
+      "rounded_off_total_points": 88,
+      "rank": 8,
+      "overall_points": 1221,
+      "overall_rank": 4,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Rohit Sharma",
+          "is_captain": true,
+          "points": 8.07,
+          "effective_points": 16.14
+        },
+        {
+          "player": "Shubman Gill",
+          "is_captain": false,
+          "points": 34.7,
+          "effective_points": 34.7
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": 27.62,
+          "effective_points": 27.62
+        }
+      ],
+      "total_points": 78,
+      "rounded_off_total_points": 78,
+      "rank": 9,
+      "overall_points": 1035,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Rohit Sharma",
+          "is_captain": true,
+          "points": 8.07,
+          "effective_points": 16.14
+        },
+        {
+          "player": "Ryan Rickelton",
+          "is_captain": false,
+          "points": -5.52,
+          "effective_points": -5.52
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 64.6,
+          "effective_points": 64.6
+        }
+      ],
+      "total_points": 75,
+      "rounded_off_total_points": 75,
+      "rank": 10,
+      "overall_points": 999,
+      "overall_rank": 7,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Rohit Sharma",
+          "is_captain": true,
+          "points": 8.07,
+          "effective_points": 16.14
+        },
+        {
+          "player": "Shubman Gill",
+          "is_captain": false,
+          "points": 34.7,
+          "effective_points": 34.7
+        },
+        {
+          "player": "Sai Kishore",
+          "is_captain": false,
+          "points": 15.82,
+          "effective_points": 15.82
+        }
+      ],
+      "total_points": 67,
+      "rounded_off_total_points": 67,
+      "rank": 11,
+      "overall_points": 1438,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    }
+  ]
+}

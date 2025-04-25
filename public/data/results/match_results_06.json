@@ -1,0 +1,330 @@
+{
+  "match_number": 6,
+  "match_title": "Rajasthan Royals v Kolkata Knight Riders - March 26, 2025",
+  "teams": {
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders",
+    "winner": "Kolkata Knight Riders"
+  },
+  "participant_scores": [
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": true,
+          "points": 69.37,
+          "effective_points": 138.74
+        },
+        {
+          "player": "Quinton de Kock",
+          "is_captain": false,
+          "points": 110.32,
+          "effective_points": 110.32
+        },
+        {
+          "player": "Riyan Parag",
+          "is_captain": false,
+          "points": 47.35,
+          "effective_points": 47.35
+        }
+      ],
+      "total_points": 296,
+      "rounded_off_total_points": 296,
+      "rank": 1,
+      "overall_points": 1276,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Quinton de Kock",
+          "is_captain": true,
+          "points": 110.32,
+          "effective_points": 220.64
+        },
+        {
+          "player": "Venkatesh Iyer",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 24.22,
+          "effective_points": 24.22
+        }
+      ],
+      "total_points": 245,
+      "rounded_off_total_points": 245,
+      "rank": 2,
+      "overall_points": 708,
+      "overall_rank": 7,
+      "overall_rank_change": "↑3"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": true,
+          "points": 69.37,
+          "effective_points": 138.74
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 24.22,
+          "effective_points": 24.22
+        },
+        {
+          "player": "Sanju Samson",
+          "is_captain": false,
+          "points": 10.37,
+          "effective_points": 10.37
+        }
+      ],
+      "total_points": 173,
+      "rounded_off_total_points": 173,
+      "rank": 3,
+      "overall_points": 827,
+      "overall_rank": 3,
+      "overall_rank_change": "↑2"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": true,
+          "points": 24.22,
+          "effective_points": 48.44
+        },
+        {
+          "player": "Dhruv Jurel",
+          "is_captain": false,
+          "points": 26.76,
+          "effective_points": 26.76
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": false,
+          "points": 69.37,
+          "effective_points": 69.37
+        }
+      ],
+      "total_points": 145,
+      "rounded_off_total_points": 145,
+      "rank": 4,
+      "overall_points": 1042,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": true,
+          "points": 24.22,
+          "effective_points": 48.44
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": false,
+          "points": 69.37,
+          "effective_points": 69.37
+        },
+        {
+          "player": "Rinku Singh",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 118,
+      "rounded_off_total_points": 118,
+      "rank": 5,
+      "overall_points": 807,
+      "overall_rank": 5,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Ajinkya Rahane",
+          "is_captain": true,
+          "points": 14.44,
+          "effective_points": 28.88
+        },
+        {
+          "player": "Riyan Parag",
+          "is_captain": false,
+          "points": 47.35,
+          "effective_points": 47.35
+        },
+        {
+          "player": "Dhruv Jurel",
+          "is_captain": false,
+          "points": 26.76,
+          "effective_points": 26.76
+        }
+      ],
+      "total_points": 103,
+      "rounded_off_total_points": 103,
+      "rank": 6,
+      "overall_points": 749,
+      "overall_rank": 6,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Venkatesh Iyer",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Dhruv Jurel",
+          "is_captain": false,
+          "points": 26.76,
+          "effective_points": 26.76
+        },
+        {
+          "player": "Moeen Ali",
+          "is_captain": false,
+          "points": 45.22,
+          "effective_points": 45.22
+        }
+      ],
+      "total_points": 72,
+      "rounded_off_total_points": 72,
+      "rank": 7,
+      "overall_points": 280,
+      "overall_rank": 13,
+      "overall_rank_change": "↑2"
+    },
+    {
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Ajinkya Rahane",
+          "is_captain": true,
+          "points": 14.44,
+          "effective_points": 28.88
+        },
+        {
+          "player": "Andre Russell",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 24.22,
+          "effective_points": 24.22
+        }
+      ],
+      "total_points": 53,
+      "rounded_off_total_points": 53,
+      "rank": 8,
+      "overall_points": 825,
+      "overall_rank": 4,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": true,
+          "points": 24.22,
+          "effective_points": 48.44
+        },
+        {
+          "player": "Rinku Singh",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Venkatesh Iyer",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 48,
+      "rounded_off_total_points": 48,
+      "rank": 9,
+      "overall_points": 622,
+      "overall_rank": 10,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": true,
+          "points": 24.22,
+          "effective_points": 48.44
+        },
+        {
+          "player": "Venkatesh Iyer",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Shubham Dubey",
+          "is_captain": false,
+          "points": -3.5,
+          "effective_points": -3.5
+        }
+      ],
+      "total_points": 45,
+      "rounded_off_total_points": 45,
+      "rank": 10,
+      "overall_points": 651,
+      "overall_rank": 9,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Venkatesh Iyer",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Andre Russell",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 24.22,
+          "effective_points": 24.22
+        }
+      ],
+      "total_points": 24,
+      "rounded_off_total_points": 24,
+      "rank": 11,
+      "overall_points": 429,
+      "overall_rank": 11,
+      "overall_rank_change": "-"
+    }
+  ]
+}

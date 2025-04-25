@@ -1,0 +1,330 @@
+{
+  "match_number": 21,
+  "match_title": "Lucknow Super Giants v Kolkata Knight Riders - April 08, 2025",
+  "teams": {
+    "team1": "Lucknow Super Giants",
+    "team2": "Kolkata Knight Riders",
+    "winner": "Lucknow Super Giants"
+  },
+  "participant_scores": [
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 68.54,
+          "effective_points": 68.54
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 101.37,
+          "effective_points": 202.74
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": false,
+          "points": 33.63,
+          "effective_points": 33.63
+        }
+      ],
+      "total_points": 305,
+      "rounded_off_total_points": 305,
+      "rank": 1,
+      "overall_points": 2291,
+      "overall_rank": 5,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 101.37,
+          "effective_points": 202.74
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 68.54,
+          "effective_points": 68.54
+        },
+        {
+          "player": "Venkatesh Iyer",
+          "is_captain": false,
+          "points": 25.19,
+          "effective_points": 25.19
+        }
+      ],
+      "total_points": 296,
+      "rounded_off_total_points": 296,
+      "rank": 2,
+      "overall_points": 1544,
+      "overall_rank": 10,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": false,
+          "points": 33.63,
+          "effective_points": 33.63
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 101.37,
+          "effective_points": 202.74
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": false,
+          "points": 41.52,
+          "effective_points": 41.52
+        }
+      ],
+      "total_points": 278,
+      "rounded_off_total_points": 278,
+      "rank": 3,
+      "overall_points": 2459,
+      "overall_rank": 2,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Venkatesh Iyer",
+          "is_captain": false,
+          "points": 25.19,
+          "effective_points": 25.19
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 101.37,
+          "effective_points": 202.74
+        },
+        {
+          "player": "Ajinkya Rahane",
+          "is_captain": false,
+          "points": 48.7,
+          "effective_points": 48.7
+        }
+      ],
+      "total_points": 277,
+      "rounded_off_total_points": 277,
+      "rank": 4,
+      "overall_points": 2084,
+      "overall_rank": 8,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 101.37,
+          "effective_points": 202.74
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": false,
+          "points": 41.52,
+          "effective_points": 41.52
+        },
+        {
+          "player": "Venkatesh Iyer",
+          "is_captain": false,
+          "points": 25.19,
+          "effective_points": 25.19
+        }
+      ],
+      "total_points": 269,
+      "rounded_off_total_points": 269,
+      "rank": 5,
+      "overall_points": 2178,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 41.52,
+          "effective_points": 83.04
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 68.54,
+          "effective_points": 68.54
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 101.37,
+          "effective_points": 101.37
+        }
+      ],
+      "total_points": 253,
+      "rounded_off_total_points": 253,
+      "rank": 6,
+      "overall_points": 2556,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 101.37,
+          "effective_points": 101.37
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 41.52,
+          "effective_points": 83.04
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": false,
+          "points": 33.63,
+          "effective_points": 33.63
+        }
+      ],
+      "total_points": 218,
+      "rounded_off_total_points": 218,
+      "rank": 7,
+      "overall_points": 2301,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 101.37,
+          "effective_points": 101.37
+        },
+        {
+          "player": "Venkatesh Iyer",
+          "is_captain": false,
+          "points": 25.19,
+          "effective_points": 25.19
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 41.52,
+          "effective_points": 83.04
+        }
+      ],
+      "total_points": 210,
+      "rounded_off_total_points": 210,
+      "rank": 8,
+      "overall_points": 2230,
+      "overall_rank": 6,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 68.54,
+          "effective_points": 68.54
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": false,
+          "points": 33.63,
+          "effective_points": 33.63
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 41.52,
+          "effective_points": 83.04
+        }
+      ],
+      "total_points": 185,
+      "rounded_off_total_points": 185,
+      "rank": 9,
+      "overall_points": 2009,
+      "overall_rank": 9,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Vaibhav Arora",
+          "is_captain": false,
+          "points": 32.4,
+          "effective_points": 32.4
+        },
+        {
+          "player": "Shardul Thakur",
+          "is_captain": false,
+          "points": 58.45,
+          "effective_points": 58.45
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 41.52,
+          "effective_points": 83.04
+        }
+      ],
+      "total_points": 174,
+      "rounded_off_total_points": 174,
+      "rank": 10,
+      "overall_points": 2360,
+      "overall_rank": 3,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Mitchell Starc",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 101.37,
+          "effective_points": 101.37
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": false,
+          "points": 41.52,
+          "effective_points": 41.52
+        }
+      ],
+      "total_points": 143,
+      "rounded_off_total_points": 143,
+      "rank": 11,
+      "overall_points": 1540,
+      "overall_rank": 11,
+      "overall_rank_change": "↓1"
+    }
+  ]
+}

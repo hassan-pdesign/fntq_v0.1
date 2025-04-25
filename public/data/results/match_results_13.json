@@ -1,0 +1,330 @@
+{
+  "match_number": 13,
+  "match_title": "Lucknow Super Giants v Punjab Kings - April 1, 2025",
+  "teams": {
+    "team1": "Lucknow Super Giants",
+    "team2": "Punjab Kings",
+    "winner": "Punjab Kings"
+  },
+  "participant_scores": [
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 47.0,
+          "effective_points": 94.0
+        },
+        {
+          "player": "Glenn Maxwell",
+          "is_captain": false,
+          "points": 33.95,
+          "effective_points": 33.95
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 41.3,
+          "effective_points": 41.3
+        }
+      ],
+      "total_points": 169,
+      "rounded_off_total_points": 169,
+      "rank": 1,
+      "overall_points": 1389,
+      "overall_rank": 5,
+      "overall_rank_change": "↑2"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 47.0,
+          "effective_points": 47.0
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": true,
+          "points": 41.3,
+          "effective_points": 82.6
+        },
+        {
+          "player": "Marcus Stoinis",
+          "is_captain": false,
+          "points": 6.74,
+          "effective_points": 6.74
+        }
+      ],
+      "total_points": 136,
+      "rounded_off_total_points": 136,
+      "rank": 2,
+      "overall_points": 1663,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 47.0,
+          "effective_points": 94.0
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 41.3,
+          "effective_points": 41.3
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": -2.75,
+          "effective_points": -2.75
+        }
+      ],
+      "total_points": 133,
+      "rounded_off_total_points": 133,
+      "rank": 3,
+      "overall_points": 1191,
+      "overall_rank": 8,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 47.0,
+          "effective_points": 94.0
+        },
+        {
+          "player": "Rishabh Pant",
+          "is_captain": false,
+          "points": -8.22,
+          "effective_points": -8.22
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 41.3,
+          "effective_points": 41.3
+        }
+      ],
+      "total_points": 127,
+      "rounded_off_total_points": 127,
+      "rank": 4,
+      "overall_points": 1431,
+      "overall_rank": 4,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Rishabh Pant",
+          "is_captain": false,
+          "points": -8.22,
+          "effective_points": -8.22
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": true,
+          "points": 41.3,
+          "effective_points": 82.6
+        },
+        {
+          "player": "Yuzvendra Chahal",
+          "is_captain": false,
+          "points": 30.63,
+          "effective_points": 30.63
+        }
+      ],
+      "total_points": 105,
+      "rounded_off_total_points": 105,
+      "rank": 5,
+      "overall_points": 453,
+      "overall_rank": 14,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 47.0,
+          "effective_points": 47.0
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 41.3,
+          "effective_points": 41.3
+        },
+        {
+          "player": "Marcus Stoinis",
+          "is_captain": true,
+          "points": 6.74,
+          "effective_points": 13.48
+        }
+      ],
+      "total_points": 102,
+      "rounded_off_total_points": 102,
+      "rank": 6,
+      "overall_points": 709,
+      "overall_rank": 12,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 47.0,
+          "effective_points": 47.0
+        },
+        {
+          "player": "Rishabh Pant",
+          "is_captain": true,
+          "points": -8.22,
+          "effective_points": -16.44
+        },
+        {
+          "player": "Prabhsimran Singh",
+          "is_captain": false,
+          "points": 68.9,
+          "effective_points": 68.9
+        }
+      ],
+      "total_points": 99,
+      "rounded_off_total_points": 99,
+      "rank": 7,
+      "overall_points": 920,
+      "overall_rank": 11,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 47.0,
+          "effective_points": 94.0
+        },
+        {
+          "player": "Shashank Singh",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Shardul Thakur",
+          "is_captain": false,
+          "points": -8.31,
+          "effective_points": -8.31
+        }
+      ],
+      "total_points": 86,
+      "rounded_off_total_points": 86,
+      "rank": 8,
+      "overall_points": 1581,
+      "overall_rank": 2,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Rishabh Pant",
+          "is_captain": true,
+          "points": -8.22,
+          "effective_points": -16.44
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 41.3,
+          "effective_points": 41.3
+        },
+        {
+          "player": "Glenn Maxwell",
+          "is_captain": false,
+          "points": 33.95,
+          "effective_points": 33.95
+        }
+      ],
+      "total_points": 59,
+      "rounded_off_total_points": 59,
+      "rank": 9,
+      "overall_points": 1111,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 47.0,
+          "effective_points": 47.0
+        },
+        {
+          "player": "Marcus Stoinis",
+          "is_captain": false,
+          "points": 6.74,
+          "effective_points": 6.74
+        },
+        {
+          "player": "Shardul Thakur",
+          "is_captain": true,
+          "points": -8.31,
+          "effective_points": -16.62
+        }
+      ],
+      "total_points": 37,
+      "rounded_off_total_points": 37,
+      "rank": 10,
+      "overall_points": 1384,
+      "overall_rank": 6,
+      "overall_rank_change": "↓2"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 47.0,
+          "effective_points": 47.0
+        },
+        {
+          "player": "Priyansh Arya",
+          "is_captain": false,
+          "points": 0.08,
+          "effective_points": 0.08
+        },
+        {
+          "player": "Shardul Thakur",
+          "is_captain": true,
+          "points": -8.31,
+          "effective_points": -16.62
+        }
+      ],
+      "total_points": 30,
+      "rounded_off_total_points": 30,
+      "rank": 11,
+      "overall_points": 1151,
+      "overall_rank": 9,
+      "overall_rank_change": "↓1"
+    }
+  ]
+}

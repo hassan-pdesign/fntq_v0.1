@@ -1,0 +1,335 @@
+{
+  "match_number": 1,
+  "match_title": "KKR v RCB - March 22, 2025",
+  "teams": {
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bengaluru",
+    "winner": "Royal Challengers Bengaluru"
+  },
+  "participant_scores": [
+    {
+      "rank": 1,
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 91.9,
+          "effective_points": 183.8
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "points": 29.37,
+          "effective_points": 29.37
+        },
+        {
+          "player": "Rajat Patidar",
+          "points": 30.71,
+          "effective_points": 30.71
+        }
+      ],
+      "total_points": 244,
+      "rounded_off_total_points": 244,
+      "overall_points": 244,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 2,
+      "name": "KV",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 91.9,
+          "effective_points": 183.8
+        },
+        {
+          "player": "Phil Salt",
+          "points": 55.61,
+          "effective_points": 55.61
+        },
+        {
+          "player": "Andre Russell",
+          "points": 2.6,
+          "effective_points": 2.6
+        }
+      ],
+      "total_points": 242,
+      "rounded_off_total_points": 242,
+      "overall_points": 242,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 3,
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 91.9,
+          "effective_points": 183.8
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "points": 29.37,
+          "effective_points": 29.37
+        },
+        {
+          "player": "Suyash Sharma",
+          "points": 26.41,
+          "effective_points": 26.41
+        }
+      ],
+      "total_points": 240,
+      "rounded_off_total_points": 240,
+      "overall_points": 240,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 4,
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 91.9,
+          "effective_points": 183.8
+        },
+        {
+          "player": "Venkatesh Iyer",
+          "points": -2.86,
+          "effective_points": -2.86
+        },
+        {
+          "player": "Phil Salt",
+          "points": 55.61,
+          "effective_points": 55.61
+        }
+      ],
+      "total_points": 237,
+      "rounded_off_total_points": 237,
+      "overall_points": 237,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 5,
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 52.8,
+          "effective_points": 105.6
+        },
+        {
+          "player": "Josh Hazlewood",
+          "points": 66.86,
+          "effective_points": 66.86
+        },
+        {
+          "player": "Rajat Patidar",
+          "points": 30.71,
+          "effective_points": 30.71
+        }
+      ],
+      "total_points": 203,
+      "rounded_off_total_points": 203,
+      "overall_points": 203,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 6,
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 52.8,
+          "effective_points": 105.6
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "points": 29.37,
+          "effective_points": 29.37
+        },
+        {
+          "player": "Phil Salt",
+          "points": 55.61,
+          "effective_points": 55.61
+        }
+      ],
+      "total_points": 191,
+      "rounded_off_total_points": 191,
+      "overall_points": 191,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 7,
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Rajat Patidar",
+          "is_captain": true,
+          "points": 30.71,
+          "effective_points": 61.42
+        },
+        {
+          "player": "Phil Salt",
+          "points": 55.61,
+          "effective_points": 55.61
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "points": 29.37,
+          "effective_points": 29.37
+        }
+      ],
+      "total_points": 146,
+      "rounded_off_total_points": 146,
+      "overall_points": 146,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 8,
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Venkatesh Iyer",
+          "is_captain": true,
+          "points": -2.86,
+          "effective_points": -5.72
+        },
+        {
+          "player": "Sunil Narine",
+          "points": 91.9,
+          "effective_points": 91.9
+        },
+        {
+          "player": "Virat Kohli",
+          "points": 52.8,
+          "effective_points": 52.8
+        }
+      ],
+      "total_points": 139,
+      "rounded_off_total_points": 139,
+      "overall_points": 139,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 9,
+      "name": "Sunil",
+      "players": [
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": true,
+          "points": 29.37,
+          "effective_points": 58.74
+        },
+        {
+          "player": "Venkatesh Iyer",
+          "points": -2.86,
+          "effective_points": -2.86
+        },
+        {
+          "player": "Phil Salt",
+          "points": 55.61,
+          "effective_points": 55.61
+        }
+      ],
+      "total_points": 111,
+      "rounded_off_total_points": 111,
+      "overall_points": 111,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 10,
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": true,
+          "points": 29.37,
+          "effective_points": 58.74
+        },
+        {
+          "player": "Liam Livingstone",
+          "points": 26.31,
+          "effective_points": 26.31
+        },
+        {
+          "player": "Rinku Singh",
+          "points": 0.94,
+          "effective_points": 0.94
+        }
+      ],
+      "total_points": 86,
+      "rounded_off_total_points": 86,
+      "overall_points": 86,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 11,
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Rinku Singh",
+          "is_captain": true,
+          "points": 0.94,
+          "effective_points": 1.88
+        },
+        {
+          "player": "Virat Kohli",
+          "points": 52.8,
+          "effective_points": 52.8
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "points": 29.37,
+          "effective_points": 29.37
+        }
+      ],
+      "total_points": 84,
+      "rounded_off_total_points": 84,
+      "overall_points": 84,
+      "overall_rank": 11,
+      "overall_rank_change": "-"
+    },
+    {
+      "rank": 12,
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Andre Russell",
+          "is_captain": true,
+          "points": 2.6,
+          "effective_points": 5.2
+        },
+        {
+          "player": "Rajat Patidar",
+          "points": 30.71,
+          "effective_points": 30.71
+        },
+        {
+          "player": "Venkatesh Iyer",
+          "points": -2.86,
+          "effective_points": -2.86
+        }
+      ],
+      "total_points": 33,
+      "rounded_off_total_points": 33,
+      "overall_points": 33,
+      "overall_rank": 12,
+      "overall_rank_change": "-"
+    }
+  ]
+}

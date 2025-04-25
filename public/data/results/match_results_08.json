@@ -1,0 +1,330 @@
+{
+  "match_number": 8,
+  "match_title": "Royal Challengers Bengaluru v Chennai Super Kings - March 28, 2025",
+  "teams": {
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Chennai Super Kings",
+    "winner": "Royal Challengers Bengaluru"
+  },
+  "participant_scores": [
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Noor Ahmad",
+          "is_captain": true,
+          "points": 45.78,
+          "effective_points": 91.56
+        },
+        {
+          "player": "Rajat Patidar",
+          "is_captain": false,
+          "points": 46.98,
+          "effective_points": 46.98
+        },
+        {
+          "player": "Rachin Ravindra",
+          "is_captain": false,
+          "points": 21.63,
+          "effective_points": 21.63
+        }
+      ],
+      "total_points": 160,
+      "rounded_off_total_points": 160,
+      "rank": 1,
+      "overall_points": 1239,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Phil Salt",
+          "is_captain": true,
+          "points": 44.84,
+          "effective_points": 89.68
+        },
+        {
+          "player": "Rachin Ravindra",
+          "is_captain": false,
+          "points": 21.63,
+          "effective_points": 21.63
+        },
+        {
+          "player": "Sam Curran",
+          "is_captain": false,
+          "points": -7.96,
+          "effective_points": -7.96
+        }
+      ],
+      "total_points": 103,
+      "rounded_off_total_points": 103,
+      "rank": 2,
+      "overall_points": 811,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Rachin Ravindra",
+          "is_captain": true,
+          "points": 21.63,
+          "effective_points": 43.26
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 9.75,
+          "effective_points": 9.75
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": 45.78,
+          "effective_points": 45.78
+        }
+      ],
+      "total_points": 99,
+      "rounded_off_total_points": 99,
+      "rank": 3,
+      "overall_points": 650,
+      "overall_rank": 11,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 9.75,
+          "effective_points": 19.5
+        },
+        {
+          "player": "Rajat Patidar",
+          "is_captain": false,
+          "points": 46.98,
+          "effective_points": 46.98
+        },
+        {
+          "player": "Rachin Ravindra",
+          "is_captain": false,
+          "points": 21.63,
+          "effective_points": 21.63
+        }
+      ],
+      "total_points": 88,
+      "rounded_off_total_points": 88,
+      "rank": 4,
+      "overall_points": 900,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Rachin Ravindra",
+          "is_captain": true,
+          "points": 21.63,
+          "effective_points": 43.26
+        },
+        {
+          "player": "Ruturaj Gaikwad",
+          "is_captain": false,
+          "points": -9.75,
+          "effective_points": -9.75
+        },
+        {
+          "player": "Rajat Patidar",
+          "is_captain": false,
+          "points": 46.98,
+          "effective_points": 46.98
+        }
+      ],
+      "total_points": 80,
+      "rounded_off_total_points": 80,
+      "rank": 5,
+      "overall_points": 863,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Ruturaj Gaikwad",
+          "is_captain": true,
+          "points": -9.75,
+          "effective_points": -19.5
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": 45.78,
+          "effective_points": 45.78
+        },
+        {
+          "player": "Phil Salt",
+          "is_captain": false,
+          "points": 44.84,
+          "effective_points": 44.84
+        }
+      ],
+      "total_points": 71,
+      "rounded_off_total_points": 71,
+      "rank": 6,
+      "overall_points": 1133,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Krunal Pandya",
+          "is_captain": true,
+          "points": -10.5,
+          "effective_points": -21.0
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": 45.78,
+          "effective_points": 45.78
+        },
+        {
+          "player": "Phil Salt",
+          "is_captain": false,
+          "points": 44.84,
+          "effective_points": 44.84
+        }
+      ],
+      "total_points": 70,
+      "rounded_off_total_points": 70,
+      "rank": 7,
+      "overall_points": 722,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 9.75,
+          "effective_points": 19.5
+        },
+        {
+          "player": "Ruturaj Gaikwad",
+          "is_captain": false,
+          "points": -9.75,
+          "effective_points": -9.75
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": 45.78,
+          "effective_points": 45.78
+        }
+      ],
+      "total_points": 56,
+      "rounded_off_total_points": 56,
+      "rank": 8,
+      "overall_points": 1077,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 9.75,
+          "effective_points": 19.5
+        },
+        {
+          "player": "Rachin Ravindra",
+          "is_captain": false,
+          "points": 21.63,
+          "effective_points": 21.63
+        },
+        {
+          "player": "Bhuvneshwar Kumar",
+          "is_captain": false,
+          "points": 12.46,
+          "effective_points": 12.46
+        }
+      ],
+      "total_points": 54,
+      "rounded_off_total_points": 54,
+      "rank": 9,
+      "overall_points": 957,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Rachin Ravindra",
+          "is_captain": true,
+          "points": 21.63,
+          "effective_points": 43.26
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 9.75,
+          "effective_points": 9.75
+        },
+        {
+          "player": "Krunal Pandya",
+          "is_captain": false,
+          "points": -10.5,
+          "effective_points": -10.5
+        }
+      ],
+      "total_points": 43,
+      "rounded_off_total_points": 43,
+      "rank": 10,
+      "overall_points": 924,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Ruturaj Gaikwad",
+          "is_captain": true,
+          "points": -9.75,
+          "effective_points": -19.5
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 9.75,
+          "effective_points": 9.75
+        },
+        {
+          "player": "Rahul Tripathi",
+          "is_captain": false,
+          "points": 4.37,
+          "effective_points": 4.37
+        }
+      ],
+      "total_points": -5,
+      "rounded_off_total_points": -5,
+      "rank": 11,
+      "overall_points": 1371,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    }
+  ]
+}
