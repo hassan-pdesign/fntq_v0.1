@@ -1,0 +1,103 @@
+.card {
+  background-color: var(--card-bg, #252525);
+  border-radius: 12px;
+  padding: 40px 24px 24px 24px;
+  margin-bottom: 16px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.rankBadge {
+  background-color: var(--accent-color, #f55a00);
+  color: white;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-right: 16px;
+}
+
+.cardContent {
+  flex: 1;
+}
+
+.username {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: var(--text-color-primary, #fff);
+}
+
+.scoreSection, .matchesSection, .rankChangeSection {
+  margin-bottom: 12px;
+  padding-bottom: 12px;
+}
+
+.rankChangeSection {
+  border-bottom: none;
+}
+
+.scoreLabel, .matchesLabel, .rankChangeLabel {
+  font-size: 0.9rem;
+  color: var(--text-color-secondary, #888);
+  margin-bottom: 4px;
+}
+
+.scoreValue {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--highlight-color, #4caf50);
+}
+
+.matchesValue {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.rankChangeDetails {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.improved {
+  color: var(--success-color, #4caf50);
+}
+
+.dropped {
+  color: var(--error-color, #f44336);
+}
+
+.neutral {
+  color: var(--warning-color, #ffc107);
+}
+
+/* Responsive styles */
+@media (max-width: 480px) {
+  .card {
+    padding: 12px;
+  }
+  
+  .username {
+    font-size: 1.1rem;
+  }
+  
+  .scoreValue {
+    font-size: 1.3rem;
+  }
+} 

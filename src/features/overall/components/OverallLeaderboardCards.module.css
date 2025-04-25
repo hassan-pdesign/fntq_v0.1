@@ -1,0 +1,45 @@
+.container {
+  width: 100%;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.headerInfo {
+  padding: 10px 15px;
+  background-color: var(--card-bg, #222);
+  border-radius: 8px;
+  margin-bottom: 16px;
+  border-bottom: 1px solid var(--border-color, #333);
+}
+
+.matchInfo {
+  font-size: 0.9rem;
+  color: var(--text-color-secondary, #ccc);
+  text-align: right;
+  font-weight: 500;
+}
+
+.cardsGrid {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.loading,
+.emptyState {
+  text-align: center;
+  padding: 40px 16px;
+  font-size: 1.2rem;
+  color: var(--text-color-secondary, #888);
+}
+
+/* Responsive styles */
+@media (min-width: 768px) {
+  .cardsGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 20px;
+  }
+} 
