@@ -1,10 +1,10 @@
 {
   "Bipin": {
-    "matches_played": 43,
-    "cumulative_points": 5792,
-    "average": 134.7,
+    "matches_played": 44,
+    "cumulative_points": 5911,
+    "average": 134.34,
     "wins": 6,
-    "podiums": 17,
+    "podiums": 18,
     "overall_rank": 1,
     "overall_rank_change": "-"
   },
@@ -22,7 +22,7 @@
     "cumulative_points": 4934,
     "average": 117.48,
     "wins": 5,
-    "podiums": 12,
+    "podiums": 11,
     "overall_rank": 3,
     "overall_rank_change": "-"
   },

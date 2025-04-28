@@ -66,6 +66,35 @@
       "overall_rank_change": "↑1"
     },
     {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 14.95,
+          "effective_points": 14.95
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 26.05,
+          "effective_points": 52.1
+        },
+        {
+          "player": "Josh Hazlewood",
+          "is_captain": false,
+          "points": 51.48,
+          "effective_points": 51.48
+        }
+      ],
+      "total_points": 119,
+      "rounded_off_total_points": 119,
+      "rank": 3,
+      "overall_points": 5911,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
       "name": "Sawant",
       "players": [
         {
@@ -89,7 +118,7 @@
       ],
       "total_points": 104,
       "rounded_off_total_points": 104,
-      "rank": 3,
+      "rank": 4,
       "overall_points": 4934,
       "overall_rank": 3,
       "overall_rank_change": "-"
@@ -118,7 +147,7 @@
       ],
       "total_points": 63,
       "rounded_off_total_points": 63,
-      "rank": 4,
+      "rank": 5,
       "overall_points": 4790,
       "overall_rank": 4,
       "overall_rank_change": "-"
@@ -147,7 +176,7 @@
       ],
       "total_points": 53,
       "rounded_off_total_points": 53,
-      "rank": 5,
+      "rank": 6,
       "overall_points": 4942,
       "overall_rank": 2,
       "overall_rank_change": "-"
@@ -176,7 +205,7 @@
       ],
       "total_points": 50,
       "rounded_off_total_points": 50,
-      "rank": 6,
+      "rank": 7,
       "overall_points": 4707,
       "overall_rank": 5,
       "overall_rank_change": "-"
@@ -205,7 +234,7 @@
       ],
       "total_points": 45,
       "rounded_off_total_points": 45,
-      "rank": 7,
+      "rank": 8,
       "overall_points": 297,
       "overall_rank": 15,
       "overall_rank_change": "-"
@@ -234,7 +263,7 @@
       ],
       "total_points": 35,
       "rounded_off_total_points": 35,
-      "rank": 8,
+      "rank": 9,
       "overall_points": 4220,
       "overall_rank": 7,
       "overall_rank_change": "↑1"
@@ -263,7 +292,7 @@
       ],
       "total_points": 31,
       "rounded_off_total_points": 31,
-      "rank": 9,
+      "rank": 10,
       "overall_points": 2736,
       "overall_rank": 13,
       "overall_rank_change": "-"
@@ -292,7 +321,7 @@
       ],
       "total_points": 14,
       "rounded_off_total_points": 14,
-      "rank": 10,
+      "rank": 11,
       "overall_points": 4650,
       "overall_rank": 6,
       "overall_rank_change": "-"
@@ -321,7 +350,7 @@
       ],
       "total_points": 8,
       "rounded_off_total_points": 8,
-      "rank": 11,
+      "rank": 12,
       "overall_points": 4218,
       "overall_rank": 8,
       "overall_rank_change": "↓1"
@@ -350,7 +379,7 @@
       ],
       "total_points": -9,
       "rounded_off_total_points": -9,
-      "rank": 12,
+      "rank": 13,
       "overall_points": 2765,
       "overall_rank": 12,
       "overall_rank_change": "-"
