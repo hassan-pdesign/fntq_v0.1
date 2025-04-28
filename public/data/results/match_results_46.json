@@ -1,0 +1,359 @@
+{
+  "match_number": 46,
+  "match_title": "Delhi Capitals v Royal Challengers Bengaluru - April 27, 2025",
+  "teams": {
+    "team1": "Delhi Capitals",
+    "team2": "Royal Challengers Bengaluru",
+    "winner": "Royal Challengers Bengaluru"
+  },
+  "participant_scores": [
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 14.95,
+          "effective_points": 14.95
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 26.05,
+          "effective_points": 26.05
+        },
+        {
+          "player": "Axar Patel",
+          "is_captain": true,
+          "points": 92.1,
+          "effective_points": 184.2
+        }
+      ],
+      "total_points": 225,
+      "rounded_off_total_points": 225,
+      "rank": 1,
+      "overall_points": 3537,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Abishek Porel",
+          "is_captain": false,
+          "points": 50.11,
+          "effective_points": 50.11
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 26.05,
+          "effective_points": 52.1
+        },
+        {
+          "player": "Josh Hazlewood",
+          "is_captain": false,
+          "points": 51.48,
+          "effective_points": 51.48
+        }
+      ],
+      "total_points": 154,
+      "rounded_off_total_points": 154,
+      "rank": 2,
+      "overall_points": 3332,
+      "overall_rank": 10,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 26.05,
+          "effective_points": 52.1
+        },
+        {
+          "player": "Josh Hazlewood",
+          "is_captain": false,
+          "points": 51.48,
+          "effective_points": 51.48
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 104,
+      "rounded_off_total_points": 104,
+      "rank": 3,
+      "overall_points": 4934,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 14.95,
+          "effective_points": 14.95
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 26.05,
+          "effective_points": 52.1
+        },
+        {
+          "player": "Devdutt Padikkal",
+          "is_captain": false,
+          "points": -3.64,
+          "effective_points": -3.64
+        }
+      ],
+      "total_points": 63,
+      "rounded_off_total_points": 63,
+      "rank": 4,
+      "overall_points": 4790,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Faf du Plessis",
+          "is_captain": false,
+          "points": -2.57,
+          "effective_points": -2.57
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": true,
+          "points": 14.95,
+          "effective_points": 29.9
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 26.05,
+          "effective_points": 26.05
+        }
+      ],
+      "total_points": 53,
+      "rounded_off_total_points": 53,
+      "rank": 5,
+      "overall_points": 4942,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Romario Shepherd",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 26.05,
+          "effective_points": 52.1
+        },
+        {
+          "player": "Faf du Plessis",
+          "is_captain": false,
+          "points": -2.57,
+          "effective_points": -2.57
+        }
+      ],
+      "total_points": 50,
+      "rounded_off_total_points": 50,
+      "rank": 6,
+      "overall_points": 4707,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Utkarsh Ved",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 26.05,
+          "effective_points": 52.1
+        },
+        {
+          "player": "Mitchell Starc",
+          "is_captain": false,
+          "points": -3.52,
+          "effective_points": -3.52
+        },
+        {
+          "player": "Devdutt Padikkal",
+          "is_captain": false,
+          "points": -3.64,
+          "effective_points": -3.64
+        }
+      ],
+      "total_points": 45,
+      "rounded_off_total_points": 45,
+      "rank": 7,
+      "overall_points": 297,
+      "overall_rank": 15,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Karun Nair",
+          "is_captain": false,
+          "points": 2.55,
+          "effective_points": 2.55
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 26.05,
+          "effective_points": 26.05
+        },
+        {
+          "player": "Rajat Patidar",
+          "is_captain": true,
+          "points": 3.23,
+          "effective_points": 6.46
+        }
+      ],
+      "total_points": 35,
+      "rounded_off_total_points": 35,
+      "rank": 8,
+      "overall_points": 4220,
+      "overall_rank": 7,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "KL Rahul",
+          "is_captain": true,
+          "points": 14.95,
+          "effective_points": 29.9
+        },
+        {
+          "player": "Faf du Plessis",
+          "is_captain": false,
+          "points": -2.57,
+          "effective_points": -2.57
+        },
+        {
+          "player": "Rajat Patidar",
+          "is_captain": false,
+          "points": 3.23,
+          "effective_points": 3.23
+        }
+      ],
+      "total_points": 31,
+      "rounded_off_total_points": 31,
+      "rank": 9,
+      "overall_points": 2736,
+      "overall_rank": 13,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Josh Hazlewood",
+          "is_captain": false,
+          "points": 51.48,
+          "effective_points": 51.48
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Mukesh Kumar",
+          "is_captain": true,
+          "points": -18.53,
+          "effective_points": -37.06
+        }
+      ],
+      "total_points": 14,
+      "rounded_off_total_points": 14,
+      "rank": 10,
+      "overall_points": 4650,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Jos Buttler",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 26.05,
+          "effective_points": 26.05
+        },
+        {
+          "player": "Mukesh Kumar",
+          "is_captain": false,
+          "points": -18.53,
+          "effective_points": -18.53
+        }
+      ],
+      "total_points": 8,
+      "rounded_off_total_points": 8,
+      "rank": 11,
+      "overall_points": 4218,
+      "overall_rank": 8,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Faf du Plessis",
+          "is_captain": true,
+          "points": -2.57,
+          "effective_points": -5.14
+        },
+        {
+          "player": "Devdutt Padikkal",
+          "is_captain": false,
+          "points": -3.64,
+          "effective_points": -3.64
+        },
+        {
+          "player": "Romario Shepherd",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": -9,
+      "rounded_off_total_points": -9,
+      "rank": 12,
+      "overall_points": 2765,
+      "overall_rank": 12,
+      "overall_rank_change": "-"
+    }
+  ]
+}

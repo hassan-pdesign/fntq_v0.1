@@ -1,0 +1,417 @@
+{
+  "match_number": 43,
+  "match_title": "Chennai Super Kings v Sunrisers Hyderabad - April 25, 2025",
+  "teams": {
+    "team1": "Chennai Super Kings",
+    "team2": "Sunrisers Hyderabad",
+    "winner": "Sunrisers Hyderabad"
+  },
+  "participant_scores": [
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Ravindra Jadeja",
+          "is_captain": true,
+          "points": 67.19,
+          "effective_points": 134.38
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 56.88,
+          "effective_points": 56.88
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 3.66,
+          "effective_points": 3.66
+        }
+      ],
+      "total_points": 195,
+      "rounded_off_total_points": 195,
+      "rank": 1,
+      "overall_points": 2987,
+      "overall_rank": 11,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Harshal Patel",
+          "is_captain": true,
+          "points": 74.21,
+          "effective_points": 148.42
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": 47.46,
+          "effective_points": 47.46
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": -3.36,
+          "effective_points": -3.36
+        }
+      ],
+      "total_points": 193,
+      "rounded_off_total_points": 193,
+      "rank": 2,
+      "overall_points": 4541,
+      "overall_rank": 5,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": false,
+          "points": 39.23,
+          "effective_points": 39.23
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": true,
+          "points": 47.46,
+          "effective_points": 94.92
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 56.88,
+          "effective_points": 56.88
+        }
+      ],
+      "total_points": 191,
+      "rounded_off_total_points": 191,
+      "rank": 3,
+      "overall_points": 4825,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Pat Cummins",
+          "is_captain": true,
+          "points": 45.43,
+          "effective_points": 90.86
+        },
+        {
+          "player": "Harshal Patel",
+          "is_captain": false,
+          "points": 74.21,
+          "effective_points": 74.21
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 3.66,
+          "effective_points": 3.66
+        }
+      ],
+      "total_points": 169,
+      "rounded_off_total_points": 169,
+      "rank": 4,
+      "overall_points": 4146,
+      "overall_rank": 7,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": true,
+          "points": 39.23,
+          "effective_points": 78.46
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 56.88,
+          "effective_points": 56.88
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 3.66,
+          "effective_points": 3.66
+        }
+      ],
+      "total_points": 139,
+      "rounded_off_total_points": 139,
+      "rank": 5,
+      "overall_points": 2774,
+      "overall_rank": 12,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": true,
+          "points": 39.23,
+          "effective_points": 78.46
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": 47.46,
+          "effective_points": 47.46
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 3.66,
+          "effective_points": 3.66
+        }
+      ],
+      "total_points": 130,
+      "rounded_off_total_points": 130,
+      "rank": 6,
+      "overall_points": 5670,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Harshal Patel",
+          "is_captain": false,
+          "points": 74.21,
+          "effective_points": 74.21
+        },
+        {
+          "player": "Pat Cummins",
+          "is_captain": false,
+          "points": 45.43,
+          "effective_points": 45.43
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": true,
+          "points": -3.36,
+          "effective_points": -6.72
+        }
+      ],
+      "total_points": 113,
+      "rounded_off_total_points": 113,
+      "rank": 7,
+      "overall_points": 4691,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 56.88,
+          "effective_points": 56.88
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": true,
+          "points": -3.36,
+          "effective_points": -6.72
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": 47.46,
+          "effective_points": 47.46
+        }
+      ],
+      "total_points": 98,
+      "rounded_off_total_points": 98,
+      "rank": 8,
+      "overall_points": 3266,
+      "overall_rank": 9,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": true,
+          "points": -3.36,
+          "effective_points": -6.72
+        },
+        {
+          "player": "Ishan Kishan",
+          "is_captain": false,
+          "points": 44.08,
+          "effective_points": 44.08
+        },
+        {
+          "player": "Travis Head",
+          "is_captain": false,
+          "points": 18.41,
+          "effective_points": 18.41
+        }
+      ],
+      "total_points": 56,
+      "rounded_off_total_points": 56,
+      "rank": 9,
+      "overall_points": 4571,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": true,
+          "points": -3.36,
+          "effective_points": -6.72
+        },
+        {
+          "player": "Nitish Kumar Reddy",
+          "is_captain": false,
+          "points": 22.02,
+          "effective_points": 22.02
+        },
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": false,
+          "points": 39.23,
+          "effective_points": 39.23
+        }
+      ],
+      "total_points": 55,
+      "rounded_off_total_points": 55,
+      "rank": 10,
+      "overall_points": 4052,
+      "overall_rank": 8,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": true,
+          "points": -3.36,
+          "effective_points": -6.72
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 3.66,
+          "effective_points": 3.66
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 56.88,
+          "effective_points": 56.88
+        }
+      ],
+      "total_points": 54,
+      "rounded_off_total_points": 54,
+      "rank": 11,
+      "overall_points": 4520,
+      "overall_rank": 6,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Utkarsh Ved",
+      "players": [
+        {
+          "player": "MS Dhoni",
+          "is_captain": true,
+          "points": -4.61,
+          "effective_points": -9.22
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": 47.46,
+          "effective_points": 47.46
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": -3.36,
+          "effective_points": -3.36
+        }
+      ],
+      "total_points": 35,
+      "rounded_off_total_points": 35,
+      "rank": 12,
+      "overall_points": 35,
+      "overall_rank": 16,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Sam Curran",
+          "is_captain": false,
+          "points": -8.55,
+          "effective_points": -8.55
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": true,
+          "points": -3.36,
+          "effective_points": -6.72
+        },
+        {
+          "player": "Nitish Kumar Reddy",
+          "is_captain": false,
+          "points": 22.02,
+          "effective_points": 22.02
+        }
+      ],
+      "total_points": 7,
+      "rounded_off_total_points": 7,
+      "rank": 13,
+      "overall_points": 2487,
+      "overall_rank": 13,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": true,
+          "points": 3.66,
+          "effective_points": 7.32
+        },
+        {
+          "player": "Matheesha Pathirana",
+          "is_captain": false,
+          "points": 4.58,
+          "effective_points": 4.58
+        },
+        {
+          "player": "Sam Curran",
+          "is_captain": false,
+          "points": -8.55,
+          "effective_points": -8.55
+        }
+      ],
+      "total_points": 3,
+      "rounded_off_total_points": 3,
+      "rank": 14,
+      "overall_points": 3228,
+      "overall_rank": 10,
+      "overall_rank_change": "↓1"
+    }
+  ]
+}

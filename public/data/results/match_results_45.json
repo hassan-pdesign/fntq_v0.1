@@ -1,0 +1,359 @@
+{
+  "match_number": 45,
+  "match_title": "Mumbai Indians v Lucknow Super Giants - April 27, 2025",
+  "teams": {
+    "team1": "Mumbai Indians",
+    "team2": "Lucknow Super Giants",
+    "winner": "Mumbai Indians"
+  },
+  "participant_scores": [
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Ryan Rickelton",
+          "is_captain": false,
+          "points": 77.37,
+          "effective_points": 77.37
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 40.32,
+          "effective_points": 80.64
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 60.14,
+          "effective_points": 60.14
+        }
+      ],
+      "total_points": 218,
+      "rounded_off_total_points": 218,
+      "rank": 1,
+      "overall_points": 2705,
+      "overall_rank": 13,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Utkarsh Ved",
+      "players": [
+        {
+          "player": "Jasprit Bumrah",
+          "is_captain": true,
+          "points": 68.96,
+          "effective_points": 137.92
+        },
+        {
+          "player": "Rohit Sharma",
+          "is_captain": false,
+          "points": 18.71,
+          "effective_points": 18.71
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 60.14,
+          "effective_points": 60.14
+        }
+      ],
+      "total_points": 217,
+      "rounded_off_total_points": 217,
+      "rank": 2,
+      "overall_points": 252,
+      "overall_rank": 15,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Ryan Rickelton",
+          "is_captain": false,
+          "points": 77.37,
+          "effective_points": 77.37
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 33.45,
+          "effective_points": 33.45
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 40.32,
+          "effective_points": 80.64
+        }
+      ],
+      "total_points": 191,
+      "rounded_off_total_points": 191,
+      "rank": 3,
+      "overall_points": 3178,
+      "overall_rank": 11,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": true,
+          "points": 60.14,
+          "effective_points": 120.28
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 40.32,
+          "effective_points": 40.32
+        },
+        {
+          "player": "Aiden Markram",
+          "is_captain": false,
+          "points": -4.12,
+          "effective_points": -4.12
+        }
+      ],
+      "total_points": 156,
+      "rounded_off_total_points": 156,
+      "rank": 4,
+      "overall_points": 4727,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 40.32,
+          "effective_points": 80.64
+        },
+        {
+          "player": "Mayank Yadav",
+          "is_captain": false,
+          "points": 63.5,
+          "effective_points": 63.5
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": -4.93,
+          "effective_points": -4.93
+        }
+      ],
+      "total_points": 139,
+      "rounded_off_total_points": 139,
+      "rank": 5,
+      "overall_points": 4830,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Aiden Markram",
+          "is_captain": false,
+          "points": -4.12,
+          "effective_points": -4.12
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 40.32,
+          "effective_points": 80.64
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 60.14,
+          "effective_points": 60.14
+        }
+      ],
+      "total_points": 137,
+      "rounded_off_total_points": 137,
+      "rank": 6,
+      "overall_points": 4657,
+      "overall_rank": 5,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 40.32,
+          "effective_points": 80.64
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 33.45,
+          "effective_points": 33.45
+        },
+        {
+          "player": "Rohit Sharma",
+          "is_captain": false,
+          "points": 18.71,
+          "effective_points": 18.71
+        }
+      ],
+      "total_points": 133,
+      "rounded_off_total_points": 133,
+      "rank": 7,
+      "overall_points": 4185,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": true,
+          "points": 60.14,
+          "effective_points": 120.28
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": -4.93,
+          "effective_points": -4.93
+        },
+        {
+          "player": "Rishabh Pant",
+          "is_captain": false,
+          "points": 6.95,
+          "effective_points": 6.95
+        }
+      ],
+      "total_points": 122,
+      "rounded_off_total_points": 122,
+      "rank": 8,
+      "overall_points": 5792,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Ravi Bishnoi",
+          "is_captain": false,
+          "points": 44.56,
+          "effective_points": 44.56
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 60.14,
+          "effective_points": 60.14
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": -4.93,
+          "effective_points": -9.86
+        }
+      ],
+      "total_points": 95,
+      "rounded_off_total_points": 95,
+      "rank": 9,
+      "overall_points": 4636,
+      "overall_rank": 6,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": -4.93,
+          "effective_points": -9.86
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 33.45,
+          "effective_points": 33.45
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 40.32,
+          "effective_points": 40.32
+        }
+      ],
+      "total_points": 64,
+      "rounded_off_total_points": 64,
+      "rank": 10,
+      "overall_points": 4889,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Aiden Markram",
+          "is_captain": true,
+          "points": -4.12,
+          "effective_points": -8.24
+        },
+        {
+          "player": "Rohit Sharma",
+          "is_captain": false,
+          "points": 18.71,
+          "effective_points": 18.71
+        },
+        {
+          "player": "Trent Boult",
+          "is_captain": false,
+          "points": 53.1,
+          "effective_points": 53.1
+        }
+      ],
+      "total_points": 64,
+      "rounded_off_total_points": 64,
+      "rank": 10,
+      "overall_points": 4210,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 60.14,
+          "effective_points": 60.14
+        },
+        {
+          "player": "Aiden Markram",
+          "is_captain": false,
+          "points": -4.12,
+          "effective_points": -4.12
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": -4.93,
+          "effective_points": -9.86
+        }
+      ],
+      "total_points": 46,
+      "rounded_off_total_points": 46,
+      "rank": 12,
+      "overall_points": 3312,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    }
+  ]
+}
