@@ -22,6 +22,13 @@ export function OverallLeaderboardPage() {
       .catch(() => setAvailableMatches([]));
   }, []);
   
+  // Set default selected match to the latest match when availableMatches is loaded
+  useEffect(() => {
+    if (availableMatches.length > 0 && selectedMatch === undefined) {
+      setSelectedMatch(availableMatches[0]);
+    }
+  }, [availableMatches, selectedMatch]);
+  
   const handleTabChange = (tabId: string) => {
     setActiveTab(tabId as ActiveTab)
   }
