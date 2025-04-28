@@ -16,9 +16,10 @@ export function OverallLeaderboardPage() {
   
   // Get available match numbers
   useEffect(() => {
-    // This is hardcoded but could be fetched from an API in a real app
-    const matches = Array.from({ length: 42 }, (_, i) => i + 1).sort((a, b) => b - a);
-    setAvailableMatches(matches);
+    fetch('/data/results/match_manifest.json')
+      .then(res => res.json())
+      .then((matches: number[]) => setAvailableMatches(matches.sort((a, b) => b - a)))
+      .catch(() => setAvailableMatches([]));
   }, []);
   
   const handleTabChange = (tabId: string) => {

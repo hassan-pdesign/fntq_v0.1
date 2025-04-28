@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "convert-fixtures": "node scripts/convertFixtures.js",
+    "generate-match-manifest": "node scripts/generateMatchManifest.js",
     "dev": "npm run convert-fixtures && vite",
-    "build": "npm run convert-fixtures && tsc -b && vite build",
+    "build": "npm run convert-fixtures && npm run generate-match-manifest && tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
