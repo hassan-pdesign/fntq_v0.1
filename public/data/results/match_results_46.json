@@ -95,6 +95,35 @@
       "overall_rank_change": "↑1"
     },
     {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Josh Hazlewood",
+          "is_captain": false,
+          "points": 51.48,
+          "effective_points": 51.48
+        },
+        {
+          "player": "Krunal Pandya",
+          "is_captain": false,
+          "points": 126.15,
+          "effective_points": 126.15
+        },
+        {
+          "player": "Mukesh Kumar",
+          "is_captain": true,
+          "points": -18.53,
+          "effective_points": -37.06
+        }
+      ],
+      "total_points": 141,
+      "rounded_off_total_points": 141,
+      "rank": 4,
+      "overall_points": 4777,
+      "overall_rank": 5,
+      "overall_rank_change": "↑1"
+    },
+    {
       "name": "Bipin",
       "players": [
         {
@@ -118,7 +147,7 @@
       ],
       "total_points": 119,
       "rounded_off_total_points": 119,
-      "rank": 4,
+      "rank": 5,
       "overall_points": 5911,
       "overall_rank": 1,
       "overall_rank_change": "-"
@@ -147,7 +176,7 @@
       ],
       "total_points": 63,
       "rounded_off_total_points": 63,
-      "rank": 5,
+      "rank": 6,
       "overall_points": 4790,
       "overall_rank": 4,
       "overall_rank_change": "-"
@@ -176,7 +205,7 @@
       ],
       "total_points": 53,
       "rounded_off_total_points": 53,
-      "rank": 6,
+      "rank": 7,
       "overall_points": 4942,
       "overall_rank": 3,
       "overall_rank_change": "↓1"
@@ -205,10 +234,10 @@
       ],
       "total_points": 50,
       "rounded_off_total_points": 50,
-      "rank": 7,
+      "rank": 8,
       "overall_points": 4707,
-      "overall_rank": 5,
-      "overall_rank_change": "-"
+      "overall_rank": 6,
+      "overall_rank_change": "↓1"
     },
     {
       "name": "Utkarsh Ved",
@@ -234,7 +263,7 @@
       ],
       "total_points": 45,
       "rounded_off_total_points": 45,
-      "rank": 8,
+      "rank": 9,
       "overall_points": 297,
       "overall_rank": 15,
       "overall_rank_change": "-"
@@ -263,7 +292,7 @@
       ],
       "total_points": 35,
       "rounded_off_total_points": 35,
-      "rank": 9,
+      "rank": 10,
       "overall_points": 4220,
       "overall_rank": 7,
       "overall_rank_change": "↑1"
@@ -292,38 +321,9 @@
       ],
       "total_points": 31,
       "rounded_off_total_points": 31,
-      "rank": 10,
+      "rank": 11,
       "overall_points": 2736,
       "overall_rank": 13,
-      "overall_rank_change": "-"
-    },
-    {
-      "name": "Joshua",
-      "players": [
-        {
-          "player": "Josh Hazlewood",
-          "is_captain": false,
-          "points": 51.48,
-          "effective_points": 51.48
-        },
-        {
-          "player": "Hardik Pandya",
-          "is_captain": false,
-          "points": 0,
-          "effective_points": 0
-        },
-        {
-          "player": "Mukesh Kumar",
-          "is_captain": true,
-          "points": -18.53,
-          "effective_points": -37.06
-        }
-      ],
-      "total_points": 14,
-      "rounded_off_total_points": 14,
-      "rank": 11,
-      "overall_points": 4650,
-      "overall_rank": 6,
       "overall_rank_change": "-"
     },
     {

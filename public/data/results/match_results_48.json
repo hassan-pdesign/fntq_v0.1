@@ -1,0 +1,359 @@
+{
+  "match_number": 48,
+  "match_title": "Delhi Capitals v Kolkata Knight Riders - April 29, 2025",
+  "teams": {
+    "team1": "Delhi Capitals",
+    "team2": "Kolkata Knight Riders",
+    "winner": "Kolkata Knight Riders"
+  },
+  "participant_scores": [
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 122.29,
+          "effective_points": 244.58
+        },
+        {
+          "player": "Mitchell Starc",
+          "is_captain": false,
+          "points": 39.68,
+          "effective_points": 39.68
+        },
+        {
+          "player": "Axar Patel",
+          "is_captain": false,
+          "points": 113.89,
+          "effective_points": 113.89
+        }
+      ],
+      "total_points": 398,
+      "rounded_off_total_points": 398,
+      "rank": 1,
+      "overall_points": 4701,
+      "overall_rank": 7,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 122.29,
+          "effective_points": 244.58
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": false,
+          "points": 34.66,
+          "effective_points": 34.66
+        },
+        {
+          "player": "Axar Patel",
+          "is_captain": false,
+          "points": 113.89,
+          "effective_points": 113.89
+        }
+      ],
+      "total_points": 393,
+      "rounded_off_total_points": 393,
+      "rank": 2,
+      "overall_points": 5507,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 122.29,
+          "effective_points": 244.58
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 5.72,
+          "effective_points": 5.72
+        },
+        {
+          "player": "Axar Patel",
+          "is_captain": false,
+          "points": 113.89,
+          "effective_points": 113.89
+        }
+      ],
+      "total_points": 364,
+      "rounded_off_total_points": 364,
+      "rank": 3,
+      "overall_points": 4065,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Axar Patel",
+          "is_captain": true,
+          "points": 113.89,
+          "effective_points": 227.78
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": false,
+          "points": 122.29,
+          "effective_points": 122.29
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 5.72,
+          "effective_points": 5.72
+        }
+      ],
+      "total_points": 356,
+      "rounded_off_total_points": 356,
+      "rank": 4,
+      "overall_points": 6423,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Mitchell Starc",
+          "is_captain": false,
+          "points": 39.68,
+          "effective_points": 39.68
+        },
+        {
+          "player": "Anukul Roy",
+          "is_captain": false,
+          "points": 45.28,
+          "effective_points": 45.28
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 122.29,
+          "effective_points": 244.58
+        }
+      ],
+      "total_points": 330,
+      "rounded_off_total_points": 330,
+      "rank": 5,
+      "overall_points": 5215,
+      "overall_rank": 3,
+      "overall_rank_change": "↑3"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Faf du Plessis",
+          "is_captain": false,
+          "points": 48.35,
+          "effective_points": 48.35
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 122.29,
+          "effective_points": 244.58
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 5.72,
+          "effective_points": 5.72
+        }
+      ],
+      "total_points": 299,
+      "rounded_off_total_points": 299,
+      "rank": 6,
+      "overall_points": 3172,
+      "overall_rank": 12,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Abishek Porel",
+          "is_captain": false,
+          "points": 4.64,
+          "effective_points": 4.64
+        },
+        {
+          "player": "Axar Patel",
+          "is_captain": true,
+          "points": 113.89,
+          "effective_points": 227.78
+        },
+        {
+          "player": "Rovman Powell",
+          "is_captain": false,
+          "points": -0.1,
+          "effective_points": -0.1
+        }
+      ],
+      "total_points": 232,
+      "rounded_off_total_points": 232,
+      "rank": 7,
+      "overall_points": 5136,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": false,
+          "points": 122.29,
+          "effective_points": 122.29
+        },
+        {
+          "player": "Faf du Plessis",
+          "is_captain": false,
+          "points": 48.35,
+          "effective_points": 48.35
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": true,
+          "points": 5.72,
+          "effective_points": 11.44
+        }
+      ],
+      "total_points": 182,
+      "rounded_off_total_points": 182,
+      "rank": 8,
+      "overall_points": 5161,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": false,
+          "points": 122.29,
+          "effective_points": 122.29
+        },
+        {
+          "player": "Faf du Plessis",
+          "is_captain": false,
+          "points": 48.35,
+          "effective_points": 48.35
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": true,
+          "points": 5.72,
+          "effective_points": 11.44
+        }
+      ],
+      "total_points": 182,
+      "rounded_off_total_points": 182,
+      "rank": 8,
+      "overall_points": 3053,
+      "overall_rank": 13,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": false,
+          "points": 122.29,
+          "effective_points": 122.29
+        },
+        {
+          "player": "Karun Nair",
+          "is_captain": true,
+          "points": 6.86,
+          "effective_points": 13.72
+        },
+        {
+          "player": "Ajinkya Rahane",
+          "is_captain": false,
+          "points": 31.2,
+          "effective_points": 31.2
+        }
+      ],
+      "total_points": 167,
+      "rounded_off_total_points": 167,
+      "rank": 10,
+      "overall_points": 3635,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Karun Nair",
+          "is_captain": false,
+          "points": 6.86,
+          "effective_points": 6.86
+        },
+        {
+          "player": "Tristan Stubbs",
+          "is_captain": false,
+          "points": -5.44,
+          "effective_points": -5.44
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": true,
+          "points": 34.66,
+          "effective_points": 69.32
+        }
+      ],
+      "total_points": 71,
+      "rounded_off_total_points": 71,
+      "rank": 11,
+      "overall_points": 5129,
+      "overall_rank": 6,
+      "overall_rank_change": "↓3"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Karun Nair",
+          "is_captain": false,
+          "points": 6.86,
+          "effective_points": 6.86
+        },
+        {
+          "player": "KL Rahul",
+          "is_captain": true,
+          "points": 5.72,
+          "effective_points": 11.44
+        },
+        {
+          "player": "Ajinkya Rahane",
+          "is_captain": false,
+          "points": 31.2,
+          "effective_points": 31.2
+        }
+      ],
+      "total_points": 50,
+      "rounded_off_total_points": 50,
+      "rank": 12,
+      "overall_points": 4406,
+      "overall_rank": 8,
+      "overall_rank_change": "↓1"
+    }
+  ]
+}
