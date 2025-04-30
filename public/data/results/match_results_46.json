@@ -8,6 +8,35 @@
   },
   "participant_scores": [
     {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 26.05,
+          "effective_points": 52.1
+        },
+        {
+          "player": "Josh Hazlewood",
+          "is_captain": false,
+          "points": 51.48,
+          "effective_points": 51.48
+        },
+        {
+          "player": "Krunal Pandya",
+          "is_captain": false,
+          "points": 126.15,
+          "effective_points": 126.15
+        }
+      ],
+      "total_points": 230,
+      "rounded_off_total_points": 230,
+      "rank": 1,
+      "overall_points": 5060,
+      "overall_rank": 2,
+      "overall_rank_change": "↑1"
+    },
+    {
       "name": "Dr Praveen",
       "players": [
         {
@@ -31,7 +60,7 @@
       ],
       "total_points": 225,
       "rounded_off_total_points": 225,
-      "rank": 1,
+      "rank": 2,
       "overall_points": 3537,
       "overall_rank": 9,
       "overall_rank_change": "-"
@@ -60,7 +89,7 @@
       ],
       "total_points": 154,
       "rounded_off_total_points": 154,
-      "rank": 2,
+      "rank": 3,
       "overall_points": 3332,
       "overall_rank": 10,
       "overall_rank_change": "↑1"
@@ -89,38 +118,9 @@
       ],
       "total_points": 119,
       "rounded_off_total_points": 119,
-      "rank": 3,
+      "rank": 4,
       "overall_points": 5911,
       "overall_rank": 1,
-      "overall_rank_change": "-"
-    },
-    {
-      "name": "Sawant",
-      "players": [
-        {
-          "player": "Virat Kohli",
-          "is_captain": true,
-          "points": 26.05,
-          "effective_points": 52.1
-        },
-        {
-          "player": "Josh Hazlewood",
-          "is_captain": false,
-          "points": 51.48,
-          "effective_points": 51.48
-        },
-        {
-          "player": "Hardik Pandya",
-          "is_captain": false,
-          "points": 0,
-          "effective_points": 0
-        }
-      ],
-      "total_points": 104,
-      "rounded_off_total_points": 104,
-      "rank": 4,
-      "overall_points": 4934,
-      "overall_rank": 3,
       "overall_rank_change": "-"
     },
     {
@@ -178,8 +178,8 @@
       "rounded_off_total_points": 53,
       "rank": 6,
       "overall_points": 4942,
-      "overall_rank": 2,
-      "overall_rank_change": "-"
+      "overall_rank": 3,
+      "overall_rank_change": "↓1"
     },
     {
       "name": "Karthik",
