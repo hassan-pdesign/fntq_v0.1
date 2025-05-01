@@ -1,0 +1,359 @@
+{
+  "match_number": 49,
+  "match_title": "Chennai Super Kings v Punjab Kings - April 30, 2025",
+  "teams": {
+    "team1": "Chennai Super Kings",
+    "team2": "Punjab Kings",
+    "winner": "Punjab Kings"
+  },
+  "participant_scores": [
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Prabhsimran Singh",
+          "is_captain": true,
+          "points": 52.68,
+          "effective_points": 105.36
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 83.2,
+          "effective_points": 83.2
+        },
+        {
+          "player": "Priyansh Arya",
+          "is_captain": false,
+          "points": 25.44,
+          "effective_points": 25.44
+        }
+      ],
+      "total_points": 214,
+      "rounded_off_total_points": 214,
+      "rank": 1,
+      "overall_points": 5375,
+      "overall_rank": 3,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": true,
+          "points": 83.2,
+          "effective_points": 166.4
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 5.96,
+          "effective_points": 5.96
+        },
+        {
+          "player": "Yuzvendra Chahal",
+          "is_captain": false,
+          "points": 34.29,
+          "effective_points": 34.29
+        }
+      ],
+      "total_points": 207,
+      "rounded_off_total_points": 207,
+      "rank": 2,
+      "overall_points": 3379,
+      "overall_rank": 12,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Priyansh Arya",
+          "is_captain": true,
+          "points": 25.44,
+          "effective_points": 50.88
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 83.2,
+          "effective_points": 83.2
+        },
+        {
+          "player": "Sam Curran",
+          "is_captain": false,
+          "points": 62.76,
+          "effective_points": 62.76
+        }
+      ],
+      "total_points": 197,
+      "rounded_off_total_points": 197,
+      "rank": 3,
+      "overall_points": 4603,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Priyansh Arya",
+          "is_captain": true,
+          "points": 25.44,
+          "effective_points": 50.88
+        },
+        {
+          "player": "Marco Jansen",
+          "is_captain": false,
+          "points": 71.46,
+          "effective_points": 71.46
+        },
+        {
+          "player": "Yuzvendra Chahal",
+          "is_captain": false,
+          "points": 34.29,
+          "effective_points": 34.29
+        }
+      ],
+      "total_points": 157,
+      "rounded_off_total_points": 157,
+      "rank": 4,
+      "overall_points": 5664,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Ravindra Jadeja",
+          "is_captain": true,
+          "points": 22.82,
+          "effective_points": 45.64
+        },
+        {
+          "player": "Yuzvendra Chahal",
+          "is_captain": false,
+          "points": 34.29,
+          "effective_points": 34.29
+        },
+        {
+          "player": "Marco Jansen",
+          "is_captain": false,
+          "points": 71.46,
+          "effective_points": 71.46
+        }
+      ],
+      "total_points": 151,
+      "rounded_off_total_points": 151,
+      "rank": 5,
+      "overall_points": 4852,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Noor Ahmad",
+          "is_captain": true,
+          "points": 17.51,
+          "effective_points": 35.02
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 83.2,
+          "effective_points": 83.2
+        },
+        {
+          "player": "Shaik Rasheed",
+          "is_captain": false,
+          "points": -1.06,
+          "effective_points": -1.06
+        }
+      ],
+      "total_points": 117,
+      "rounded_off_total_points": 117,
+      "rank": 6,
+      "overall_points": 5332,
+      "overall_rank": 4,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Dewald Brevis",
+          "is_captain": true,
+          "points": 5.96,
+          "effective_points": 11.92
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 83.2,
+          "effective_points": 83.2
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": 17.51,
+          "effective_points": 17.51
+        }
+      ],
+      "total_points": 113,
+      "rounded_off_total_points": 113,
+      "rank": 7,
+      "overall_points": 4178,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Nehal Wadhera",
+          "is_captain": true,
+          "points": 3.61,
+          "effective_points": 7.22
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 5.96,
+          "effective_points": 5.96
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 83.2,
+          "effective_points": 83.2
+        }
+      ],
+      "total_points": 96,
+      "rounded_off_total_points": 96,
+      "rank": 8,
+      "overall_points": 5232,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Noor Ahmad",
+          "is_captain": true,
+          "points": 17.51,
+          "effective_points": 35.02
+        },
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": false,
+          "points": 1.49,
+          "effective_points": 1.49
+        },
+        {
+          "player": "Prabhsimran Singh",
+          "is_captain": false,
+          "points": 52.68,
+          "effective_points": 52.68
+        }
+      ],
+      "total_points": 89,
+      "rounded_off_total_points": 89,
+      "rank": 9,
+      "overall_points": 6512,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Utkarsh",
+      "players": [
+        {
+          "player": "MS Dhoni",
+          "is_captain": true,
+          "points": 8.64,
+          "effective_points": 17.28
+        },
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": false,
+          "points": 1.49,
+          "effective_points": 1.49
+        },
+        {
+          "player": "Arshdeep Singh",
+          "is_captain": false,
+          "points": 59.32,
+          "effective_points": 59.32
+        }
+      ],
+      "total_points": 78,
+      "rounded_off_total_points": 78,
+      "rank": 10,
+      "overall_points": 955,
+      "overall_rank": 14,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Dewald Brevis",
+          "is_captain": true,
+          "points": 5.96,
+          "effective_points": 11.92
+        },
+        {
+          "player": "Ravindra Jadeja",
+          "is_captain": false,
+          "points": 22.82,
+          "effective_points": 22.82
+        },
+        {
+          "player": "Yuzvendra Chahal",
+          "is_captain": false,
+          "points": 34.29,
+          "effective_points": 34.29
+        }
+      ],
+      "total_points": 69,
+      "rounded_off_total_points": 69,
+      "rank": 11,
+      "overall_points": 3704,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": true,
+          "points": 1.49,
+          "effective_points": 2.98
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 5.96,
+          "effective_points": 5.96
+        },
+        {
+          "player": "Prabhsimran Singh",
+          "is_captain": false,
+          "points": 52.68,
+          "effective_points": 52.68
+        }
+      ],
+      "total_points": 62,
+      "rounded_off_total_points": 62,
+      "rank": 12,
+      "overall_points": 3115,
+      "overall_rank": 13,
+      "overall_rank_change": "-"
+    }
+  ]
+}
