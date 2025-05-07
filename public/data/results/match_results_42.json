@@ -32,9 +32,9 @@
       "total_points": 329,
       "rounded_off_total_points": 329,
       "rank": 1,
-      "overall_points": 4578,
+      "overall_points": 4653,
       "overall_rank": 3,
-      "overall_rank_change": "↑2"
+      "overall_rank_change": "-"
     },
     {
       "name": "Joshua",
@@ -61,9 +61,9 @@
       "total_points": 293,
       "rounded_off_total_points": 293,
       "rank": 2,
-      "overall_points": 4348,
-      "overall_rank": 6,
-      "overall_rank_change": "-"
+      "overall_points": 4406,
+      "overall_rank": 5,
+      "overall_rank_change": "↑1"
     },
     {
       "name": "Bipin",
@@ -90,7 +90,7 @@
       "total_points": 259,
       "rounded_off_total_points": 259,
       "rank": 3,
-      "overall_points": 5540,
+      "overall_points": 5502,
       "overall_rank": 1,
       "overall_rank_change": "-"
     },
@@ -119,7 +119,7 @@
       "total_points": 253,
       "rounded_off_total_points": 253,
       "rank": 4,
-      "overall_points": 3168,
+      "overall_points": 3222,
       "overall_rank": 10,
       "overall_rank_change": "-"
     },
@@ -177,9 +177,9 @@
       "total_points": 218,
       "rounded_off_total_points": 218,
       "rank": 6,
-      "overall_points": 3997,
-      "overall_rank": 7,
-      "overall_rank_change": "↑1"
+      "overall_points": 4021,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
     },
     {
       "name": "Parkhi",
@@ -206,7 +206,7 @@
       "total_points": 207,
       "rounded_off_total_points": 207,
       "rank": 7,
-      "overall_points": 3225,
+      "overall_points": 3326,
       "overall_rank": 9,
       "overall_rank_change": "-"
     },
@@ -235,7 +235,7 @@
       "total_points": 146,
       "rounded_off_total_points": 146,
       "rank": 8,
-      "overall_points": 4634,
+      "overall_points": 4709,
       "overall_rank": 2,
       "overall_rank_change": "-"
     },
@@ -264,9 +264,9 @@
       "total_points": 138,
       "rounded_off_total_points": 138,
       "rank": 9,
-      "overall_points": 3977,
-      "overall_rank": 8,
-      "overall_rank_change": "↓1"
+      "overall_points": 4057,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
     },
     {
       "name": "Karthik",
@@ -293,9 +293,9 @@
       "total_points": 117,
       "rounded_off_total_points": 117,
       "rank": 10,
-      "overall_points": 4466,
-      "overall_rank": 5,
-      "overall_rank_change": "↓2"
+      "overall_points": 4329,
+      "overall_rank": 6,
+      "overall_rank_change": "↓1"
     },
     {
       "name": "Vikki",
@@ -322,7 +322,7 @@
       "total_points": 22,
       "rounded_off_total_points": 22,
       "rank": 11,
-      "overall_points": 2480,
+      "overall_points": 2412,
       "overall_rank": 13,
       "overall_rank_change": "-"
     }

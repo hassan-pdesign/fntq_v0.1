@@ -1,28 +1,28 @@
 {
   "Bipin": {
     "matches_played": 32,
-    "cumulative_points": 4537,
-    "average": 141.78,
-    "wins": 4,
-    "podiums": 11,
+    "cumulative_points": 4499,
+    "average": 140.59,
+    "wins": 3,
+    "podiums": 10,
     "overall_rank": 1,
     "overall_rank_change": "-"
   },
   "Dubai Deepak": {
     "matches_played": 30,
-    "cumulative_points": 3929,
-    "average": 130.97,
+    "cumulative_points": 4004,
+    "average": 133.47,
     "wins": 6,
-    "podiums": 11,
+    "podiums": 12,
     "overall_rank": 2,
     "overall_rank_change": "-"
   },
   "Sawant": {
     "matches_played": 32,
-    "cumulative_points": 3904,
-    "average": 122.0,
+    "cumulative_points": 3979,
+    "average": 124.34,
     "wins": 3,
-    "podiums": 8,
+    "podiums": 9,
     "overall_rank": 3,
     "overall_rank_change": "-"
   },
@@ -35,39 +35,39 @@
     "overall_rank": 4,
     "overall_rank_change": "-"
   },
-  "Karthik": {
-    "matches_played": 32,
-    "cumulative_points": 3614,
-    "average": 112.94,
-    "wins": 0,
-    "podiums": 7,
+  "Joshua": {
+    "matches_played": 30,
+    "cumulative_points": 3565,
+    "average": 118.83,
+    "wins": 4,
+    "podiums": 10,
     "overall_rank": 5,
     "overall_rank_change": "-"
   },
-  "Joshua": {
-    "matches_played": 30,
-    "cumulative_points": 3507,
-    "average": 116.9,
-    "wins": 4,
-    "podiums": 10,
+  "Karthik": {
+    "matches_played": 31,
+    "cumulative_points": 3477,
+    "average": 112.16,
+    "wins": 0,
+    "podiums": 6,
     "overall_rank": 6,
     "overall_rank_change": "-"
   },
   "Janeesh": {
     "matches_played": 30,
-    "cumulative_points": 3227,
-    "average": 107.57,
+    "cumulative_points": 3251,
+    "average": 108.37,
     "wins": 2,
-    "podiums": 6,
+    "podiums": 5,
     "overall_rank": 7,
     "overall_rank_change": "-"
   },
   "KV": {
     "matches_played": 31,
-    "cumulative_points": 3109,
-    "average": 100.29,
+    "cumulative_points": 3189,
+    "average": 102.87,
     "wins": 0,
-    "podiums": 10,
+    "podiums": 11,
     "overall_rank": 8,
     "overall_rank_change": "-"
   },
@@ -91,30 +91,30 @@
   },
   "Parkhi": {
     "matches_played": 22,
-    "cumulative_points": 2408,
-    "average": 109.45,
-    "wins": 2,
-    "podiums": 5,
+    "cumulative_points": 2509,
+    "average": 114.05,
+    "wins": 3,
+    "podiums": 6,
     "overall_rank": 11,
     "overall_rank_change": "-"
   },
   "Dr Praveen": {
     "matches_played": 18,
-    "cumulative_points": 2265,
-    "average": 125.83,
+    "cumulative_points": 2319,
+    "average": 128.83,
     "wins": 2,
     "podiums": 4,
     "overall_rank": 12,
-    "overall_rank_change": "↑1"
+    "overall_rank_change": "-"
   },
   "Vikki": {
     "matches_played": 18,
-    "cumulative_points": 2161,
-    "average": 120.06,
+    "cumulative_points": 2093,
+    "average": 116.28,
     "wins": 2,
-    "podiums": 4,
+    "podiums": 3,
     "overall_rank": 13,
-    "overall_rank_change": "↓1"
+    "overall_rank_change": "-"
   },
   "Utkarsh": {
     "matches_played": 9,

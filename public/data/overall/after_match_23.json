@@ -51,16 +51,7 @@
     "wins": 2,
     "podiums": 6,
     "overall_rank": 6,
-    "overall_rank_change": "↑1"
-  },
-  "Karthik": {
-    "matches_played": 22,
-    "cumulative_points": 2387,
-    "average": 108.5,
-    "wins": 0,
-    "podiums": 5,
-    "overall_rank": 7,
-    "overall_rank_change": "↓1"
+    "overall_rank_change": "-"
   },
   "Janeesh": {
     "matches_played": 21,
@@ -68,7 +59,7 @@
     "average": 110.52,
     "wins": 2,
     "podiums": 5,
-    "overall_rank": 8,
+    "overall_rank": 7,
     "overall_rank_change": "-"
   },
   "KV": {
@@ -76,9 +67,18 @@
     "cumulative_points": 2225,
     "average": 101.14,
     "wins": 0,
-    "podiums": 7,
+    "podiums": 8,
+    "overall_rank": 8,
+    "overall_rank_change": "↑1"
+  },
+  "Karthik": {
+    "matches_played": 21,
+    "cumulative_points": 2195,
+    "average": 104.52,
+    "wins": 0,
+    "podiums": 4,
     "overall_rank": 9,
-    "overall_rank_change": "-"
+    "overall_rank_change": "↓1"
   },
   "Ducati Deepak": {
     "matches_played": 17,

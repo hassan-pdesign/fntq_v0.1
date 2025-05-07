@@ -1,10 +1,10 @@
 {
   "match_number": 10,
-  "match_title": "Delhi Capitals v Sunrisers Hyderabad - March 30, 2025",
+  "match_title": "SRH v DC - March 30, 2025",
   "teams": {
-    "team1": "Delhi Capitals",
-    "team2": "Sunrisers Hyderabad",
-    "winner": "Delhi Capitals"
+    "team1": "SRH",
+    "team2": "DC",
+    "winner": "DC"
   },
   "participant_scores": [
     {

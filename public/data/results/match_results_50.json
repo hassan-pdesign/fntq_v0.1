@@ -1,0 +1,359 @@
+{
+  "match_number": 50,
+  "match_title": "MI v RR - May 01, 2025",
+  "teams": {
+    "team1": "MI",
+    "team2": "RR",
+    "winner": "MI"
+  },
+  "participant_scores": [
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": 69.76,
+          "effective_points": 139.52
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 25.33,
+          "effective_points": 25.33
+        },
+        {
+          "player": "Jasprit Bumrah",
+          "is_captain": false,
+          "points": 48.94,
+          "effective_points": 48.94
+        }
+      ],
+      "total_points": 214,
+      "rounded_off_total_points": 214,
+      "rank": 1,
+      "overall_points": 6665,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 25.33,
+          "effective_points": 25.33
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": true,
+          "points": 63.61,
+          "effective_points": 127.22
+        },
+        {
+          "player": "Jasprit Bumrah",
+          "is_captain": false,
+          "points": 48.94,
+          "effective_points": 48.94
+        }
+      ],
+      "total_points": 201,
+      "rounded_off_total_points": 201,
+      "rank": 2,
+      "overall_points": 3877,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 63.61,
+          "effective_points": 63.61
+        },
+        {
+          "player": "Vaibhav Suryavanshi",
+          "is_captain": false,
+          "points": -5.32,
+          "effective_points": -5.32
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": 69.76,
+          "effective_points": 139.52
+        }
+      ],
+      "total_points": 198,
+      "rounded_off_total_points": 198,
+      "rank": 3,
+      "overall_points": 5434,
+      "overall_rank": 4,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Nitish Rana",
+          "is_captain": false,
+          "points": 0.55,
+          "effective_points": 0.55
+        },
+        {
+          "player": "Rohit Sharma",
+          "is_captain": false,
+          "points": 50.1,
+          "effective_points": 50.1
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": true,
+          "points": 63.61,
+          "effective_points": 127.22
+        }
+      ],
+      "total_points": 178,
+      "rounded_off_total_points": 178,
+      "rank": 4,
+      "overall_points": 5485,
+      "overall_rank": 3,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Rohit Sharma",
+          "is_captain": true,
+          "points": 50.1,
+          "effective_points": 100.2
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": 69.76,
+          "effective_points": 69.76
+        },
+        {
+          "player": "Vaibhav Suryavanshi",
+          "is_captain": false,
+          "points": -5.32,
+          "effective_points": -5.32
+        }
+      ],
+      "total_points": 165,
+      "rounded_off_total_points": 165,
+      "rank": 5,
+      "overall_points": 5232,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Vaibhav Suryavanshi",
+          "is_captain": false,
+          "points": -5.32,
+          "effective_points": -5.32
+        },
+        {
+          "player": "Ryan Rickelton",
+          "is_captain": true,
+          "points": 69.18,
+          "effective_points": 138.36
+        },
+        {
+          "player": "Nitish Rana",
+          "is_captain": false,
+          "points": 0.55,
+          "effective_points": 0.55
+        }
+      ],
+      "total_points": 134,
+      "rounded_off_total_points": 134,
+      "rank": 6,
+      "overall_points": 3462,
+      "overall_rank": 12,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Vaibhav Suryavanshi",
+          "is_captain": false,
+          "points": -5.32,
+          "effective_points": -5.32
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": true,
+          "points": 25.33,
+          "effective_points": 50.66
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 63.61,
+          "effective_points": 63.61
+        }
+      ],
+      "total_points": 109,
+      "rounded_off_total_points": 109,
+      "rank": 7,
+      "overall_points": 4708,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Rohit Sharma",
+          "is_captain": false,
+          "points": 50.1,
+          "effective_points": 50.1
+        },
+        {
+          "player": "Will Jacks",
+          "is_captain": true,
+          "points": 0.0,
+          "effective_points": 0.0
+        },
+        {
+          "player": "Jasprit Bumrah",
+          "is_captain": false,
+          "points": 48.94,
+          "effective_points": 48.94
+        }
+      ],
+      "total_points": 99,
+      "rounded_off_total_points": 99,
+      "rank": 8,
+      "overall_points": 5014,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Vaibhav Suryavanshi",
+          "is_captain": true,
+          "points": -5.32,
+          "effective_points": -10.64
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 25.33,
+          "effective_points": 25.33
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 63.61,
+          "effective_points": 63.61
+        }
+      ],
+      "total_points": 78,
+      "rounded_off_total_points": 78,
+      "rank": 9,
+      "overall_points": 3142,
+      "overall_rank": 13,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Nitish Rana",
+          "is_captain": true,
+          "points": 0.55,
+          "effective_points": 1.1
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": 69.76,
+          "effective_points": 69.76
+        },
+        {
+          "player": "Corbin Bosch",
+          "is_captain": false,
+          "points": -2.12,
+          "effective_points": -2.12
+        }
+      ],
+      "total_points": 69,
+      "rounded_off_total_points": 69,
+      "rank": 10,
+      "overall_points": 5423,
+      "overall_rank": 5,
+      "overall_rank_change": "↓2"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Will Jacks",
+          "is_captain": true,
+          "points": 0.0,
+          "effective_points": 0.0
+        },
+        {
+          "player": "Trent Boult",
+          "is_captain": false,
+          "points": 42.91,
+          "effective_points": 42.91
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 25.33,
+          "effective_points": 25.33
+        }
+      ],
+      "total_points": 68,
+      "rounded_off_total_points": 68,
+      "rank": 11,
+      "overall_points": 5897,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Parkhi",
+      "players": [
+        {
+          "player": "Vaibhav Suryavanshi",
+          "is_captain": true,
+          "points": -5.32,
+          "effective_points": -10.64
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 25.33,
+          "effective_points": 25.33
+        },
+        {
+          "player": "Rohit Sharma",
+          "is_captain": false,
+          "points": 50.1,
+          "effective_points": 50.1
+        }
+      ],
+      "total_points": 65,
+      "rounded_off_total_points": 65,
+      "rank": 12,
+      "overall_points": 3570,
+      "overall_rank": 11,
+      "overall_rank_change": "-"
+    }
+  ]
+}

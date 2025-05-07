@@ -62,8 +62,8 @@
       "rounded_off_total_points": 184,
       "rank": 2,
       "overall_points": 2225,
-      "overall_rank": 9,
-      "overall_rank_change": "-"
+      "overall_rank": 8,
+      "overall_rank_change": "↑1"
     },
     {
       "name": "Dr Vivek",
@@ -92,7 +92,7 @@
       "rank": 2,
       "overall_points": 2434,
       "overall_rank": 6,
-      "overall_rank_change": "↑1"
+      "overall_rank_change": "-"
     },
     {
       "name": "Joshua",
@@ -207,7 +207,7 @@
       "rounded_off_total_points": 163,
       "rank": 7,
       "overall_points": 2321,
-      "overall_rank": 8,
+      "overall_rank": 7,
       "overall_rank_change": "-"
     },
     {
@@ -322,8 +322,8 @@
       "total_points": 70,
       "rounded_off_total_points": 70,
       "rank": 11,
-      "overall_points": 2387,
-      "overall_rank": 7,
+      "overall_points": 2195,
+      "overall_rank": 9,
       "overall_rank_change": "↓1"
     }
   ]

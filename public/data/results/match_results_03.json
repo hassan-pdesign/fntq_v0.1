@@ -1,6 +1,6 @@
 {
   "match_number": 3,
-  "match_title": "CSK v MI - March 23, 2025",
+  "match_title": "Mumbai Indians v Chennai Super Kings - March 23, 2025",
   "teams": {
     "team1": "Mumbai Indians",
     "team2": "Chennai Super Kings",
@@ -8,7 +8,6 @@
   },
   "participant_scores": [
     {
-      "rank": 1,
       "name": "Dr Vivek",
       "players": [
         {
@@ -19,23 +18,25 @@
         },
         {
           "player": "Rachin Ravindra",
+          "is_captain": false,
           "points": 70.14,
           "effective_points": 70.14
         },
         {
           "player": "Suryakumar Yadav",
+          "is_captain": false,
           "points": 23.62,
           "effective_points": 23.62
         }
       ],
       "total_points": 275,
       "rounded_off_total_points": 275,
+      "rank": 1,
       "overall_points": 368,
       "overall_rank": 8,
       "overall_rank_change": "↑4"
     },
     {
-      "rank": 2,
       "name": "Joshua",
       "players": [
         {
@@ -46,23 +47,25 @@
         },
         {
           "player": "Khaleel Ahmed",
+          "is_captain": false,
           "points": 80.46,
           "effective_points": 80.46
         },
         {
           "player": "Suryakumar Yadav",
+          "is_captain": false,
           "points": 23.62,
           "effective_points": 23.62
         }
       ],
       "total_points": 244,
       "rounded_off_total_points": 244,
+      "rank": 2,
       "overall_points": 500,
       "overall_rank": 3,
       "overall_rank_change": "↑4"
     },
     {
-      "rank": 3,
       "name": "Karthik",
       "players": [
         {
@@ -73,23 +76,25 @@
         },
         {
           "player": "Sam Curran",
+          "is_captain": false,
           "points": -16.54,
           "effective_points": -16.54
         },
         {
           "player": "Will Jacks",
+          "is_captain": false,
           "points": 48.18,
           "effective_points": 48.18
         }
       ],
       "total_points": 212,
       "rounded_off_total_points": 212,
+      "rank": 3,
       "overall_points": 409,
       "overall_rank": 6,
       "overall_rank_change": "↑5"
     },
     {
-      "rank": 3,
       "name": "Ducati Deepak",
       "players": [
         {
@@ -100,23 +105,25 @@
         },
         {
           "player": "Will Jacks",
+          "is_captain": false,
           "points": 48.18,
           "effective_points": 48.18
         },
         {
           "player": "Sam Curran",
+          "is_captain": false,
           "points": -16.54,
           "effective_points": -16.54
         }
       ],
       "total_points": 212,
       "rounded_off_total_points": 212,
+      "rank": 3,
       "overall_points": 245,
       "overall_rank": 11,
       "overall_rank_change": "↑4"
     },
     {
-      "rank": 5,
       "name": "Bipin",
       "players": [
         {
@@ -127,23 +134,25 @@
         },
         {
           "player": "Tilak Varma",
+          "is_captain": false,
           "points": 29.43,
           "effective_points": 29.43
         },
         {
           "player": "Ravindra Jadeja",
+          "is_captain": false,
           "points": 12.71,
           "effective_points": 12.71
         }
       ],
       "total_points": 182,
       "rounded_off_total_points": 182,
+      "rank": 5,
       "overall_points": 534,
       "overall_rank": 2,
       "overall_rank_change": "↑2"
     },
     {
-      "rank": 6,
       "name": "Dubai Deepak",
       "players": [
         {
@@ -154,23 +163,25 @@
         },
         {
           "player": "Rachin Ravindra",
+          "is_captain": false,
           "points": 70.14,
           "effective_points": 70.14
         },
         {
           "player": "Tilak Varma",
+          "is_captain": false,
           "points": 29.43,
           "effective_points": 29.43
         }
       ],
       "total_points": 153,
       "rounded_off_total_points": 153,
+      "rank": 6,
       "overall_points": 570,
       "overall_rank": 1,
       "overall_rank_change": "↑1"
     },
     {
-      "rank": 7,
       "name": "Dr Praveen",
       "players": [
         {
@@ -181,23 +192,25 @@
         },
         {
           "player": "Ravindra Jadeja",
+          "is_captain": false,
           "points": 12.71,
           "effective_points": 12.71
         },
         {
           "player": "Ruturaj Gaikwad",
+          "is_captain": false,
           "points": 90.39,
           "effective_points": 90.39
         }
       ],
       "total_points": 150,
       "rounded_off_total_points": 150,
+      "rank": 7,
       "overall_points": 208,
       "overall_rank": 14,
       "overall_rank_change": "-"
     },
     {
-      "rank": 8,
       "name": "Janeesh",
       "players": [
         {
@@ -208,23 +221,25 @@
         },
         {
           "player": "Ruturaj Gaikwad",
+          "is_captain": false,
           "points": 90.39,
           "effective_points": 90.39
         },
         {
           "player": "Rachin Ravindra",
+          "is_captain": false,
           "points": 70.14,
           "effective_points": 70.14
         }
       ],
       "total_points": 146,
       "rounded_off_total_points": 146,
+      "rank": 8,
       "overall_points": 358,
       "overall_rank": 10,
       "overall_rank_change": "-"
     },
     {
-      "rank": 9,
       "name": "KV",
       "players": [
         {
@@ -235,23 +250,25 @@
         },
         {
           "player": "Ruturaj Gaikwad",
+          "is_captain": false,
           "points": 90.39,
           "effective_points": 90.39
         },
         {
           "player": "Devon Conway",
+          "is_captain": false,
           "points": 0,
           "effective_points": 0
         }
       ],
       "total_points": 138,
       "rounded_off_total_points": 138,
+      "rank": 9,
       "overall_points": 497,
       "overall_rank": 4,
       "overall_rank_change": "↓1"
     },
     {
-      "rank": 10,
       "name": "Pavethy",
       "players": [
         {
@@ -262,23 +279,25 @@
         },
         {
           "player": "Rachin Ravindra",
+          "is_captain": false,
           "points": 70.14,
           "effective_points": 70.14
         },
         {
           "player": "Rohit Sharma",
+          "is_captain": false,
           "points": -7.04,
           "effective_points": -7.04
         }
       ],
       "total_points": 102,
       "rounded_off_total_points": 102,
+      "rank": 10,
       "overall_points": 388,
       "overall_rank": 7,
       "overall_rank_change": "↓2"
     },
     {
-      "rank": 11,
       "name": "Sawant",
       "players": [
         {
@@ -289,23 +308,25 @@
         },
         {
           "player": "Ruturaj Gaikwad",
+          "is_captain": false,
           "points": 90.39,
           "effective_points": 90.39
         },
         {
           "player": "Shivam Dube",
+          "is_captain": false,
           "points": 9.04,
           "effective_points": 9.04
         }
       ],
       "total_points": 85,
       "rounded_off_total_points": 85,
+      "rank": 11,
       "overall_points": 358,
       "overall_rank": 9,
       "overall_rank_change": "↓3"
     },
     {
-      "rank": 12,
       "name": "Parkhi",
       "players": [
         {
@@ -316,17 +337,20 @@
         },
         {
           "player": "Rachin Ravindra",
+          "is_captain": false,
           "points": 70.14,
           "effective_points": 70.14
         },
         {
           "player": "Rohit Sharma",
+          "is_captain": false,
           "points": -7.04,
           "effective_points": -7.04
         }
       ],
       "total_points": 59,
       "rounded_off_total_points": 59,
+      "rank": 12,
       "overall_points": 477,
       "overall_rank": 5,
       "overall_rank_change": "↓4"

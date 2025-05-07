@@ -1,0 +1,359 @@
+{
+  "match_number": 52,
+  "match_title": "RCB v CSK - May 03, 2025",
+  "teams": {
+    "team1": "RCB",
+    "team2": "CSK",
+    "winner": "RCB"
+  },
+  "participant_scores": [
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": 63.06,
+          "effective_points": 63.06
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 66.8,
+          "effective_points": 66.8
+        },
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": true,
+          "points": 102.82,
+          "effective_points": 205.64
+        }
+      ],
+      "total_points": 336,
+      "rounded_off_total_points": 336,
+      "rank": 1,
+      "overall_points": 6040,
+      "overall_rank": 3,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 66.8,
+          "effective_points": 133.6
+        },
+        {
+          "player": "Krunal Pandya",
+          "is_captain": false,
+          "points": 40.47,
+          "effective_points": 40.47
+        },
+        {
+          "player": "Lungi Ngidi",
+          "is_captain": false,
+          "points": 115.46,
+          "effective_points": 115.46
+        }
+      ],
+      "total_points": 290,
+      "rounded_off_total_points": 290,
+      "rank": 2,
+      "overall_points": 6480,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 66.8,
+          "effective_points": 133.6
+        },
+        {
+          "player": "Romario Shepherd",
+          "is_captain": false,
+          "points": 94.05,
+          "effective_points": 94.05
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": -2.78,
+          "effective_points": -2.78
+        }
+      ],
+      "total_points": 225,
+      "rounded_off_total_points": 225,
+      "rank": 3,
+      "overall_points": 5703,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": -2.78,
+          "effective_points": -2.78
+        },
+        {
+          "player": "Ravindra Jadeja",
+          "is_captain": true,
+          "points": 72.81,
+          "effective_points": 145.62
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 66.8,
+          "effective_points": 66.8
+        }
+      ],
+      "total_points": 210,
+      "rounded_off_total_points": 210,
+      "rank": 4,
+      "overall_points": 4614,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 66.8,
+          "effective_points": 133.6
+        },
+        {
+          "player": "Ravindra Jadeja",
+          "is_captain": false,
+          "points": 72.81,
+          "effective_points": 72.81
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": -2.78,
+          "effective_points": -2.78
+        }
+      ],
+      "total_points": 204,
+      "rounded_off_total_points": 204,
+      "rank": 5,
+      "overall_points": 4154,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Devdutt Padikkal",
+          "is_captain": false,
+          "points": -3.37,
+          "effective_points": -3.37
+        },
+        {
+          "player": "Ravindra Jadeja",
+          "is_captain": true,
+          "points": 72.81,
+          "effective_points": 145.62
+        },
+        {
+          "player": "Krunal Pandya",
+          "is_captain": false,
+          "points": 40.47,
+          "effective_points": 40.47
+        }
+      ],
+      "total_points": 183,
+      "rounded_off_total_points": 183,
+      "rank": 6,
+      "overall_points": 5737,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 66.8,
+          "effective_points": 66.8
+        },
+        {
+          "player": "Sam Curran",
+          "is_captain": true,
+          "points": 36.72,
+          "effective_points": 73.44
+        },
+        {
+          "player": "Krunal Pandya",
+          "is_captain": false,
+          "points": 40.47,
+          "effective_points": 40.47
+        }
+      ],
+      "total_points": 181,
+      "rounded_off_total_points": 181,
+      "rank": 7,
+      "overall_points": 5324,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Krunal Pandya",
+          "is_captain": false,
+          "points": 40.47,
+          "effective_points": 40.47
+        },
+        {
+          "player": "Rajat Patidar",
+          "is_captain": false,
+          "points": -26.21,
+          "effective_points": -26.21
+        },
+        {
+          "player": "Ravindra Jadeja",
+          "is_captain": true,
+          "points": 72.81,
+          "effective_points": 145.62
+        }
+      ],
+      "total_points": 160,
+      "rounded_off_total_points": 160,
+      "rank": 8,
+      "overall_points": 7011,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 66.8,
+          "effective_points": 133.6
+        },
+        {
+          "player": "Devdutt Padikkal",
+          "is_captain": false,
+          "points": -3.37,
+          "effective_points": -3.37
+        },
+        {
+          "player": "Rajat Patidar",
+          "is_captain": false,
+          "points": -26.21,
+          "effective_points": -26.21
+        }
+      ],
+      "total_points": 104,
+      "rounded_off_total_points": 104,
+      "rank": 9,
+      "overall_points": 5923,
+      "overall_rank": 4,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Jacob Bethell",
+          "is_captain": false,
+          "points": 46.55,
+          "effective_points": 46.55
+        },
+        {
+          "player": "Sam Curran",
+          "is_captain": false,
+          "points": 36.72,
+          "effective_points": 36.72
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": true,
+          "points": -2.78,
+          "effective_points": -5.56
+        }
+      ],
+      "total_points": 78,
+      "rounded_off_total_points": 78,
+      "rank": 10,
+      "overall_points": 3581,
+      "overall_rank": 11,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": false,
+          "points": 102.82,
+          "effective_points": 102.82
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": true,
+          "points": -2.78,
+          "effective_points": -5.56
+        },
+        {
+          "player": "Rajat Patidar",
+          "is_captain": false,
+          "points": -26.21,
+          "effective_points": -26.21
+        }
+      ],
+      "total_points": 71,
+      "rounded_off_total_points": 71,
+      "rank": 11,
+      "overall_points": 3244,
+      "overall_rank": 13,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Devdutt Padikkal",
+          "is_captain": false,
+          "points": -3.37,
+          "effective_points": -3.37
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": true,
+          "points": -2.78,
+          "effective_points": -5.56
+        },
+        {
+          "player": "Sam Curran",
+          "is_captain": false,
+          "points": 36.72,
+          "effective_points": 36.72
+        }
+      ],
+      "total_points": 28,
+      "rounded_off_total_points": 28,
+      "rank": 12,
+      "overall_points": 5006,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    }
+  ]
+}

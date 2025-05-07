@@ -35,22 +35,13 @@
     "overall_rank": 4,
     "overall_rank_change": "-"
   },
-  "Karthik": {
-    "matches_played": 19,
-    "cumulative_points": 2020,
-    "average": 106.32,
-    "wins": 0,
-    "podiums": 5,
-    "overall_rank": 5,
-    "overall_rank_change": "-"
-  },
   "Pavethy": {
     "matches_played": 20,
     "cumulative_points": 1986,
     "average": 99.3,
     "wins": 2,
     "podiums": 7,
-    "overall_rank": 6,
+    "overall_rank": 5,
     "overall_rank_change": "-"
   },
   "Dr Vivek": {
@@ -59,6 +50,15 @@
     "average": 127.27,
     "wins": 2,
     "podiums": 5,
+    "overall_rank": 6,
+    "overall_rank_change": "-"
+  },
+  "Karthik": {
+    "matches_played": 18,
+    "cumulative_points": 1828,
+    "average": 101.56,
+    "wins": 0,
+    "podiums": 4,
     "overall_rank": 7,
     "overall_rank_change": "-"
   },
@@ -67,7 +67,7 @@
     "cumulative_points": 1824,
     "average": 96.0,
     "wins": 0,
-    "podiums": 6,
+    "podiums": 7,
     "overall_rank": 8,
     "overall_rank_change": "↑1"
   },

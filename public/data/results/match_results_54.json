@@ -1,0 +1,330 @@
+{
+  "match_number": 54,
+  "match_title": "PBKS v LSG - May 04, 2025",
+  "teams": {
+    "team1": "PBKS",
+    "team2": "LSG",
+    "winner": "PBKS"
+  },
+  "participant_scores": [
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 1.12,
+          "effective_points": 1.12
+        },
+        {
+          "player": "Prabhsimran Singh",
+          "is_captain": true,
+          "points": 89.89,
+          "effective_points": 179.78
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 39.28,
+          "effective_points": 39.28
+        }
+      ],
+      "total_points": 220,
+      "rounded_off_total_points": 220,
+      "rank": 1,
+      "overall_points": 3506,
+      "overall_rank": 13,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 1.12,
+          "effective_points": 2.24
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 39.28,
+          "effective_points": 39.28
+        },
+        {
+          "player": "Prabhsimran Singh",
+          "is_captain": false,
+          "points": 89.89,
+          "effective_points": 89.89
+        }
+      ],
+      "total_points": 131,
+      "rounded_off_total_points": 131,
+      "rank": 2,
+      "overall_points": 4285,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Aiden Markram",
+          "is_captain": false,
+          "points": 7.06,
+          "effective_points": 7.06
+        },
+        {
+          "player": "Prince Yadav",
+          "is_captain": false,
+          "points": 43.41,
+          "effective_points": 43.41
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": true,
+          "points": 39.28,
+          "effective_points": 78.56
+        }
+      ],
+      "total_points": 129,
+      "rounded_off_total_points": 129,
+      "rank": 3,
+      "overall_points": 5951,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 1.12,
+          "effective_points": 2.24
+        },
+        {
+          "player": "Marco Jansen",
+          "is_captain": false,
+          "points": 19.08,
+          "effective_points": 19.08
+        },
+        {
+          "player": "Prabhsimran Singh",
+          "is_captain": false,
+          "points": 89.89,
+          "effective_points": 89.89
+        }
+      ],
+      "total_points": 111,
+      "rounded_off_total_points": 111,
+      "rank": 4,
+      "overall_points": 6818,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 1.12,
+          "effective_points": 2.24
+        },
+        {
+          "player": "Aiden Markram",
+          "is_captain": false,
+          "points": 7.06,
+          "effective_points": 7.06
+        },
+        {
+          "player": "Prabhsimran Singh",
+          "is_captain": false,
+          "points": 89.89,
+          "effective_points": 89.89
+        }
+      ],
+      "total_points": 99,
+      "rounded_off_total_points": 99,
+      "rank": 5,
+      "overall_points": 6075,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": true,
+          "points": 39.28,
+          "effective_points": 78.56
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": -16.54,
+          "effective_points": -16.54
+        },
+        {
+          "player": "Yuzvendra Chahal",
+          "is_captain": false,
+          "points": 3.58,
+          "effective_points": 3.58
+        }
+      ],
+      "total_points": 66,
+      "rounded_off_total_points": 66,
+      "rank": 6,
+      "overall_points": 7166,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 39.28,
+          "effective_points": 39.28
+        },
+        {
+          "player": "Aiden Markram",
+          "is_captain": true,
+          "points": 7.06,
+          "effective_points": 14.12
+        },
+        {
+          "player": "Marcus Stoinis",
+          "is_captain": false,
+          "points": 11.56,
+          "effective_points": 11.56
+        }
+      ],
+      "total_points": 65,
+      "rounded_off_total_points": 65,
+      "rank": 7,
+      "overall_points": 4679,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 1.12,
+          "effective_points": 2.24
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": 39.28,
+          "effective_points": 39.28
+        },
+        {
+          "player": "Yuzvendra Chahal",
+          "is_captain": false,
+          "points": 3.58,
+          "effective_points": 3.58
+        }
+      ],
+      "total_points": 45,
+      "rounded_off_total_points": 45,
+      "rank": 8,
+      "overall_points": 3694,
+      "overall_rank": 11,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Mayank Yadav",
+          "is_captain": false,
+          "points": -13.42,
+          "effective_points": -13.42
+        },
+        {
+          "player": "Marco Jansen",
+          "is_captain": false,
+          "points": 19.08,
+          "effective_points": 19.08
+        },
+        {
+          "player": "Aiden Markram",
+          "is_captain": true,
+          "points": 7.06,
+          "effective_points": 14.12
+        }
+      ],
+      "total_points": 20,
+      "rounded_off_total_points": 20,
+      "rank": 9,
+      "overall_points": 5505,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Aiden Markram",
+          "is_captain": false,
+          "points": 7.06,
+          "effective_points": 7.06
+        },
+        {
+          "player": "Priyansh Arya",
+          "is_captain": true,
+          "points": -8.45,
+          "effective_points": -16.9
+        },
+        {
+          "player": "Marcus Stoinis",
+          "is_captain": false,
+          "points": 11.56,
+          "effective_points": 11.56
+        }
+      ],
+      "total_points": 2,
+      "rounded_off_total_points": 2,
+      "rank": 10,
+      "overall_points": 5781,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Aiden Markram",
+          "is_captain": false,
+          "points": 7.06,
+          "effective_points": 7.06
+        },
+        {
+          "player": "Priyansh Arya",
+          "is_captain": false,
+          "points": -8.45,
+          "effective_points": -8.45
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 1.12,
+          "effective_points": 2.24
+        }
+      ],
+      "total_points": 1,
+      "rounded_off_total_points": 1,
+      "rank": 11,
+      "overall_points": 6153,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    }
+  ]
+}

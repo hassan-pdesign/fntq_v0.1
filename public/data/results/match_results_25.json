@@ -1,10 +1,10 @@
 {
   "match_number": 25,
-  "match_title": "Chennai Super Kings v Kolkata Knight Riders - April 11, 2025",
+  "match_title": "CSK v KKR - April 11, 2025",
   "teams": {
-    "team1": "Chennai Super Kings",
-    "team2": "Kolkata Knight Riders",
-    "winner": "Kolkata Knight Riders"
+    "team1": "CSK",
+    "team2": "KKR",
+    "winner": "KKR"
   },
   "participant_scores": [
     {
@@ -62,7 +62,7 @@
       "rounded_off_total_points": 252,
       "rank": 2,
       "overall_points": 2739,
-      "overall_rank": 6,
+      "overall_rank": 5,
       "overall_rank_change": "↑1"
     },
     {
@@ -77,8 +77,8 @@
         {
           "player": "Andre Russell",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": 0.0,
+          "effective_points": 0.0
         },
         {
           "player": "Devon Conway",
@@ -112,8 +112,8 @@
         {
           "player": "Andre Russell",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": 0.0,
+          "effective_points": 0.0
         }
       ],
       "total_points": 227,
@@ -135,8 +135,8 @@
         {
           "player": "Venkatesh Iyer",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": 0.0,
+          "effective_points": 0.0
         },
         {
           "player": "Sunil Narine",
@@ -187,8 +187,8 @@
         {
           "player": "Venkatesh Iyer",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": 0.0,
+          "effective_points": 0.0
         },
         {
           "player": "Devon Conway",
@@ -206,9 +206,9 @@
       "total_points": 135,
       "rounded_off_total_points": 135,
       "rank": 7,
-      "overall_points": 2769,
-      "overall_rank": 5,
-      "overall_rank_change": "-"
+      "overall_points": 2577,
+      "overall_rank": 6,
+      "overall_rank_change": "↑1"
     },
     {
       "name": "Utkarsh",
@@ -315,8 +315,8 @@
         {
           "player": "Venkatesh Iyer",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": 0.0,
+          "effective_points": 0.0
         }
       ],
       "total_points": 40,
@@ -324,7 +324,7 @@
       "rank": 11,
       "overall_points": 2533,
       "overall_rank": 8,
-      "overall_rank_change": "↓2"
+      "overall_rank_change": "↓3"
     },
     {
       "name": "Bipin",

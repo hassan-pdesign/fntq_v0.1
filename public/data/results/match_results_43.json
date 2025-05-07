@@ -61,8 +61,8 @@
       "total_points": 193,
       "rounded_off_total_points": 193,
       "rank": 2,
-      "overall_points": 4541,
-      "overall_rank": 5,
+      "overall_points": 4599,
+      "overall_rank": 4,
       "overall_rank_change": "↑1"
     },
     {
@@ -90,7 +90,7 @@
       "total_points": 191,
       "rounded_off_total_points": 191,
       "rank": 3,
-      "overall_points": 4825,
+      "overall_points": 4900,
       "overall_rank": 2,
       "overall_rank_change": "-"
     },
@@ -119,9 +119,9 @@
       "total_points": 169,
       "rounded_off_total_points": 169,
       "rank": 4,
-      "overall_points": 4146,
+      "overall_points": 4226,
       "overall_rank": 7,
-      "overall_rank_change": "↑1"
+      "overall_rank_change": "-"
     },
     {
       "name": "Ducati Deepak",
@@ -177,7 +177,7 @@
       "total_points": 130,
       "rounded_off_total_points": 130,
       "rank": 6,
-      "overall_points": 5670,
+      "overall_points": 5632,
       "overall_rank": 1,
       "overall_rank_change": "-"
     },
@@ -206,7 +206,7 @@
       "total_points": 113,
       "rounded_off_total_points": 113,
       "rank": 7,
-      "overall_points": 4691,
+      "overall_points": 4766,
       "overall_rank": 3,
       "overall_rank_change": "-"
     },
@@ -235,9 +235,9 @@
       "total_points": 98,
       "rounded_off_total_points": 98,
       "rank": 8,
-      "overall_points": 3266,
-      "overall_rank": 9,
-      "overall_rank_change": "↑1"
+      "overall_points": 3320,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
     },
     {
       "name": "Pavethy",
@@ -265,8 +265,8 @@
       "rounded_off_total_points": 56,
       "rank": 9,
       "overall_points": 4571,
-      "overall_rank": 4,
-      "overall_rank_change": "-"
+      "overall_rank": 5,
+      "overall_rank_change": "↓1"
     },
     {
       "name": "Janeesh",
@@ -293,9 +293,9 @@
       "total_points": 55,
       "rounded_off_total_points": 55,
       "rank": 10,
-      "overall_points": 4052,
+      "overall_points": 4076,
       "overall_rank": 8,
-      "overall_rank_change": "↓1"
+      "overall_rank_change": "-"
     },
     {
       "name": "Karthik",
@@ -322,9 +322,9 @@
       "total_points": 54,
       "rounded_off_total_points": 54,
       "rank": 11,
-      "overall_points": 4520,
+      "overall_points": 4383,
       "overall_rank": 6,
-      "overall_rank_change": "↓1"
+      "overall_rank_change": "-"
     },
     {
       "name": "Utkarsh Ved",
@@ -380,7 +380,7 @@
       "total_points": 7,
       "rounded_off_total_points": 7,
       "rank": 13,
-      "overall_points": 2487,
+      "overall_points": 2419,
       "overall_rank": 13,
       "overall_rank_change": "-"
     },
@@ -409,9 +409,9 @@
       "total_points": 3,
       "rounded_off_total_points": 3,
       "rank": 14,
-      "overall_points": 3228,
-      "overall_rank": 10,
-      "overall_rank_change": "↓1"
+      "overall_points": 3329,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
     }
   ]
 }

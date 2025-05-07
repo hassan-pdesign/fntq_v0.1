@@ -33,16 +33,7 @@
     "wins": 4,
     "podiums": 11,
     "overall_rank": 4,
-    "overall_rank_change": "↑1"
-  },
-  "Karthik": {
-    "matches_played": 30,
-    "cumulative_points": 3457,
-    "average": 115.23,
-    "wins": 0,
-    "podiums": 6,
-    "overall_rank": 5,
-    "overall_rank_change": "↓1"
+    "overall_rank_change": "-"
   },
   "Joshua": {
     "matches_played": 28,
@@ -50,8 +41,17 @@
     "average": 121.11,
     "wins": 4,
     "podiums": 10,
+    "overall_rank": 5,
+    "overall_rank_change": "↑1"
+  },
+  "Karthik": {
+    "matches_played": 29,
+    "cumulative_points": 3265,
+    "average": 112.59,
+    "wins": 0,
+    "podiums": 5,
     "overall_rank": 6,
-    "overall_rank_change": "-"
+    "overall_rank_change": "↓1"
   },
   "Janeesh": {
     "matches_played": 28,
@@ -67,7 +67,7 @@
     "cumulative_points": 2972,
     "average": 102.48,
     "wins": 0,
-    "podiums": 9,
+    "podiums": 10,
     "overall_rank": 8,
     "overall_rank_change": "-"
   },

@@ -1,43 +1,14 @@
 {
   "match_number": 47,
-  "match_title": "Rajasthan Royals v Gujarat Titans - April 28, 2025",
+  "match_title": "GT v RR - April 28, 2025",
   "teams": {
-    "team1": "Rajasthan Royals",
-    "team2": "Gujarat Titans",
-    "winner": "Rajasthan Royals"
+    "team1": "GT",
+    "team2": "RR",
+    "winner": "RR"
   },
   "participant_scores": [
     {
-      "name": "Karthik",
-      "players": [
-        {
-          "player": "Sai Sudharsan",
-          "is_captain": true,
-          "points": 40.01,
-          "effective_points": 80.02
-        },
-        {
-          "player": "Vaibhav Suryavanshi",
-          "is_captain": false,
-          "points": 117.24,
-          "effective_points": 117.24
-        },
-        {
-          "player": "Jos Buttler",
-          "is_captain": false,
-          "points": 0,
-          "effective_points": 0
-        }
-      ],
-      "total_points": 197,
-      "rounded_off_total_points": 197,
-      "rank": 1,
-      "overall_points": 4904,
-      "overall_rank": 5,
-      "overall_rank_change": "↑1"
-    },
-    {
-      "name": "Pavethy",
+      "name": "Dr Praveen",
       "players": [
         {
           "player": "Shubman Gill",
@@ -46,23 +17,23 @@
           "effective_points": 53.15
         },
         {
-          "player": "Sai Sudharsan",
-          "is_captain": true,
+          "player": "Jos Buttler",
+          "is_captain": false,
           "points": 40.01,
-          "effective_points": 80.02
+          "effective_points": 40.01
         },
         {
           "player": "Yashasvi Jaiswal",
-          "is_captain": false,
+          "is_captain": true,
           "points": 55.53,
-          "effective_points": 55.53
+          "effective_points": 111.06
         }
       ],
-      "total_points": 189,
-      "rounded_off_total_points": 189,
-      "rank": 2,
-      "overall_points": 4979,
-      "overall_rank": 4,
+      "total_points": 204,
+      "rounded_off_total_points": 204,
+      "rank": 1,
+      "overall_points": 3795,
+      "overall_rank": 9,
       "overall_rank_change": "-"
     },
     {
@@ -83,73 +54,44 @@
         {
           "player": "Riyan Parag",
           "is_captain": false,
-          "points": 27.06,
-          "effective_points": 27.06
+          "points": 21.33,
+          "effective_points": 21.33
         }
       ],
-      "total_points": 182,
-      "rounded_off_total_points": 182,
-      "rank": 3,
-      "overall_points": 3410,
-      "overall_rank": 11,
-      "overall_rank_change": "-"
+      "total_points": 176,
+      "rounded_off_total_points": 176,
+      "rank": 2,
+      "overall_points": 3505,
+      "overall_rank": 10,
+      "overall_rank_change": "↑1"
     },
     {
-      "name": "Dr Praveen",
+      "name": "Karthik",
       "players": [
         {
-          "player": "Shubman Gill",
+          "player": "Sai Sudharsan",
+          "is_captain": true,
+          "points": 6.02,
+          "effective_points": 12.04
+        },
+        {
+          "player": "Vaibhav Suryavanshi",
           "is_captain": false,
-          "points": 53.15,
-          "effective_points": 53.15
+          "points": 117.24,
+          "effective_points": 117.24
         },
         {
           "player": "Jos Buttler",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
-        },
-        {
-          "player": "Yashasvi Jaiswal",
-          "is_captain": true,
-          "points": 55.53,
-          "effective_points": 111.06
-        }
-      ],
-      "total_points": 164,
-      "rounded_off_total_points": 164,
-      "rank": 4,
-      "overall_points": 3701,
-      "overall_rank": 9,
-      "overall_rank_change": "-"
-    },
-    {
-      "name": "Bipin",
-      "players": [
-        {
-          "player": "Sai Sudharsan",
-          "is_captain": false,
           "points": 40.01,
           "effective_points": 40.01
-        },
-        {
-          "player": "Yashasvi Jaiswal",
-          "is_captain": true,
-          "points": 55.53,
-          "effective_points": 111.06
-        },
-        {
-          "player": "Prasidh Krishna",
-          "is_captain": false,
-          "points": 5.26,
-          "effective_points": 5.26
         }
       ],
-      "total_points": 156,
-      "rounded_off_total_points": 156,
-      "rank": 5,
-      "overall_points": 6067,
-      "overall_rank": 1,
+      "total_points": 169,
+      "rounded_off_total_points": 169,
+      "rank": 3,
+      "overall_points": 4739,
+      "overall_rank": 6,
       "overall_rank_change": "-"
     },
     {
@@ -164,21 +106,137 @@
         {
           "player": "Jos Buttler",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": 40.01,
+          "effective_points": 40.01
         },
         {
           "player": "Nitish Rana",
           "is_captain": false,
-          "points": 25.51,
-          "effective_points": 25.51
+          "points": 2.93,
+          "effective_points": 2.93
         }
       ],
-      "total_points": 137,
-      "rounded_off_total_points": 137,
-      "rank": 6,
-      "overall_points": 2873,
+      "total_points": 154,
+      "rounded_off_total_points": 154,
+      "rank": 4,
+      "overall_points": 2822,
       "overall_rank": 12,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Jos Buttler",
+          "is_captain": false,
+          "points": 40.01,
+          "effective_points": 40.01
+        },
+        {
+          "player": "Sai Kishore",
+          "is_captain": false,
+          "points": -3.19,
+          "effective_points": -3.19
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": true,
+          "points": 55.53,
+          "effective_points": 111.06
+        }
+      ],
+      "total_points": 148,
+      "rounded_off_total_points": 148,
+      "rank": 5,
+      "overall_points": 5165,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Jos Buttler",
+          "is_captain": true,
+          "points": 40.01,
+          "effective_points": 80.02
+        },
+        {
+          "player": "Prasidh Krishna",
+          "is_captain": false,
+          "points": 15.96,
+          "effective_points": 15.96
+        },
+        {
+          "player": "Rashid Khan",
+          "is_captain": false,
+          "points": 48.38,
+          "effective_points": 48.38
+        }
+      ],
+      "total_points": 144,
+      "rounded_off_total_points": 144,
+      "rank": 6,
+      "overall_points": 5279,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 6.02,
+          "effective_points": 6.02
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": true,
+          "points": 55.53,
+          "effective_points": 111.06
+        },
+        {
+          "player": "Prasidh Krishna",
+          "is_captain": false,
+          "points": 15.96,
+          "effective_points": 15.96
+        }
+      ],
+      "total_points": 133,
+      "rounded_off_total_points": 133,
+      "rank": 7,
+      "overall_points": 6006,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Shubman Gill",
+          "is_captain": false,
+          "points": 53.15,
+          "effective_points": 53.15
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": true,
+          "points": 6.02,
+          "effective_points": 12.04
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 55.53,
+          "effective_points": 55.53
+        }
+      ],
+      "total_points": 121,
+      "rounded_off_total_points": 121,
+      "rank": 8,
+      "overall_points": 4911,
+      "overall_rank": 4,
       "overall_rank_change": "↑1"
     },
     {
@@ -193,22 +251,22 @@
         {
           "player": "Sai Sudharsan",
           "is_captain": true,
-          "points": 40.01,
-          "effective_points": 80.02
+          "points": 6.02,
+          "effective_points": 12.04
         },
         {
           "player": "Jos Buttler",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": 40.01,
+          "effective_points": 40.01
         }
       ],
-      "total_points": 136,
-      "rounded_off_total_points": 136,
-      "rank": 7,
-      "overall_points": 3468,
-      "overall_rank": 10,
-      "overall_rank_change": "-"
+      "total_points": 108,
+      "rounded_off_total_points": 108,
+      "rank": 9,
+      "overall_points": 3440,
+      "overall_rank": 11,
+      "overall_rank_change": "↓1"
     },
     {
       "name": "Janeesh",
@@ -216,8 +274,8 @@
         {
           "player": "Sai Sudharsan",
           "is_captain": true,
-          "points": 40.01,
-          "effective_points": 80.02
+          "points": 6.02,
+          "effective_points": 12.04
         },
         {
           "player": "Yashasvi Jaiswal",
@@ -228,44 +286,15 @@
         {
           "player": "Jos Buttler",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": 40.01,
+          "effective_points": 40.01
         }
       ],
-      "total_points": 136,
-      "rounded_off_total_points": 136,
-      "rank": 7,
-      "overall_points": 4356,
-      "overall_rank": 7,
-      "overall_rank_change": "-"
-    },
-    {
-      "name": "Dubai Deepak",
-      "players": [
-        {
-          "player": "Jos Buttler",
-          "is_captain": false,
-          "points": 0,
-          "effective_points": 0
-        },
-        {
-          "player": "Sai Kishore",
-          "is_captain": false,
-          "points": 5.36,
-          "effective_points": 5.36
-        },
-        {
-          "player": "Yashasvi Jaiswal",
-          "is_captain": true,
-          "points": 55.53,
-          "effective_points": 111.06
-        }
-      ],
-      "total_points": 116,
-      "rounded_off_total_points": 116,
+      "total_points": 108,
+      "rounded_off_total_points": 108,
       "rank": 9,
-      "overall_points": 5058,
-      "overall_rank": 3,
+      "overall_points": 4352,
+      "overall_rank": 8,
       "overall_rank_change": "-"
     },
     {
@@ -280,50 +309,21 @@
         {
           "player": "Sai Sudharsan",
           "is_captain": false,
-          "points": 40.01,
-          "effective_points": 40.01
+          "points": 6.02,
+          "effective_points": 6.02
         },
         {
           "player": "Mohammed Siraj",
           "is_captain": true,
-          "points": 6.02,
-          "effective_points": 12.04
+          "points": 5.36,
+          "effective_points": 10.72
         }
       ],
-      "total_points": 108,
-      "rounded_off_total_points": 108,
-      "rank": 10,
-      "overall_points": 4885,
-      "overall_rank": 6,
-      "overall_rank_change": "↓1"
-    },
-    {
-      "name": "Ducati Deepak",
-      "players": [
-        {
-          "player": "Jos Buttler",
-          "is_captain": false,
-          "points": 0,
-          "effective_points": 0
-        },
-        {
-          "player": "Sai Sudharsan",
-          "is_captain": true,
-          "points": 40.01,
-          "effective_points": 80.02
-        },
-        {
-          "player": "Nitish Rana",
-          "is_captain": false,
-          "points": 25.51,
-          "effective_points": 25.51
-        }
-      ],
-      "total_points": 106,
-      "rounded_off_total_points": 106,
+      "total_points": 72,
+      "rounded_off_total_points": 72,
       "rank": 11,
-      "overall_points": 2871,
-      "overall_rank": 13,
+      "overall_points": 4907,
+      "overall_rank": 5,
       "overall_rank_change": "↓1"
     },
     {
@@ -332,57 +332,57 @@
         {
           "player": "Sai Sudharsan",
           "is_captain": true,
-          "points": 40.01,
-          "effective_points": 80.02
+          "points": 6.02,
+          "effective_points": 12.04
         },
         {
           "player": "Jos Buttler",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": 40.01,
+          "effective_points": 40.01
         },
         {
           "player": "Prasidh Krishna",
           "is_captain": false,
-          "points": 5.26,
-          "effective_points": 5.26
+          "points": 15.96,
+          "effective_points": 15.96
         }
       ],
-      "total_points": 85,
-      "rounded_off_total_points": 85,
+      "total_points": 68,
+      "rounded_off_total_points": 68,
       "rank": 12,
-      "overall_points": 4303,
-      "overall_rank": 8,
+      "overall_points": 4366,
+      "overall_rank": 7,
       "overall_rank_change": "-"
     },
     {
-      "name": "Sawant",
+      "name": "Ducati Deepak",
       "players": [
         {
           "player": "Jos Buttler",
+          "is_captain": false,
+          "points": 40.01,
+          "effective_points": 40.01
+        },
+        {
+          "player": "Sai Sudharsan",
           "is_captain": true,
-          "points": 0,
-          "effective_points": 0
+          "points": 6.02,
+          "effective_points": 12.04
         },
         {
-          "player": "Prasidh Krishna",
+          "player": "Nitish Rana",
           "is_captain": false,
-          "points": 5.26,
-          "effective_points": 5.26
-        },
-        {
-          "player": "Rashid Khan",
-          "is_captain": false,
-          "points": 48.38,
-          "effective_points": 48.38
+          "points": 2.93,
+          "effective_points": 2.93
         }
       ],
-      "total_points": 54,
-      "rounded_off_total_points": 54,
+      "total_points": 55,
+      "rounded_off_total_points": 55,
       "rank": 13,
-      "overall_points": 5114,
-      "overall_rank": 2,
-      "overall_rank_change": "-"
+      "overall_points": 2820,
+      "overall_rank": 13,
+      "overall_rank_change": "↓1"
     }
   ]
 }

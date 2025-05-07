@@ -61,9 +61,9 @@
       "total_points": 67,
       "rounded_off_total_points": 67,
       "rank": 2,
-      "overall_points": 1505,
-      "overall_rank": 2,
-      "overall_rank_change": "↑1"
+      "overall_points": 1701,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
     },
     {
       "name": "Pavethy",
@@ -235,8 +235,8 @@
       "total_points": 12,
       "rounded_off_total_points": 12,
       "rank": 8,
-      "overall_points": 1527,
-      "overall_rank": 1,
+      "overall_points": 1335,
+      "overall_rank": 4,
       "overall_rank_change": "-"
     },
     {
@@ -294,8 +294,8 @@
       "rounded_off_total_points": 0,
       "rank": 10,
       "overall_points": 1495,
-      "overall_rank": 3,
-      "overall_rank_change": "↓1"
+      "overall_rank": 2,
+      "overall_rank_change": "-"
     },
     {
       "name": "Dr Praveen",
@@ -352,7 +352,7 @@
       "rounded_off_total_points": -15,
       "rank": 12,
       "overall_points": 1347,
-      "overall_rank": 4,
+      "overall_rank": 3,
       "overall_rank_change": "-"
     }
   ]

@@ -62,8 +62,8 @@
       "rounded_off_total_points": 148,
       "rank": 2,
       "overall_points": 3391,
-      "overall_rank": 6,
-      "overall_rank_change": "-"
+      "overall_rank": 5,
+      "overall_rank_change": "↑1"
     },
     {
       "name": "Vikki",
@@ -237,7 +237,7 @@
       "rank": 8,
       "overall_points": 3529,
       "overall_rank": 4,
-      "overall_rank_change": "↑1"
+      "overall_rank_change": "-"
     },
     {
       "name": "Sawant",
@@ -293,8 +293,8 @@
       "total_points": -11,
       "rounded_off_total_points": -11,
       "rank": 10,
-      "overall_points": 3457,
-      "overall_rank": 5,
+      "overall_points": 3265,
+      "overall_rank": 6,
       "overall_rank_change": "↓1"
     }
   ]

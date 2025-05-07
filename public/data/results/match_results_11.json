@@ -61,48 +61,13 @@
       "total_points": 196,
       "rounded_off_total_points": 196,
       "rank": 2,
-      "overall_points": 196,
-      "overall_rank": 16,
-      "overall_rank_change": "-"
-    },
-    {
-      "name": "Karthik",
-      "players": [
-        {
-          "player": "Ruturaj Gaikwad",
-          "is_captain": true,
-          "points": 63.48,
-          "effective_points": 126.96
-        },
-        {
-          "player": "Noor Ahmad",
-          "is_captain": false,
-          "points": 65.44,
-          "effective_points": 65.44
-        },
-        {
-          "player": "Phil Salt",
-          "is_captain": false,
-          "points": 0,
-          "effective_points": 0
-        }
-      ],
-      "total_points": 192,
-      "rounded_off_total_points": 192,
-      "rank": 3,
-      "overall_points": 1515,
+      "overall_points": 1634,
       "overall_rank": 1,
-      "overall_rank_change": "↑2"
+      "overall_rank_change": "-"
     },
     {
       "name": "KV",
       "players": [
-        {
-          "player": "Noor Ahmad",
-          "is_captain": true,
-          "points": 65.44,
-          "effective_points": 130.88
-        },
         {
           "player": "Sanju Samson",
           "is_captain": false,
@@ -114,14 +79,20 @@
           "is_captain": false,
           "points": -8.0,
           "effective_points": -8.0
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": true,
+          "points": 65.44,
+          "effective_points": 130.88
         }
       ],
       "total_points": 136,
       "rounded_off_total_points": 136,
-      "rank": 4,
+      "rank": 3,
       "overall_points": 1362,
-      "overall_rank": 4,
-      "overall_rank_change": "-"
+      "overall_rank": 3,
+      "overall_rank_change": "↑1"
     },
     {
       "name": "Ducati Deepak",
@@ -147,7 +118,7 @@
       ],
       "total_points": 132,
       "rounded_off_total_points": 132,
-      "rank": 5,
+      "rank": 4,
       "overall_points": 782,
       "overall_rank": 11,
       "overall_rank_change": "-"
@@ -156,16 +127,16 @@
       "name": "Dr Praveen",
       "players": [
         {
-          "player": "Ruturaj Gaikwad",
-          "is_captain": true,
-          "points": 63.48,
-          "effective_points": 126.96
-        },
-        {
           "player": "Dhruv Jurel",
           "is_captain": false,
           "points": -8.71,
           "effective_points": -8.71
+        },
+        {
+          "player": "Ruturaj Gaikwad",
+          "is_captain": true,
+          "points": 63.48,
+          "effective_points": 126.96
         },
         {
           "player": "Sanju Samson",
@@ -176,7 +147,7 @@
       ],
       "total_points": 132,
       "rounded_off_total_points": 132,
-      "rank": 5,
+      "rank": 4,
       "overall_points": 613,
       "overall_rank": 12,
       "overall_rank_change": "↑1"
@@ -205,7 +176,7 @@
       ],
       "total_points": 114,
       "rounded_off_total_points": 114,
-      "rank": 7,
+      "rank": 6,
       "overall_points": 1495,
       "overall_rank": 2,
       "overall_rank_change": "-"
@@ -213,12 +184,6 @@
     {
       "name": "Joshua",
       "players": [
-        {
-          "player": "Khaleel Ahmed",
-          "is_captain": true,
-          "points": 46.73,
-          "effective_points": 93.46
-        },
         {
           "player": "Rachin Ravindra",
           "is_captain": false,
@@ -230,11 +195,17 @@
           "is_captain": false,
           "points": 22.25,
           "effective_points": 22.25
+        },
+        {
+          "player": "Khaleel Ahmed",
+          "is_captain": true,
+          "points": 46.73,
+          "effective_points": 93.46
         }
       ],
       "total_points": 108,
       "rounded_off_total_points": 108,
-      "rank": 8,
+      "rank": 7,
       "overall_points": 1084,
       "overall_rank": 8,
       "overall_rank_change": "↑1"
@@ -243,16 +214,16 @@
       "name": "Sawant",
       "players": [
         {
-          "player": "Sanju Samson",
-          "is_captain": true,
-          "points": 13.39,
-          "effective_points": 26.78
-        },
-        {
           "player": "Jofra Archer",
           "is_captain": false,
           "points": 46.63,
           "effective_points": 46.63
+        },
+        {
+          "player": "Sanju Samson",
+          "is_captain": true,
+          "points": 13.39,
+          "effective_points": 26.78
         },
         {
           "player": "Rachin Ravindra",
@@ -263,7 +234,7 @@
       ],
       "total_points": 65,
       "rounded_off_total_points": 65,
-      "rank": 9,
+      "rank": 8,
       "overall_points": 1250,
       "overall_rank": 6,
       "overall_rank_change": "↓1"
@@ -271,12 +242,6 @@
     {
       "name": "Vikki",
       "players": [
-        {
-          "player": "Riyan Parag",
-          "is_captain": true,
-          "points": 22.25,
-          "effective_points": 44.5
-        },
         {
           "player": "Rachin Ravindra",
           "is_captain": false,
@@ -288,11 +253,17 @@
           "is_captain": false,
           "points": 13.39,
           "effective_points": 13.39
+        },
+        {
+          "player": "Riyan Parag",
+          "is_captain": true,
+          "points": 22.25,
+          "effective_points": 44.5
         }
       ],
       "total_points": 50,
       "rounded_off_total_points": 50,
-      "rank": 10,
+      "rank": 9,
       "overall_points": 324,
       "overall_rank": 14,
       "overall_rank_change": "-"
@@ -321,7 +292,7 @@
       ],
       "total_points": 20,
       "rounded_off_total_points": 20,
-      "rank": 11,
+      "rank": 10,
       "overall_points": 1176,
       "overall_rank": 7,
       "overall_rank_change": "↓1"
@@ -350,7 +321,7 @@
       ],
       "total_points": 10,
       "rounded_off_total_points": 10,
-      "rank": 12,
+      "rank": 11,
       "overall_points": 986,
       "overall_rank": 10,
       "overall_rank_change": "↓2"
@@ -379,7 +350,7 @@
       ],
       "total_points": -2,
       "rounded_off_total_points": -2,
-      "rank": 13,
+      "rank": 12,
       "overall_points": 587,
       "overall_rank": 13,
       "overall_rank_change": "↓1"

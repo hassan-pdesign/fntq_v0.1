@@ -1,97 +1,39 @@
 {
   "match_number": 32,
-  "match_title": "Delhi Capitals v Rajasthan Royals - April 27, 2025",
+  "match_title": "DC v RR - April 27, 2025",
   "teams": {
-    "team1": "Delhi Capitals",
-    "team2": "Rajasthan Royals",
-    "winner": "Delhi Capitals (Super Over)"
+    "team1": "DC",
+    "team2": "RR",
+    "winner": "DC"
   },
   "participant_scores": [
     {
-      "name": "Bipin",
+      "name": "Parkhi",
       "players": [
         {
-          "player": "Jake Fraser-McGurk",
-          "is_captain": false,
-          "points": 62.14,
-          "effective_points": 62.14
-        },
-        {
-          "player": "Yashasvi Jaiswal",
+          "player": "Tristan Stubbs",
           "is_captain": true,
-          "points": 33.23,
-          "effective_points": 66.46
-        },
-        {
-          "player": "Sandeep Sharma",
-          "is_captain": false,
-          "points": 15.36,
-          "effective_points": 15.36
-        }
-      ],
-      "total_points": 144,
-      "rounded_off_total_points": 144,
-      "rank": 1,
-      "overall_points": 4425,
-      "overall_rank": 1,
-      "overall_rank_change": "-"
-    },
-    {
-      "name": "Vikki",
-      "players": [
-        {
-          "player": "KL Rahul",
-          "is_captain": false,
-          "points": 0,
-          "effective_points": 0
-        },
-        {
-          "player": "Jake Fraser-McGurk",
-          "is_captain": true,
-          "points": 62.14,
-          "effective_points": 124.28
+          "points": 38.23,
+          "effective_points": 76.46
         },
         {
           "player": "Sanju Samson",
           "is_captain": false,
-          "points": 14.29,
-          "effective_points": 14.29
-        }
-      ],
-      "total_points": 139,
-      "rounded_off_total_points": 139,
-      "rank": 2,
-      "overall_points": 2133,
-      "overall_rank": 12,
-      "overall_rank_change": "↑1"
-    },
-    {
-      "name": "Janeesh",
-      "players": [
-        {
-          "player": "KL Rahul",
-          "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": 33.64,
+          "effective_points": 33.64
         },
         {
-          "player": "Yashasvi Jaiswal",
-          "is_captain": true,
-          "points": 33.23,
-          "effective_points": 66.46
-        },
-        {
-          "player": "Karun Nair",
+          "player": "Wanindu Hasaranga",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": 22.96,
+          "effective_points": 22.96
         }
       ],
-      "total_points": 66,
-      "rounded_off_total_points": 66,
-      "rank": 3,
-      "overall_points": 3151,
-      "overall_rank": 7,
+      "total_points": 133,
+      "rounded_off_total_points": 133,
+      "rank": 1,
+      "overall_points": 2400,
+      "overall_rank": 11,
       "overall_rank_change": "-"
     },
     {
@@ -100,26 +42,26 @@
         {
           "player": "KL Rahul",
           "is_captain": true,
-          "points": 0,
-          "effective_points": 0
+          "points": 20.32,
+          "effective_points": 40.64
         },
         {
           "player": "Tristan Stubbs",
           "is_captain": false,
-          "points": 8.71,
-          "effective_points": 8.71
+          "points": 38.23,
+          "effective_points": 38.23
         },
         {
           "player": "Yashasvi Jaiswal",
           "is_captain": false,
-          "points": 33.23,
-          "effective_points": 33.23
+          "points": 37.88,
+          "effective_points": 37.88
         }
       ],
-      "total_points": 42,
-      "rounded_off_total_points": 42,
-      "rank": 4,
-      "overall_points": 3901,
+      "total_points": 117,
+      "rounded_off_total_points": 117,
+      "rank": 2,
+      "overall_points": 3976,
       "overall_rank": 2,
       "overall_rank_change": "-"
     },
@@ -129,56 +71,85 @@
         {
           "player": "Karun Nair",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": -6.21,
+          "effective_points": -6.21
         },
         {
           "player": "Kuldeep Yadav",
           "is_captain": false,
-          "points": 3.72,
-          "effective_points": 3.72
+          "points": 45.49,
+          "effective_points": 45.49
         },
         {
           "player": "Sanju Samson",
           "is_captain": true,
-          "points": 14.29,
-          "effective_points": 28.58
+          "points": 33.64,
+          "effective_points": 67.28
         }
       ],
-      "total_points": 32,
-      "rounded_off_total_points": 32,
-      "rank": 5,
-      "overall_points": 3801,
+      "total_points": 107,
+      "rounded_off_total_points": 107,
+      "rank": 3,
+      "overall_points": 3876,
       "overall_rank": 3,
       "overall_rank_change": "-"
     },
     {
-      "name": "Parkhi",
+      "name": "Bipin",
       "players": [
         {
-          "player": "Tristan Stubbs",
+          "player": "Jake Fraser-McGurk",
+          "is_captain": false,
+          "points": 8.69,
+          "effective_points": 8.69
+        },
+        {
+          "player": "Yashasvi Jaiswal",
           "is_captain": true,
-          "points": 8.71,
-          "effective_points": 17.42
+          "points": 37.88,
+          "effective_points": 75.76
         },
         {
-          "player": "Sanju Samson",
+          "player": "Sandeep Sharma",
           "is_captain": false,
-          "points": 14.29,
-          "effective_points": 14.29
-        },
-        {
-          "player": "Wanindu Hasaranga",
-          "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": 21.25,
+          "effective_points": 21.25
         }
       ],
-      "total_points": 32,
-      "rounded_off_total_points": 32,
+      "total_points": 106,
+      "rounded_off_total_points": 106,
+      "rank": 4,
+      "overall_points": 4387,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 20.32,
+          "effective_points": 20.32
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": true,
+          "points": 37.88,
+          "effective_points": 75.76
+        },
+        {
+          "player": "Karun Nair",
+          "is_captain": false,
+          "points": -6.21,
+          "effective_points": -6.21
+        }
+      ],
+      "total_points": 90,
+      "rounded_off_total_points": 90,
       "rank": 5,
-      "overall_points": 2299,
-      "overall_rank": 11,
+      "overall_points": 3175,
+      "overall_rank": 7,
       "overall_rank_change": "-"
     },
     {
@@ -187,27 +158,85 @@
         {
           "player": "Sanju Samson",
           "is_captain": true,
-          "points": 14.29,
-          "effective_points": 28.58
+          "points": 33.64,
+          "effective_points": 67.28
         },
         {
           "player": "Wanindu Hasaranga",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": 22.96,
+          "effective_points": 22.96
         },
         {
           "player": "Karun Nair",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": -6.21,
+          "effective_points": -6.21
         }
       ],
-      "total_points": 29,
-      "rounded_off_total_points": 29,
-      "rank": 7,
-      "overall_points": 3486,
-      "overall_rank": 5,
+      "total_points": 84,
+      "rounded_off_total_points": 84,
+      "rank": 6,
+      "overall_points": 3349,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Vipraj Nigam",
+          "is_captain": true,
+          "points": -2.25,
+          "effective_points": -4.5
+        },
+        {
+          "player": "Kuldeep Yadav",
+          "is_captain": false,
+          "points": 45.49,
+          "effective_points": 45.49
+        },
+        {
+          "player": "Mitchell Starc",
+          "is_captain": false,
+          "points": 42.72,
+          "effective_points": 42.72
+        }
+      ],
+      "total_points": 84,
+      "rounded_off_total_points": 84,
+      "rank": 6,
+      "overall_points": 3056,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "KL Rahul",
+          "is_captain": false,
+          "points": 20.32,
+          "effective_points": 20.32
+        },
+        {
+          "player": "Jake Fraser-McGurk",
+          "is_captain": true,
+          "points": 8.69,
+          "effective_points": 17.38
+        },
+        {
+          "player": "Sanju Samson",
+          "is_captain": false,
+          "points": 33.64,
+          "effective_points": 33.64
+        }
+      ],
+      "total_points": 71,
+      "rounded_off_total_points": 71,
+      "rank": 8,
+      "overall_points": 2065,
+      "overall_rank": 13,
       "overall_rank_change": "-"
     },
     {
@@ -216,56 +245,27 @@
         {
           "player": "Karun Nair",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": -6.21,
+          "effective_points": -6.21
         },
         {
           "player": "KL Rahul",
           "is_captain": true,
-          "points": 0,
-          "effective_points": 0
+          "points": 20.32,
+          "effective_points": 40.64
         },
         {
           "player": "Sanju Samson",
           "is_captain": false,
-          "points": 14.29,
-          "effective_points": 14.29
+          "points": 33.64,
+          "effective_points": 33.64
         }
       ],
-      "total_points": 14,
-      "rounded_off_total_points": 14,
-      "rank": 8,
-      "overall_points": 2121,
-      "overall_rank": 13,
-      "overall_rank_change": "↓1"
-    },
-    {
-      "name": "KV",
-      "players": [
-        {
-          "player": "Vipraj Nigam",
-          "is_captain": true,
-          "points": 0,
-          "effective_points": 0
-        },
-        {
-          "player": "Kuldeep Yadav",
-          "is_captain": false,
-          "points": 3.72,
-          "effective_points": 3.72
-        },
-        {
-          "player": "Mitchell Starc",
-          "is_captain": false,
-          "points": 0,
-          "effective_points": 0
-        }
-      ],
-      "total_points": 4,
-      "rounded_off_total_points": 4,
+      "total_points": 68,
+      "rounded_off_total_points": 68,
       "rank": 9,
-      "overall_points": 2976,
-      "overall_rank": 8,
+      "overall_points": 2175,
+      "overall_rank": 12,
       "overall_rank_change": "-"
     },
     {
@@ -274,27 +274,27 @@
         {
           "player": "Karun Nair",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": -6.21,
+          "effective_points": -6.21
         },
         {
           "player": "Jofra Archer",
           "is_captain": false,
-          "points": 0,
-          "effective_points": 0
+          "points": 68.63,
+          "effective_points": 68.63
         },
         {
           "player": "Vipraj Nigam",
           "is_captain": true,
-          "points": 0,
-          "effective_points": 0
+          "points": -2.25,
+          "effective_points": -4.5
         }
       ],
-      "total_points": 0,
-      "rounded_off_total_points": 0,
+      "total_points": 58,
+      "rounded_off_total_points": 58,
       "rank": 10,
-      "overall_points": 3391,
-      "overall_rank": 6,
+      "overall_points": 3449,
+      "overall_rank": 5,
       "overall_rank_change": "-"
     }
   ]

@@ -1,10 +1,10 @@
 {
   "match_number": 14,
-  "match_title": "Royal Challengers Bengaluru v Gujarat Titans - April 02, 2025",
+  "match_title": "RCB v GT - April 02, 2025",
   "teams": {
-    "team1": "Royal Challengers Bengaluru",
-    "team2": "Gujarat Titans",
-    "winner": "Gujarat Titans"
+    "team1": "RCB",
+    "team2": "GT",
+    "winner": "GT"
   },
   "participant_scores": [
     {
@@ -91,8 +91,8 @@
       "rounded_off_total_points": 144,
       "rank": 2,
       "overall_points": 1528,
-      "overall_rank": 4,
-      "overall_rank_change": "↑2"
+      "overall_rank": 3,
+      "overall_rank_change": "↑3"
     },
     {
       "name": "Parkhi",
@@ -235,8 +235,8 @@
       "total_points": 68,
       "rounded_off_total_points": 68,
       "rank": 8,
-      "overall_points": 1573,
-      "overall_rank": 3,
+      "overall_points": 1769,
+      "overall_rank": 1,
       "overall_rank_change": "-"
     },
     {
@@ -351,9 +351,9 @@
       "total_points": 21,
       "rounded_off_total_points": 21,
       "rank": 12,
-      "overall_points": 1684,
-      "overall_rank": 1,
-      "overall_rank_change": "-"
+      "overall_points": 1492,
+      "overall_rank": 4,
+      "overall_rank_change": "↓1"
     }
   ]
 }

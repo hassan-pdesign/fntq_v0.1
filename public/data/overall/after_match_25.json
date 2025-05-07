@@ -35,21 +35,21 @@
     "overall_rank": 4,
     "overall_rank_change": "↓1"
   },
-  "Karthik": {
-    "matches_played": 24,
-    "cumulative_points": 2769,
-    "average": 115.38,
-    "wins": 0,
-    "podiums": 5,
-    "overall_rank": 5,
-    "overall_rank_change": "-"
-  },
   "Pavethy": {
     "matches_played": 24,
     "cumulative_points": 2739,
     "average": 114.12,
     "wins": 3,
     "podiums": 9,
+    "overall_rank": 5,
+    "overall_rank_change": "↑1"
+  },
+  "Karthik": {
+    "matches_played": 23,
+    "cumulative_points": 2577,
+    "average": 112.04,
+    "wins": 0,
+    "podiums": 4,
     "overall_rank": 6,
     "overall_rank_change": "↑1"
   },
@@ -58,7 +58,7 @@
     "cumulative_points": 2552,
     "average": 106.33,
     "wins": 0,
-    "podiums": 8,
+    "podiums": 9,
     "overall_rank": 7,
     "overall_rank_change": "↑2"
   },
@@ -69,7 +69,7 @@
     "wins": 2,
     "podiums": 5,
     "overall_rank": 8,
-    "overall_rank_change": "↓2"
+    "overall_rank_change": "↓3"
   },
   "Dr Vivek": {
     "matches_played": 20,

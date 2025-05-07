@@ -32,9 +32,9 @@
       "total_points": 214,
       "rounded_off_total_points": 214,
       "rank": 1,
-      "overall_points": 2801,
+      "overall_points": 2902,
       "overall_rank": 9,
-      "overall_rank_change": "↑3"
+      "overall_rank_change": "↑2"
     },
     {
       "name": "Dr Praveen",
@@ -61,7 +61,7 @@
       "total_points": 89,
       "rounded_off_total_points": 89,
       "rank": 2,
-      "overall_points": 2733,
+      "overall_points": 2787,
       "overall_rank": 11,
       "overall_rank_change": "↓1"
     },
@@ -90,7 +90,7 @@
       "total_points": 80,
       "rounded_off_total_points": 80,
       "rank": 3,
-      "overall_points": 5094,
+      "overall_points": 5056,
       "overall_rank": 1,
       "overall_rank_change": "-"
     },
@@ -119,9 +119,9 @@
       "total_points": 65,
       "rounded_off_total_points": 65,
       "rank": 4,
-      "overall_points": 4075,
-      "overall_rank": 4,
-      "overall_rank_change": "-"
+      "overall_points": 3938,
+      "overall_rank": 5,
+      "overall_rank_change": "↑1"
     },
     {
       "name": "Vikki",
@@ -148,7 +148,7 @@
       "total_points": 30,
       "rounded_off_total_points": 30,
       "rank": 5,
-      "overall_points": 2355,
+      "overall_points": 2287,
       "overall_rank": 13,
       "overall_rank_change": "-"
     },
@@ -177,7 +177,7 @@
       "total_points": 27,
       "rounded_off_total_points": 27,
       "rank": 6,
-      "overall_points": 4077,
+      "overall_points": 4152,
       "overall_rank": 3,
       "overall_rank_change": "-"
     },
@@ -206,7 +206,7 @@
       "total_points": 25,
       "rounded_off_total_points": 25,
       "rank": 7,
-      "overall_points": 3445,
+      "overall_points": 3525,
       "overall_rank": 8,
       "overall_rank_change": "-"
     },
@@ -235,7 +235,7 @@
       "total_points": 22,
       "rounded_off_total_points": 22,
       "rank": 8,
-      "overall_points": 4161,
+      "overall_points": 4236,
       "overall_rank": 2,
       "overall_rank_change": "-"
     },
@@ -264,7 +264,7 @@
       "total_points": 17,
       "rounded_off_total_points": 17,
       "rank": 9,
-      "overall_points": 3602,
+      "overall_points": 3626,
       "overall_rank": 7,
       "overall_rank_change": "-"
     },
@@ -295,7 +295,7 @@
       "rank": 10,
       "overall_points": 3892,
       "overall_rank": 6,
-      "overall_rank_change": "-"
+      "overall_rank_change": "↓1"
     },
     {
       "name": "Joshua",
@@ -322,8 +322,8 @@
       "total_points": 8,
       "rounded_off_total_points": 8,
       "rank": 11,
-      "overall_points": 3932,
-      "overall_rank": 5,
+      "overall_points": 3990,
+      "overall_rank": 4,
       "overall_rank_change": "-"
     }
   ]

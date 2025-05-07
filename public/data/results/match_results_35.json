@@ -32,7 +32,7 @@
       "total_points": 239,
       "rounded_off_total_points": 239,
       "rank": 1,
-      "overall_points": 4842,
+      "overall_points": 4804,
       "overall_rank": 1,
       "overall_rank_change": "-"
     },
@@ -61,8 +61,8 @@
       "total_points": 196,
       "rounded_off_total_points": 196,
       "rank": 2,
-      "overall_points": 3773,
-      "overall_rank": 5,
+      "overall_points": 3831,
+      "overall_rank": 4,
       "overall_rank_change": "↑1"
     },
     {
@@ -90,9 +90,9 @@
       "total_points": 177,
       "rounded_off_total_points": 177,
       "rank": 3,
-      "overall_points": 2433,
-      "overall_rank": 11,
-      "overall_rank_change": "↑1"
+      "overall_points": 2487,
+      "overall_rank": 12,
+      "overall_rank_change": "-"
     },
     {
       "name": "Janeesh",
@@ -119,7 +119,7 @@
       "total_points": 136,
       "rounded_off_total_points": 136,
       "rank": 4,
-      "overall_points": 3401,
+      "overall_points": 3425,
       "overall_rank": 7,
       "overall_rank_change": "-"
     },
@@ -148,9 +148,9 @@
       "total_points": 124,
       "rounded_off_total_points": 124,
       "rank": 5,
-      "overall_points": 3760,
+      "overall_points": 3623,
       "overall_rank": 6,
-      "overall_rank_change": "↓1"
+      "overall_rank_change": "-"
     },
     {
       "name": "Dubai Deepak",
@@ -177,7 +177,7 @@
       "total_points": 116,
       "rounded_off_total_points": 116,
       "rank": 6,
-      "overall_points": 4126,
+      "overall_points": 4201,
       "overall_rank": 2,
       "overall_rank_change": "-"
     },
@@ -206,7 +206,7 @@
       "total_points": 105,
       "rounded_off_total_points": 105,
       "rank": 7,
-      "overall_points": 3253,
+      "overall_points": 3333,
       "overall_rank": 8,
       "overall_rank_change": "-"
     },
@@ -236,8 +236,8 @@
       "rounded_off_total_points": 89,
       "rank": 8,
       "overall_points": 3779,
-      "overall_rank": 4,
-      "overall_rank_change": "-"
+      "overall_rank": 5,
+      "overall_rank_change": "↓1"
     }
   ]
 }

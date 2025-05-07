@@ -32,7 +32,7 @@
       "total_points": 218,
       "rounded_off_total_points": 218,
       "rank": 1,
-      "overall_points": 2705,
+      "overall_points": 2637,
       "overall_rank": 13,
       "overall_rank_change": "-"
     },
@@ -121,7 +121,7 @@
       "rank": 4,
       "overall_points": 4727,
       "overall_rank": 4,
-      "overall_rank_change": "-"
+      "overall_rank_change": "↑1"
     },
     {
       "name": "Sawant",
@@ -148,7 +148,7 @@
       "total_points": 139,
       "rounded_off_total_points": 139,
       "rank": 5,
-      "overall_points": 4830,
+      "overall_points": 4905,
       "overall_rank": 3,
       "overall_rank_change": "-"
     },
@@ -177,9 +177,9 @@
       "total_points": 137,
       "rounded_off_total_points": 137,
       "rank": 6,
-      "overall_points": 4657,
-      "overall_rank": 5,
-      "overall_rank_change": "↑1"
+      "overall_points": 4520,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
     },
     {
       "name": "Janeesh",
@@ -206,7 +206,7 @@
       "total_points": 133,
       "rounded_off_total_points": 133,
       "rank": 7,
-      "overall_points": 4185,
+      "overall_points": 4209,
       "overall_rank": 8,
       "overall_rank_change": "-"
     },
@@ -235,7 +235,7 @@
       "total_points": 122,
       "rounded_off_total_points": 122,
       "rank": 8,
-      "overall_points": 5792,
+      "overall_points": 5754,
       "overall_rank": 1,
       "overall_rank_change": "-"
     },
@@ -264,8 +264,8 @@
       "total_points": 95,
       "rounded_off_total_points": 95,
       "rank": 9,
-      "overall_points": 4636,
-      "overall_rank": 6,
+      "overall_points": 4694,
+      "overall_rank": 5,
       "overall_rank_change": "↓1"
     },
     {
@@ -293,7 +293,7 @@
       "total_points": 64,
       "rounded_off_total_points": 64,
       "rank": 10,
-      "overall_points": 4889,
+      "overall_points": 4964,
       "overall_rank": 2,
       "overall_rank_change": "-"
     },
@@ -322,7 +322,7 @@
       "total_points": 64,
       "rounded_off_total_points": 64,
       "rank": 10,
-      "overall_points": 4210,
+      "overall_points": 4290,
       "overall_rank": 7,
       "overall_rank_change": "-"
     },
@@ -351,9 +351,9 @@
       "total_points": 46,
       "rounded_off_total_points": 46,
       "rank": 12,
-      "overall_points": 3312,
+      "overall_points": 3366,
       "overall_rank": 9,
-      "overall_rank_change": "-"
+      "overall_rank_change": "↑1"
     }
   ]
 }

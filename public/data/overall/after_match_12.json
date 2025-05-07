@@ -8,22 +8,13 @@
     "overall_rank": 1,
     "overall_rank_change": "-"
   },
-  "Karthik": {
-    "matches_played": 12,
-    "cumulative_points": 1527,
-    "average": 127.25,
-    "wins": 0,
-    "podiums": 4,
-    "overall_rank": 2,
-    "overall_rank_change": "-"
-  },
   "Bipin": {
     "matches_played": 11,
     "cumulative_points": 1495,
     "average": 135.91,
     "wins": 1,
     "podiums": 3,
-    "overall_rank": 3,
+    "overall_rank": 2,
     "overall_rank_change": "-"
   },
   "KV": {
@@ -31,7 +22,16 @@
     "cumulative_points": 1347,
     "average": 112.25,
     "wins": 0,
-    "podiums": 4,
+    "podiums": 5,
+    "overall_rank": 3,
+    "overall_rank_change": "-"
+  },
+  "Karthik": {
+    "matches_played": 11,
+    "cumulative_points": 1335,
+    "average": 121.36,
+    "wins": 0,
+    "podiums": 3,
     "overall_rank": 4,
     "overall_rank_change": "-"
   },

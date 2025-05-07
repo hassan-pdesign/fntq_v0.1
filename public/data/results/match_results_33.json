@@ -32,9 +32,9 @@
       "total_points": 144,
       "rounded_off_total_points": 144,
       "rank": 1,
-      "overall_points": 2265,
+      "overall_points": 2319,
       "overall_rank": 12,
-      "overall_rank_change": "↑1"
+      "overall_rank_change": "-"
     },
     {
       "name": "KV",
@@ -61,7 +61,7 @@
       "total_points": 133,
       "rounded_off_total_points": 133,
       "rank": 2,
-      "overall_points": 3109,
+      "overall_points": 3189,
       "overall_rank": 8,
       "overall_rank_change": "-"
     },
@@ -90,8 +90,8 @@
       "total_points": 128,
       "rounded_off_total_points": 128,
       "rank": 3,
-      "overall_points": 3614,
-      "overall_rank": 5,
+      "overall_points": 3477,
+      "overall_rank": 6,
       "overall_rank_change": "-"
     },
     {
@@ -119,8 +119,8 @@
       "total_points": 116,
       "rounded_off_total_points": 116,
       "rank": 4,
-      "overall_points": 3507,
-      "overall_rank": 6,
+      "overall_points": 3565,
+      "overall_rank": 5,
       "overall_rank_change": "-"
     },
     {
@@ -177,7 +177,7 @@
       "total_points": 112,
       "rounded_off_total_points": 112,
       "rank": 6,
-      "overall_points": 4537,
+      "overall_points": 4499,
       "overall_rank": 1,
       "overall_rank_change": "-"
     },
@@ -206,7 +206,7 @@
       "total_points": 109,
       "rounded_off_total_points": 109,
       "rank": 7,
-      "overall_points": 2408,
+      "overall_points": 2509,
       "overall_rank": 11,
       "overall_rank_change": "-"
     },
@@ -235,7 +235,7 @@
       "total_points": 103,
       "rounded_off_total_points": 103,
       "rank": 8,
-      "overall_points": 3904,
+      "overall_points": 3979,
       "overall_rank": 3,
       "overall_rank_change": "-"
     },
@@ -264,7 +264,7 @@
       "total_points": 76,
       "rounded_off_total_points": 76,
       "rank": 9,
-      "overall_points": 3227,
+      "overall_points": 3251,
       "overall_rank": 7,
       "overall_rank_change": "-"
     },
@@ -293,7 +293,7 @@
       "total_points": 28,
       "rounded_off_total_points": 28,
       "rank": 10,
-      "overall_points": 3929,
+      "overall_points": 4004,
       "overall_rank": 2,
       "overall_rank_change": "-"
     },
@@ -322,9 +322,9 @@
       "total_points": 28,
       "rounded_off_total_points": 28,
       "rank": 10,
-      "overall_points": 2161,
+      "overall_points": 2093,
       "overall_rank": 13,
-      "overall_rank_change": "↓1"
+      "overall_rank_change": "-"
     }
   ]
 }

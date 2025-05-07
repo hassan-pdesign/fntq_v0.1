@@ -1,6 +1,6 @@
 {
   "match_number": 2,
-  "match_title": "SRH v RR - March 23, 2025",
+  "match_title": "Sunrisers Hyderabad v Rajasthan Royals - March 23, 2025",
   "teams": {
     "team1": "Sunrisers Hyderabad",
     "team2": "Rajasthan Royals",
@@ -8,7 +8,6 @@
   },
   "participant_scores": [
     {
-      "rank": 1,
       "name": "Dubai Deepak",
       "players": [
         {
@@ -19,23 +18,25 @@
         },
         {
           "player": "Abhishek Sharma",
+          "is_captain": false,
           "points": 31.69,
           "effective_points": 31.69
         },
         {
           "player": "Sandeep Sharma",
+          "is_captain": false,
           "points": 26.59,
           "effective_points": 26.59
         }
       ],
       "total_points": 226,
       "rounded_off_total_points": 226,
+      "rank": 1,
       "overall_points": 417,
       "overall_rank": 2,
       "overall_rank_change": "↑4"
     },
     {
-      "rank": 2,
       "name": "Parkhi",
       "players": [
         {
@@ -46,23 +47,25 @@
         },
         {
           "player": "Ishan Kishan",
+          "is_captain": false,
           "points": 83.91,
           "effective_points": 83.91
         },
         {
           "player": "Nitish Rana",
+          "is_captain": false,
           "points": 11.01,
           "effective_points": 11.01
         }
       ],
       "total_points": 215,
       "rounded_off_total_points": 215,
+      "rank": 2,
       "overall_points": 418,
       "overall_rank": 1,
       "overall_rank_change": "↑4"
     },
     {
-      "rank": 3,
       "name": "Pavethy",
       "players": [
         {
@@ -73,23 +76,25 @@
         },
         {
           "player": "Yashasvi Jaiswal",
+          "is_captain": false,
           "points": -7.06,
           "effective_points": -7.06
         },
         {
           "player": "Heinrich Klaasen",
+          "is_captain": false,
           "points": 26.86,
           "effective_points": 26.86
         }
       ],
       "total_points": 140,
       "rounded_off_total_points": 140,
+      "rank": 3,
       "overall_points": 286,
       "overall_rank": 5,
       "overall_rank_change": "↑2"
     },
     {
-      "rank": 4,
       "name": "Sawant",
       "players": [
         {
@@ -100,23 +105,25 @@
         },
         {
           "player": "Yashasvi Jaiswal",
+          "is_captain": false,
           "points": -7.06,
           "effective_points": -7.06
         },
         {
           "player": "Nitish Kumar Reddy",
+          "is_captain": false,
           "points": 20.49,
           "effective_points": 20.49
         }
       ],
       "total_points": 134,
       "rounded_off_total_points": 134,
+      "rank": 4,
       "overall_points": 273,
       "overall_rank": 6,
       "overall_rank_change": "↑2"
     },
     {
-      "rank": 5,
       "name": "Janeesh",
       "players": [
         {
@@ -127,23 +134,25 @@
         },
         {
           "player": "Yashasvi Jaiswal",
+          "is_captain": false,
           "points": -7.06,
           "effective_points": -7.06
         },
         {
           "player": "Heinrich Klaasen",
+          "is_captain": false,
           "points": 26.86,
           "effective_points": 26.86
         }
       ],
       "total_points": 128,
       "rounded_off_total_points": 128,
+      "rank": 5,
       "overall_points": 212,
       "overall_rank": 10,
       "overall_rank_change": "↑1"
     },
     {
-      "rank": 6,
       "name": "KV",
       "players": [
         {
@@ -154,23 +163,25 @@
         },
         {
           "player": "Yashasvi Jaiswal",
+          "is_captain": false,
           "points": -7.06,
           "effective_points": -7.06
         },
         {
           "player": "Travis Head",
+          "is_captain": false,
           "points": 60.21,
           "effective_points": 60.21
         }
       ],
       "total_points": 117,
       "rounded_off_total_points": 117,
+      "rank": 6,
       "overall_points": 359,
       "overall_rank": 3,
       "overall_rank_change": "↓1"
     },
     {
-      "rank": 6,
       "name": "Sunil",
       "players": [
         {
@@ -181,23 +192,25 @@
         },
         {
           "player": "Travis Head",
+          "is_captain": false,
           "points": 60.21,
           "effective_points": 60.21
         },
         {
           "player": "Yashasvi Jaiswal",
+          "is_captain": false,
           "points": -7.06,
           "effective_points": -7.06
         }
       ],
       "total_points": 117,
       "rounded_off_total_points": 117,
+      "rank": 6,
       "overall_points": 228,
       "overall_rank": 9,
       "overall_rank_change": "-"
     },
     {
-      "rank": 8,
       "name": "Bipin",
       "players": [
         {
@@ -208,23 +221,25 @@
         },
         {
           "player": "Abhishek Sharma",
+          "is_captain": false,
           "points": 31.69,
           "effective_points": 31.69
         },
         {
           "player": "Sandeep Sharma",
+          "is_captain": false,
           "points": 26.59,
           "effective_points": 26.59
         }
       ],
       "total_points": 112,
       "rounded_off_total_points": 112,
+      "rank": 8,
       "overall_points": 352,
       "overall_rank": 4,
       "overall_rank_change": "↓1"
     },
     {
-      "rank": 9,
       "name": "Karthik",
       "players": [
         {
@@ -235,23 +250,25 @@
         },
         {
           "player": "Abhishek Sharma",
+          "is_captain": false,
           "points": 31.69,
           "effective_points": 31.69
         },
         {
           "player": "Shimron Hetmyer",
+          "is_captain": false,
           "points": 25.43,
           "effective_points": 25.43
         }
       ],
       "total_points": 111,
       "rounded_off_total_points": 111,
+      "rank": 9,
       "overall_points": 197,
       "overall_rank": 11,
       "overall_rank_change": "↓1"
     },
     {
-      "rank": 10,
       "name": "Dr Vivek",
       "players": [
         {
@@ -262,23 +279,25 @@
         },
         {
           "player": "Mohammed Shami",
+          "is_captain": false,
           "points": 13.51,
           "effective_points": 13.51
         },
         {
           "player": "Shimron Hetmyer",
+          "is_captain": false,
           "points": 25.43,
           "effective_points": 25.43
         }
       ],
       "total_points": 93,
       "rounded_off_total_points": 93,
+      "rank": 10,
       "overall_points": 93,
       "overall_rank": 12,
       "overall_rank_change": "-"
     },
     {
-      "rank": 11,
       "name": "Utkarsh",
       "players": [
         {
@@ -289,23 +308,25 @@
         },
         {
           "player": "Yashasvi Jaiswal",
+          "is_captain": false,
           "points": -7.06,
           "effective_points": -7.06
         },
         {
           "player": "Mohammed Shami",
+          "is_captain": false,
           "points": 13.51,
           "effective_points": 13.51
         }
       ],
       "total_points": 70,
       "rounded_off_total_points": 70,
+      "rank": 11,
       "overall_points": 70,
       "overall_rank": 13,
       "overall_rank_change": "-"
     },
     {
-      "rank": 12,
       "name": "Dr Praveen",
       "players": [
         {
@@ -316,23 +337,25 @@
         },
         {
           "player": "Pat Cummins",
+          "is_captain": false,
           "points": -8.48,
           "effective_points": -8.48
         },
         {
           "player": "Riyan Parag",
+          "is_captain": false,
           "points": 2.83,
           "effective_points": 2.83
         }
       ],
       "total_points": 58,
       "rounded_off_total_points": 58,
+      "rank": 12,
       "overall_points": 58,
       "overall_rank": 14,
       "overall_rank_change": "-"
     },
     {
-      "rank": 13,
       "name": "Joshua",
       "players": [
         {
@@ -343,17 +366,20 @@
         },
         {
           "player": "Jofra Archer",
+          "is_captain": false,
           "points": -24.13,
           "effective_points": -24.13
         },
         {
           "player": "Harshal Patel",
+          "is_captain": false,
           "points": 30.25,
           "effective_points": 30.25
         }
       ],
       "total_points": 12,
       "rounded_off_total_points": 12,
+      "rank": 13,
       "overall_points": 256,
       "overall_rank": 7,
       "overall_rank_change": "↓6"
