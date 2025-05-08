@@ -37,34 +37,39 @@
 .username {
   font-size: 1.3rem;
   font-weight: 600;
-  margin-bottom: 12px;
+  margin-bottom: 16px;
   color: var(--text-color-primary, #fff);
 }
 
-.scoreSection, .matchesSection, .rankChangeSection {
-  margin-bottom: 12px;
-  padding-bottom: 12px;
+.statsRow {
+  display: flex;
+  margin-bottom: 16px;
+  padding-bottom: 0;
 }
 
-.rankChangeSection {
-  border-bottom: none;
+.statsRow:last-child {
+  margin-bottom: 0;
 }
 
-.scoreLabel, .matchesLabel, .rankChangeLabel {
+.statsColumn {
+  flex: 1;
+  margin-right: 16px;
+}
+
+.statsColumn:last-child {
+  margin-right: 0;
+}
+
+.matchesLabel, .rankChangeLabel {
   font-size: 0.9rem;
   color: var(--text-color-secondary, #888);
   margin-bottom: 4px;
 }
 
-.scoreValue {
-  font-size: 1.5rem;
-  font-weight: bold;
-  color: var(--highlight-color, #4caf50);
-}
-
 .matchesValue {
   font-size: 1.1rem;
   font-weight: 500;
+  color: var(--text-color-primary, #fff);
 }
 
 .rankChangeDetails {
@@ -90,14 +95,23 @@
 /* Responsive styles */
 @media (max-width: 480px) {
   .card {
-    padding: 12px;
+    padding: 16px;
   }
   
   .username {
     font-size: 1.1rem;
+    margin-bottom: 12px;
   }
   
-  .scoreValue {
-    font-size: 1.3rem;
+  .statsRow {
+    margin-bottom: 12px;
+  }
+  
+  .matchesValue {
+    font-size: 1rem;
+  }
+  
+  .rankChangeDetails {
+    font-size: 1rem;
   }
 } 

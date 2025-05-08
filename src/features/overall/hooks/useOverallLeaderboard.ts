@@ -33,6 +33,9 @@ export function useOverallLeaderboard(matchNumber?: number) {
             username,
             totalScore: info.cumulative_points,
             matchesPlayed: info.matches_played,
+            wins: info.wins,
+            podiums: info.podiums,
+            average: info.average,
             previousRank: info.overall_rank_change === "-" ? info.overall_rank : 
                           info.overall_rank_change.startsWith("↑") ? info.overall_rank + parseInt(info.overall_rank_change.substring(1)) :
                           info.overall_rank_change.startsWith("↓") ? info.overall_rank - parseInt(info.overall_rank_change.substring(1)) : undefined

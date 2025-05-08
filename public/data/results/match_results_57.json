@@ -1,0 +1,388 @@
+{
+  "match_number": 57,
+  "match_title": "KKR v CSK - May 07, 2025",
+  "teams": {
+    "team1": "KKR",
+    "team2": "CSK",
+    "winner": "CSK"
+  },
+  "participant_scores": [
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": false,
+          "points": -4.93,
+          "effective_points": -4.93
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": true,
+          "points": 79.99,
+          "effective_points": 159.98
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 90.28,
+          "effective_points": 90.28
+        }
+      ],
+      "total_points": 245,
+      "rounded_off_total_points": 245,
+      "rank": 1,
+      "overall_points": 6480,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Urvil Patel",
+          "is_captain": true,
+          "points": 55.63,
+          "effective_points": 111.26
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 90.28,
+          "effective_points": 90.28
+        },
+        {
+          "player": "Ajinkya Rahane",
+          "is_captain": false,
+          "points": 40.78,
+          "effective_points": 40.78
+        }
+      ],
+      "total_points": 242,
+      "rounded_off_total_points": 242,
+      "rank": 2,
+      "overall_points": 3810,
+      "overall_rank": 11,
+      "overall_rank_change": "↑2"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 37.98,
+          "effective_points": 75.96
+        },
+        {
+          "player": "Ravindra Jadeja",
+          "is_captain": false,
+          "points": 63.0,
+          "effective_points": 63.0
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 90.28,
+          "effective_points": 90.28
+        }
+      ],
+      "total_points": 229,
+      "rounded_off_total_points": 229,
+      "rank": 3,
+      "overall_points": 7409,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 37.98,
+          "effective_points": 75.96
+        },
+        {
+          "player": "Ravindra Jadeja",
+          "is_captain": false,
+          "points": 63.0,
+          "effective_points": 63.0
+        },
+        {
+          "player": "Varun Chakravarthy",
+          "is_captain": false,
+          "points": 79.99,
+          "effective_points": 79.99
+        }
+      ],
+      "total_points": 219,
+      "rounded_off_total_points": 219,
+      "rank": 4,
+      "overall_points": 7207,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Dewald Brevis",
+          "is_captain": true,
+          "points": 90.28,
+          "effective_points": 180.56
+        },
+        {
+          "player": "Angkrish Raghuvanshi",
+          "is_captain": false,
+          "points": -1.96,
+          "effective_points": -1.96
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": false,
+          "points": 37.98,
+          "effective_points": 37.98
+        }
+      ],
+      "total_points": 217,
+      "rounded_off_total_points": 217,
+      "rank": 5,
+      "overall_points": 4896,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 37.98,
+          "effective_points": 75.96
+        },
+        {
+          "player": "Andre Russell",
+          "is_captain": false,
+          "points": 60.91,
+          "effective_points": 60.91
+        },
+        {
+          "player": "Ravindra Jadeja",
+          "is_captain": false,
+          "points": 63.0,
+          "effective_points": 63.0
+        }
+      ],
+      "total_points": 200,
+      "rounded_off_total_points": 200,
+      "rank": 6,
+      "overall_points": 5760,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Ravindra Jadeja",
+          "is_captain": false,
+          "points": 63.0,
+          "effective_points": 63.0
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 37.98,
+          "effective_points": 75.96
+        },
+        {
+          "player": "Ajinkya Rahane",
+          "is_captain": false,
+          "points": 40.78,
+          "effective_points": 40.78
+        }
+      ],
+      "total_points": 180,
+      "rounded_off_total_points": 180,
+      "rank": 7,
+      "overall_points": 6109,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Ajinkya Rahane",
+          "is_captain": false,
+          "points": 40.78,
+          "effective_points": 40.78
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 37.98,
+          "effective_points": 75.96
+        },
+        {
+          "player": "Urvil Patel",
+          "is_captain": false,
+          "points": 55.63,
+          "effective_points": 55.63
+        }
+      ],
+      "total_points": 172,
+      "rounded_off_total_points": 172,
+      "rank": 8,
+      "overall_points": 4526,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Ajinkya Rahane",
+          "is_captain": true,
+          "points": 40.78,
+          "effective_points": 81.56
+        },
+        {
+          "player": "Devon Conway",
+          "is_captain": false,
+          "points": -4.81,
+          "effective_points": -4.81
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 90.28,
+          "effective_points": 90.28
+        }
+      ],
+      "total_points": 167,
+      "rounded_off_total_points": 167,
+      "rank": 9,
+      "overall_points": 5286,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Angkrish Raghuvanshi",
+          "is_captain": true,
+          "points": -1.96,
+          "effective_points": -3.92
+        },
+        {
+          "player": "Ajinkya Rahane",
+          "is_captain": false,
+          "points": 40.78,
+          "effective_points": 40.78
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 90.28,
+          "effective_points": 90.28
+        }
+      ],
+      "total_points": 127,
+      "rounded_off_total_points": 127,
+      "rank": 10,
+      "overall_points": 5921,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 37.98,
+          "effective_points": 75.96
+        },
+        {
+          "player": "Ajinkya Rahane",
+          "is_captain": false,
+          "points": 40.78,
+          "effective_points": 40.78
+        },
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": false,
+          "points": -4.93,
+          "effective_points": -4.93
+        }
+      ],
+      "total_points": 112,
+      "rounded_off_total_points": 112,
+      "rank": 11,
+      "overall_points": 6272,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Sunil Narine",
+          "is_captain": true,
+          "points": 37.98,
+          "effective_points": 75.96
+        },
+        {
+          "player": "Devon Conway",
+          "is_captain": false,
+          "points": -4.81,
+          "effective_points": -4.81
+        },
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": false,
+          "points": -4.93,
+          "effective_points": -4.93
+        }
+      ],
+      "total_points": 66,
+      "rounded_off_total_points": 66,
+      "rank": 12,
+      "overall_points": 3760,
+      "overall_rank": 13,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Utkarsh",
+      "players": [
+        {
+          "player": "MS Dhoni",
+          "is_captain": true,
+          "points": 3.18,
+          "effective_points": 6.36
+        },
+        {
+          "player": "Sunil Narine",
+          "is_captain": false,
+          "points": 37.98,
+          "effective_points": 37.98
+        },
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": false,
+          "points": -4.93,
+          "effective_points": -4.93
+        }
+      ],
+      "total_points": 39,
+      "rounded_off_total_points": 39,
+      "rank": 13,
+      "overall_points": 1351,
+      "overall_rank": 14,
+      "overall_rank_change": "-"
+    }
+  ]
+}
