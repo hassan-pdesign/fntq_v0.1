@@ -105,13 +105,14 @@ export function ThankYouPage() {
           
         </div>
         <div className={styles.winnerDetails}>
-            <p className={styles.winnerStats} style={{ fontSize: '12px' }}>Coming soon (may be)</p>
+            <p className={styles.winnerStats} style={{ fontSize: '12px', paddingBottom: '10px' }}>Coming soon (may be)</p>
+            <h3 className={styles.winnerName}>🏏 India Tour of England</h3>
             <h3 className={styles.winnerName}>⚽ English Premier League</h3>
           </div>
         
       </div>
       <div className={styles.winnerDetails} style={{width: '100%', textAlign: "center"}}>
-            <h3 className={styles.winnerStats}>Do share your feedback!</h3>
+            <h3 className={styles.winnerStats}>Do share your feedback and ideas!</h3>
             <a 
               href="https://wa.me/+919176080540" 
               target="_blank" 
