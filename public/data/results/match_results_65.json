@@ -1,0 +1,272 @@
+{
+  "match_number": 65,
+  "match_title": "SRH v RCB - May 23, 2025",
+  "teams": {
+    "team1": "SRH",
+    "team2": "RCB",
+    "winner": "SRH"
+  },
+  "participant_scores": [
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Phil Salt",
+          "is_captain": true,
+          "points": 84.58,
+          "effective_points": 169.16
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": 41.47,
+          "effective_points": 41.47
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 50.89,
+          "effective_points": 50.89
+        }
+      ],
+      "total_points": 262,
+      "rounded_off_total_points": 262,
+      "rank": 1,
+      "overall_points": 6625,
+      "overall_rank": 6,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 50.89,
+          "effective_points": 101.78
+        },
+        {
+          "player": "Phil Salt",
+          "is_captain": false,
+          "points": 84.58,
+          "effective_points": 84.58
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": 41.47,
+          "effective_points": 41.47
+        }
+      ],
+      "total_points": 228,
+      "rounded_off_total_points": 228,
+      "rank": 2,
+      "overall_points": 7301,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 50.89,
+          "effective_points": 101.78
+        },
+        {
+          "player": "Krunal Pandya",
+          "is_captain": false,
+          "points": 43.21,
+          "effective_points": 43.21
+        },
+        {
+          "player": "Bhuvneshwar Kumar",
+          "is_captain": false,
+          "points": 38.29,
+          "effective_points": 38.29
+        }
+      ],
+      "total_points": 183,
+      "rounded_off_total_points": 183,
+      "rank": 3,
+      "overall_points": 8096,
+      "overall_rank": 1,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Krunal Pandya",
+          "is_captain": true,
+          "points": 43.21,
+          "effective_points": 86.42
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 50.89,
+          "effective_points": 50.89
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": 41.47,
+          "effective_points": 41.47
+        }
+      ],
+      "total_points": 179,
+      "rounded_off_total_points": 179,
+      "rank": 4,
+      "overall_points": 6821,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Travis Head",
+          "is_captain": true,
+          "points": 16.25,
+          "effective_points": 32.5
+        },
+        {
+          "player": "Phil Salt",
+          "is_captain": false,
+          "points": 84.58,
+          "effective_points": 84.58
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": 41.47,
+          "effective_points": 41.47
+        }
+      ],
+      "total_points": 159,
+      "rounded_off_total_points": 159,
+      "rank": 5,
+      "overall_points": 7501,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": true,
+          "points": 26.9,
+          "effective_points": 53.8
+        },
+        {
+          "player": "Travis Head",
+          "is_captain": false,
+          "points": 16.25,
+          "effective_points": 16.25
+        },
+        {
+          "player": "Phil Salt",
+          "is_captain": false,
+          "points": 84.58,
+          "effective_points": 84.58
+        }
+      ],
+      "total_points": 155,
+      "rounded_off_total_points": 155,
+      "rank": 6,
+      "overall_points": 5661,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": true,
+          "points": 41.47,
+          "effective_points": 82.94
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 50.89,
+          "effective_points": 50.89
+        },
+        {
+          "player": "Jitesh Sharma",
+          "is_captain": false,
+          "points": 16.47,
+          "effective_points": 16.47
+        }
+      ],
+      "total_points": 150,
+      "rounded_off_total_points": 150,
+      "rank": 7,
+      "overall_points": 5206,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 50.89,
+          "effective_points": 101.78
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 26.9,
+          "effective_points": 26.9
+        },
+        {
+          "player": "Mayank Agarwal",
+          "is_captain": false,
+          "points": -1.42,
+          "effective_points": -1.42
+        }
+      ],
+      "total_points": 127,
+      "rounded_off_total_points": 127,
+      "rank": 8,
+      "overall_points": 5765,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Travis Head",
+          "is_captain": true,
+          "points": 16.25,
+          "effective_points": 32.5
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 26.9,
+          "effective_points": 26.9
+        },
+        {
+          "player": "Romario Shepherd",
+          "is_captain": false,
+          "points": 56.46,
+          "effective_points": 56.46
+        }
+      ],
+      "total_points": 116,
+      "rounded_off_total_points": 116,
+      "rank": 9,
+      "overall_points": 4266,
+      "overall_rank": 11,
+      "overall_rank_change": "-"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "match_number": 63,
+  "match_title": "MI v DC - May 21, 2025",
+  "teams": {
+    "team1": "MI",
+    "team2": "DC",
+    "winner": "MI"
+  },
+  "participant_scores": [
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 98.15,
+          "effective_points": 98.15
+        },
+        {
+          "player": "Jasprit Bumrah",
+          "is_captain": true,
+          "points": 41.04,
+          "effective_points": 82.08
+        },
+        {
+          "player": "Rohit Sharma",
+          "is_captain": false,
+          "points": 2.71,
+          "effective_points": 2.71
+        }
+      ],
+      "total_points": 183,
+      "rounded_off_total_points": 183,
+      "rank": 1,
+      "overall_points": 6226,
+      "overall_rank": 6,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Ryan Rickelton",
+          "is_captain": true,
+          "points": 25.27,
+          "effective_points": 50.54
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 98.15,
+          "effective_points": 98.15
+        },
+        {
+          "player": "Tristan Stubbs",
+          "is_captain": false,
+          "points": -3.53,
+          "effective_points": -3.53
+        }
+      ],
+      "total_points": 145,
+      "rounded_off_total_points": 145,
+      "rank": 2,
+      "overall_points": 6189,
+      "overall_rank": 7,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 98.15,
+          "effective_points": 98.15
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": -8.83,
+          "effective_points": -17.66
+        },
+        {
+          "player": "Will Jacks",
+          "is_captain": false,
+          "points": 41.57,
+          "effective_points": 41.57
+        }
+      ],
+      "total_points": 122,
+      "rounded_off_total_points": 122,
+      "rank": 3,
+      "overall_points": 5526,
+      "overall_rank": 8,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 98.15,
+          "effective_points": 98.15
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": -8.83,
+          "effective_points": -17.66
+        },
+        {
+          "player": "Jasprit Bumrah",
+          "is_captain": false,
+          "points": 41.04,
+          "effective_points": 41.04
+        }
+      ],
+      "total_points": 122,
+      "rounded_off_total_points": 122,
+      "rank": 3,
+      "overall_points": 7946,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Rohit Sharma",
+          "is_captain": true,
+          "points": 2.71,
+          "effective_points": 5.42
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 98.15,
+          "effective_points": 98.15
+        }
+      ],
+      "total_points": 104,
+      "rounded_off_total_points": 104,
+      "rank": 5,
+      "overall_points": 7232,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Rohit Sharma",
+          "is_captain": true,
+          "points": 2.71,
+          "effective_points": 5.42
+        },
+        {
+          "player": "Trent Boult",
+          "is_captain": false,
+          "points": 34.12,
+          "effective_points": 34.12
+        },
+        {
+          "player": "Jasprit Bumrah",
+          "is_captain": false,
+          "points": 41.04,
+          "effective_points": 41.04
+        }
+      ],
+      "total_points": 81,
+      "rounded_off_total_points": 81,
+      "rank": 6,
+      "overall_points": 7732,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Abishek Porel",
+          "is_captain": false,
+          "points": -2.95,
+          "effective_points": -2.95
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": -8.83,
+          "effective_points": -17.66
+        },
+        {
+          "player": "Mitchell Santner",
+          "is_captain": false,
+          "points": 48.55,
+          "effective_points": 48.55
+        }
+      ],
+      "total_points": 28,
+      "rounded_off_total_points": 28,
+      "rank": 7,
+      "overall_points": 6554,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    }
+  ]
+}

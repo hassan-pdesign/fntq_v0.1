@@ -6,8 +6,8 @@ import { fileURLToPath } from 'url'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-const csvFilePath = path.join(__dirname, '..', 'data', 'fixtures.csv')
-const jsonFilePath = path.join(__dirname, '..', 'data', 'fixtures.json')
+const csvFilePath = path.join(__dirname, '..', 'public', 'data', 'fixtures.csv')
+const jsonFilePath = path.join(__dirname, '..', 'public', 'data', 'fixtures.json')
 
 try {
   const fileContent = readFileSync(csvFilePath, 'utf-8')

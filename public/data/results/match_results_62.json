@@ -1,0 +1,272 @@
+{
+  "match_number": 62,
+  "match_title": "CSK v RR - May 20, 2025",
+  "teams": {
+    "team1": "CSK",
+    "team2": "RR",
+    "winner": "RR"
+  },
+  "participant_scores": [
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Yudhvir Singh",
+          "is_captain": true,
+          "points": 72.89,
+          "effective_points": 145.78
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 51.89,
+          "effective_points": 51.89
+        },
+        {
+          "player": "Vaibhav Suryavanshi",
+          "is_captain": false,
+          "points": 60.4,
+          "effective_points": 60.4
+        }
+      ],
+      "total_points": 258,
+      "rounded_off_total_points": 258,
+      "rank": 1,
+      "overall_points": 6526,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": false,
+          "points": 33.68,
+          "effective_points": 33.68
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": true,
+          "points": 51.89,
+          "effective_points": 103.78
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 30.41,
+          "effective_points": 30.41
+        }
+      ],
+      "total_points": 168,
+      "rounded_off_total_points": 168,
+      "rank": 2,
+      "overall_points": 5056,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": false,
+          "points": 33.68,
+          "effective_points": 33.68
+        },
+        {
+          "player": "Urvil Patel",
+          "is_captain": false,
+          "points": -4.35,
+          "effective_points": -4.35
+        },
+        {
+          "player": "Vaibhav Suryavanshi",
+          "is_captain": true,
+          "points": 60.4,
+          "effective_points": 120.8
+        }
+      ],
+      "total_points": 150,
+      "rounded_off_total_points": 150,
+      "rank": 3,
+      "overall_points": 6953,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Vaibhav Suryavanshi",
+          "is_captain": false,
+          "points": 60.4,
+          "effective_points": 60.4
+        },
+        {
+          "player": "Urvil Patel",
+          "is_captain": false,
+          "points": -4.35,
+          "effective_points": -4.35
+        },
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": true,
+          "points": 33.68,
+          "effective_points": 67.36
+        }
+      ],
+      "total_points": 123,
+      "rounded_off_total_points": 123,
+      "rank": 4,
+      "overall_points": 6044,
+      "overall_rank": 6,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": true,
+          "points": 51.89,
+          "effective_points": 103.78
+        },
+        {
+          "player": "Urvil Patel",
+          "is_captain": false,
+          "points": -4.35,
+          "effective_points": -4.35
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": false,
+          "points": 13.82,
+          "effective_points": 13.82
+        }
+      ],
+      "total_points": 113,
+      "rounded_off_total_points": 113,
+      "rank": 5,
+      "overall_points": 6043,
+      "overall_rank": 7,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 51.89,
+          "effective_points": 51.89
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": true,
+          "points": 13.82,
+          "effective_points": 27.64
+        },
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": false,
+          "points": 33.68,
+          "effective_points": 33.68
+        }
+      ],
+      "total_points": 113,
+      "rounded_off_total_points": 113,
+      "rank": 5,
+      "overall_points": 7824,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Ravindra Jadeja",
+          "is_captain": false,
+          "points": -12.92,
+          "effective_points": -12.92
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": true,
+          "points": 51.89,
+          "effective_points": 103.78
+        },
+        {
+          "player": "Riyan Parag",
+          "is_captain": false,
+          "points": -7.35,
+          "effective_points": -7.35
+        }
+      ],
+      "total_points": 84,
+      "rounded_off_total_points": 84,
+      "rank": 7,
+      "overall_points": 7651,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 51.89,
+          "effective_points": 51.89
+        },
+        {
+          "player": "Urvil Patel",
+          "is_captain": true,
+          "points": -4.35,
+          "effective_points": -8.7
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 30.41,
+          "effective_points": 30.41
+        }
+      ],
+      "total_points": 74,
+      "rounded_off_total_points": 74,
+      "rank": 8,
+      "overall_points": 7128,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 30.41,
+          "effective_points": 30.41
+        },
+        {
+          "player": "Ravindra Jadeja",
+          "is_captain": true,
+          "points": -12.92,
+          "effective_points": -25.84
+        },
+        {
+          "player": "Yashasvi Jaiswal",
+          "is_captain": false,
+          "points": 51.89,
+          "effective_points": 51.89
+        }
+      ],
+      "total_points": 56,
+      "rounded_off_total_points": 56,
+      "rank": 9,
+      "overall_points": 5404,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    }
+  ]
+}

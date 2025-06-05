@@ -18,6 +18,22 @@ function formatDate(dateString: string): string {
   return `${dayOfWeek}, ${month} ${day}`;
 }
 
+// Helper function to format match number for playoffs
+function formatMatchNumber(matchNumber: string): string {
+  switch (matchNumber) {
+    case "71":
+      return "Qualifier 1";
+    case "72":
+      return "Eliminator";
+    case "73":
+      return "Qualifier 2";
+    case "74":
+      return "Final";
+    default:
+      return matchNumber;
+  }
+}
+
 // Helper function to format time from "07:30 PM" to "7:30 PM"
 function formatTime(timeString: string): string {
   // Check if the time is already in the correct format
@@ -155,7 +171,7 @@ export function LeaderboardPage() {
   return (
     <div className={styles.container}>
       <MatchHeader 
-        matchNumber={selectedMatch.match_number}
+        matchNumber={formatMatchNumber(selectedMatch.match_number)}
         team1={selectedMatch.team1}
         team2={selectedMatch.team2}
         result={selectedMatch.result}

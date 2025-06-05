@@ -1,0 +1,272 @@
+{
+  "match_number": 67,
+  "match_title": "CSK v GT - May 25, 2025",
+  "teams": {
+    "team1": "CSK",
+    "team2": "GT",
+    "winner": "CSK"
+  },
+  "participant_scores": [
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Urvil Patel",
+          "is_captain": true,
+          "points": 46.49,
+          "effective_points": 92.98
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 31.73,
+          "effective_points": 31.73
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 77.51,
+          "effective_points": 77.51
+        }
+      ],
+      "total_points": 202,
+      "rounded_off_total_points": 202,
+      "rank": 1,
+      "overall_points": 7822,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Devon Conway",
+          "is_captain": true,
+          "points": 44.13,
+          "effective_points": 88.26
+        },
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 77.51,
+          "effective_points": 77.51
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 31.73,
+          "effective_points": 31.73
+        }
+      ],
+      "total_points": 198,
+      "rounded_off_total_points": 198,
+      "rank": 2,
+      "overall_points": 4578,
+      "overall_rank": 11,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Shubman Gill",
+          "is_captain": false,
+          "points": 13.25,
+          "effective_points": 13.25
+        },
+        {
+          "player": "Noor Ahmad",
+          "is_captain": true,
+          "points": 33.73,
+          "effective_points": 67.46
+        },
+        {
+          "player": "Prasidh Krishna",
+          "is_captain": false,
+          "points": 70.39,
+          "effective_points": 70.39
+        }
+      ],
+      "total_points": 151,
+      "rounded_off_total_points": 151,
+      "rank": 3,
+      "overall_points": 7077,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": true,
+          "points": 43.6,
+          "effective_points": 87.2
+        },
+        {
+          "player": "Sherfane Rutherford",
+          "is_captain": false,
+          "points": -7.85,
+          "effective_points": -7.85
+        },
+        {
+          "player": "Prasidh Krishna",
+          "is_captain": false,
+          "points": 70.39,
+          "effective_points": 70.39
+        }
+      ],
+      "total_points": 150,
+      "rounded_off_total_points": 150,
+      "rank": 4,
+      "overall_points": 8375,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Shubman Gill",
+          "is_captain": false,
+          "points": 13.25,
+          "effective_points": 13.25
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": true,
+          "points": 31.73,
+          "effective_points": 63.46
+        },
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": false,
+          "points": 43.6,
+          "effective_points": 43.6
+        }
+      ],
+      "total_points": 120,
+      "rounded_off_total_points": 120,
+      "rank": 5,
+      "overall_points": 5824,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Ayush Mhatre",
+          "is_captain": true,
+          "points": 43.6,
+          "effective_points": 87.2
+        },
+        {
+          "player": "Jos Buttler",
+          "is_captain": false,
+          "points": -5.75,
+          "effective_points": -5.75
+        },
+        {
+          "player": "Mohammed Siraj",
+          "is_captain": false,
+          "points": 0.94,
+          "effective_points": 0.94
+        }
+      ],
+      "total_points": 82,
+      "rounded_off_total_points": 82,
+      "rank": 6,
+      "overall_points": 8233,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Dewald Brevis",
+          "is_captain": false,
+          "points": 77.51,
+          "effective_points": 77.51
+        },
+        {
+          "player": "Jos Buttler",
+          "is_captain": true,
+          "points": -5.75,
+          "effective_points": -11.5
+        },
+        {
+          "player": "Shubman Gill",
+          "is_captain": false,
+          "points": 13.25,
+          "effective_points": 13.25
+        }
+      ],
+      "total_points": 79,
+      "rounded_off_total_points": 79,
+      "rank": 7,
+      "overall_points": 6070,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 31.73,
+          "effective_points": 31.73
+        },
+        {
+          "player": "Jos Buttler",
+          "is_captain": true,
+          "points": -5.75,
+          "effective_points": -11.5
+        },
+        {
+          "player": "Urvil Patel",
+          "is_captain": false,
+          "points": 46.49,
+          "effective_points": 46.49
+        }
+      ],
+      "total_points": 67,
+      "rounded_off_total_points": 67,
+      "rank": 8,
+      "overall_points": 6823,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Shubman Gill",
+          "is_captain": true,
+          "points": 13.25,
+          "effective_points": 26.5
+        },
+        {
+          "player": "Jos Buttler",
+          "is_captain": false,
+          "points": -5.75,
+          "effective_points": -5.75
+        },
+        {
+          "player": "Sai Sudharsan",
+          "is_captain": false,
+          "points": 31.73,
+          "effective_points": 31.73
+        }
+      ],
+      "total_points": 52,
+      "rounded_off_total_points": 52,
+      "rank": 9,
+      "overall_points": 7438,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    }
+  ]
+}

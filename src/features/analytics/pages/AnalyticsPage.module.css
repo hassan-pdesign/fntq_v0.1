@@ -1,0 +1,91 @@
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 40px 24px 80px 24px; /* Match other pages - bottom padding for bottom bar */
+  display: flex;
+  flex-direction: column;
+  height: auto;
+}
+
+.pageHeader {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.pageTitle {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0 0 8px 0;
+}
+
+.pageDescription {
+  color: var(--text-secondary);
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.analyticsContent {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.errorContainer {
+  text-align: center;
+  padding: 40px 24px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+  margin: 20px 0;
+}
+
+.errorContainer h2 {
+  color: #dc3545;
+  margin-bottom: 8px;
+  font-size: 1.2rem;
+}
+
+.errorContainer p {
+  color: var(--text-secondary);
+  margin-bottom: 16px;
+}
+
+.errorContainer button {
+  padding: 12px 24px;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: var(--text-primary);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  font-size: 14px;
+}
+
+.errorContainer button:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .container {
+    padding: 20px 16px 80px 16px;
+  }
+  
+  .pageTitle {
+    font-size: 1.5rem;
+  }
+  
+  .analyticsContent {
+    gap: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 16px 12px 80px 12px;
+  }
+  
+  .pageTitle {
+    font-size: 1.3rem;
+  }
+} 

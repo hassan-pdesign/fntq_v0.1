@@ -1,0 +1,301 @@
+{
+  "match_number": 61,
+  "match_title": "LSG v SRH - May 19, 2025",
+  "teams": {
+    "team1": "LSG",
+    "team2": "SRH",
+    "winner": "SRH"
+  },
+  "participant_scores": [
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 32.53,
+          "effective_points": 32.53
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": true,
+          "points": 97.09,
+          "effective_points": 194.18
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 58.05,
+          "effective_points": 58.05
+        }
+      ],
+      "total_points": 285,
+      "rounded_off_total_points": 285,
+      "rank": 1,
+      "overall_points": 7054,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Aiden Markram",
+          "is_captain": false,
+          "points": 42.73,
+          "effective_points": 42.73
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": true,
+          "points": 97.09,
+          "effective_points": 194.18
+        },
+        {
+          "player": "Kamindu Mendis",
+          "is_captain": false,
+          "points": 26.68,
+          "effective_points": 26.68
+        }
+      ],
+      "total_points": 264,
+      "rounded_off_total_points": 264,
+      "rank": 2,
+      "overall_points": 5348,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 32.53,
+          "effective_points": 65.06
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 58.05,
+          "effective_points": 58.05
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": 97.09,
+          "effective_points": 97.09
+        }
+      ],
+      "total_points": 220,
+      "rounded_off_total_points": 220,
+      "rank": 3,
+      "overall_points": 4030,
+      "overall_rank": 11,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 58.05,
+          "effective_points": 58.05
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 32.53,
+          "effective_points": 65.06
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": 97.09,
+          "effective_points": 97.09
+        }
+      ],
+      "total_points": 220,
+      "rounded_off_total_points": 220,
+      "rank": 3,
+      "overall_points": 6803,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 32.53,
+          "effective_points": 65.06
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": 97.09,
+          "effective_points": 97.09
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 58.05,
+          "effective_points": 58.05
+        }
+      ],
+      "total_points": 220,
+      "rounded_off_total_points": 220,
+      "rank": 3,
+      "overall_points": 5506,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 32.53,
+          "effective_points": 65.06
+        },
+        {
+          "player": "Abhishek Sharma",
+          "is_captain": false,
+          "points": 97.09,
+          "effective_points": 97.09
+        },
+        {
+          "player": "Pat Cummins",
+          "is_captain": false,
+          "points": 24.01,
+          "effective_points": 24.01
+        }
+      ],
+      "total_points": 186,
+      "rounded_off_total_points": 186,
+      "rank": 6,
+      "overall_points": 7567,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 58.05,
+          "effective_points": 58.05
+        },
+        {
+          "player": "Pat Cummins",
+          "is_captain": false,
+          "points": 24.01,
+          "effective_points": 24.01
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": true,
+          "points": 44.12,
+          "effective_points": 88.24
+        }
+      ],
+      "total_points": 170,
+      "rounded_off_total_points": 170,
+      "rank": 7,
+      "overall_points": 5930,
+      "overall_rank": 6,
+      "overall_rank_change": "↑1"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Aiden Markram",
+          "is_captain": false,
+          "points": 42.73,
+          "effective_points": 42.73
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": 32.53,
+          "effective_points": 65.06
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 44.12,
+          "effective_points": 44.12
+        }
+      ],
+      "total_points": 152,
+      "rounded_off_total_points": 152,
+      "rank": 8,
+      "overall_points": 4888,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": 32.53,
+          "effective_points": 32.53
+        },
+        {
+          "player": "Heinrich Klaasen",
+          "is_captain": false,
+          "points": 44.12,
+          "effective_points": 44.12
+        },
+        {
+          "player": "Pat Cummins",
+          "is_captain": true,
+          "points": 24.01,
+          "effective_points": 48.02
+        }
+      ],
+      "total_points": 125,
+      "rounded_off_total_points": 125,
+      "rank": 9,
+      "overall_points": 7711,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Rishabh Pant",
+          "is_captain": false,
+          "points": 0.79,
+          "effective_points": 0.79
+        },
+        {
+          "player": "Kamindu Mendis",
+          "is_captain": true,
+          "points": 26.68,
+          "effective_points": 53.36
+        },
+        {
+          "player": "Avesh Khan",
+          "is_captain": false,
+          "points": 17.96,
+          "effective_points": 17.96
+        }
+      ],
+      "total_points": 72,
+      "rounded_off_total_points": 72,
+      "rank": 10,
+      "overall_points": 6268,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    }
+  ]
+}

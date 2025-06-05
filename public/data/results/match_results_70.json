@@ -1,0 +1,272 @@
+{
+  "match_number": 70,
+  "match_title": "LSG v RCB - May 27, 2025",
+  "teams": {
+    "team1": "LSG",
+    "team2": "RCB",
+    "winner": "RCB"
+  },
+  "participant_scores": [
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 51.91,
+          "effective_points": 103.82
+        },
+        {
+          "player": "Romario Shepherd",
+          "is_captain": false,
+          "points": 28.43,
+          "effective_points": 28.43
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 57.04,
+          "effective_points": 57.04
+        }
+      ],
+      "total_points": 189,
+      "rounded_off_total_points": 189,
+      "rank": 1,
+      "overall_points": 7223,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 51.91,
+          "effective_points": 103.82
+        },
+        {
+          "player": "Nuwan Thushara",
+          "is_captain": false,
+          "points": 63.89,
+          "effective_points": 63.89
+        },
+        {
+          "player": "Krunal Pandya",
+          "is_captain": false,
+          "points": 21.07,
+          "effective_points": 21.07
+        }
+      ],
+      "total_points": 189,
+      "rounded_off_total_points": 189,
+      "rank": 1,
+      "overall_points": 8678,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Phil Salt",
+          "is_captain": true,
+          "points": 21.3,
+          "effective_points": 42.6
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 51.91,
+          "effective_points": 51.91
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 57.04,
+          "effective_points": 57.04
+        }
+      ],
+      "total_points": 152,
+      "rounded_off_total_points": 152,
+      "rank": 3,
+      "overall_points": 7811,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": false,
+          "points": -6.76,
+          "effective_points": -6.76
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": true,
+          "points": 57.04,
+          "effective_points": 114.08
+        },
+        {
+          "player": "Krunal Pandya",
+          "is_captain": false,
+          "points": 21.07,
+          "effective_points": 21.07
+        }
+      ],
+      "total_points": 128,
+      "rounded_off_total_points": 128,
+      "rank": 4,
+      "overall_points": 8997,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 51.91,
+          "effective_points": 51.91
+        },
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 57.04,
+          "effective_points": 57.04
+        },
+        {
+          "player": "Yash Dayal",
+          "is_captain": true,
+          "points": -3.84,
+          "effective_points": -7.68
+        }
+      ],
+      "total_points": 101,
+      "rounded_off_total_points": 101,
+      "rank": 5,
+      "overall_points": 7609,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Ayush Badoni",
+          "is_captain": false,
+          "points": -0.4,
+          "effective_points": -0.4
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 51.91,
+          "effective_points": 103.82
+        },
+        {
+          "player": "Liam Livingstone",
+          "is_captain": false,
+          "points": -3.42,
+          "effective_points": -3.42
+        }
+      ],
+      "total_points": 100,
+      "rounded_off_total_points": 100,
+      "rank": 6,
+      "overall_points": 6407,
+      "overall_rank": 7,
+      "overall_rank_change": "↑2"
+    },
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 57.04,
+          "effective_points": 57.04
+        },
+        {
+          "player": "Phil Salt",
+          "is_captain": true,
+          "points": 21.3,
+          "effective_points": 42.6
+        },
+        {
+          "player": "Liam Livingstone",
+          "is_captain": false,
+          "points": -3.42,
+          "effective_points": -3.42
+        }
+      ],
+      "total_points": 96,
+      "rounded_off_total_points": 96,
+      "rank": 7,
+      "overall_points": 8140,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Mitchell Marsh",
+          "is_captain": false,
+          "points": 57.04,
+          "effective_points": 57.04
+        },
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": -6.76,
+          "effective_points": -13.52
+        },
+        {
+          "player": "Krunal Pandya",
+          "is_captain": false,
+          "points": 21.07,
+          "effective_points": 21.07
+        }
+      ],
+      "total_points": 65,
+      "rounded_off_total_points": 65,
+      "rank": 8,
+      "overall_points": 6402,
+      "overall_rank": 9,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Nicholas Pooran",
+          "is_captain": true,
+          "points": -6.76,
+          "effective_points": -13.52
+        },
+        {
+          "player": "Matthew Breetzke",
+          "is_captain": false,
+          "points": -2.36,
+          "effective_points": -2.36
+        },
+        {
+          "player": "Phil Salt",
+          "is_captain": false,
+          "points": 21.3,
+          "effective_points": 21.3
+        }
+      ],
+      "total_points": 5,
+      "rounded_off_total_points": 5,
+      "rank": 9,
+      "overall_points": 5047,
+      "overall_rank": 11,
+      "overall_rank_change": "-"
+    }
+  ]
+}

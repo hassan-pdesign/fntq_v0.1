@@ -4,6 +4,8 @@ import { BottomBar } from './features/shared/components/BottomBar'
 import { LeaderboardPage } from './features/leaderboard/pages/LeaderboardPage'
 import { OverallLeaderboardPage } from './features/overall/pages/OverallLeaderboardPage'
 import { FixturesPage } from './features/fixtures/pages/FixturesPage'
+import { AnalyticsPage } from './features/analytics'
+import { ThankYouPage } from './features/thankyou'
 
 function App() {
   return (
@@ -11,11 +13,13 @@ function App() {
       <div className="app-container">
         <div className="main-content">
           <Routes>
-            <Route path="/" element={<Navigate to="/fixtures" replace />} />
+            <Route path="/" element={<Navigate to="/thankyou" replace />} />
             <Route path="/fixtures" element={<FixturesPage />} />
             <Route path="/leaderboard" element={<LeaderboardPage />} />
             <Route path="/overall" element={<OverallLeaderboardPage />} />
-            <Route path="*" element={<Navigate to="/fixtures" replace />} />
+            <Route path="/analytics" element={<AnalyticsPage />} />
+            <Route path="/thankyou" element={<ThankYouPage />} />
+            <Route path="*" element={<Navigate to="/thankyou" replace />} />
           </Routes>
         </div>
         <BottomBar />

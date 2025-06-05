@@ -27,8 +27,22 @@ export function useOverallLeaderboard(matchNumber?: number) {
           
           const matchData = await response.json();
           
-          // Transform match data format to match OverallLeaderboardEntry
-          data = Object.entries(matchData).map(([username, info]: [string, any]) => ({
+          // Handle duplicate player names by consolidating stats
+          const consolidatedData: { [key: string]: any } = {};
+          
+          Object.entries(matchData).forEach(([username, info]: [string, any]) => {
+            if (consolidatedData[username]) {
+              // If duplicate exists, keep the one with more matches played
+              if (info.matches_played > consolidatedData[username].matches_played) {
+                consolidatedData[username] = info;
+              }
+            } else {
+              consolidatedData[username] = info;
+            }
+          });
+          
+          // Transform consolidated data format to match OverallLeaderboardEntry
+          data = Object.entries(consolidatedData).map(([username, info]: [string, any]) => ({
             rank: info.overall_rank,
             username,
             totalScore: info.cumulative_points,

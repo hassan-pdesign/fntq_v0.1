@@ -33,7 +33,11 @@ export function MatchCard({ match, isCompleted, onClick }: MatchCardProps) {
     >
       <div className={styles.matchHeader}>
         <div className={styles.matchNumber}>
-          #{match.match_number}
+          {match.match_number === '71' ? 'Qualifier 1' :
+           match.match_number === '72' ? 'Eliminator' :
+           match.match_number === '73' ? 'Qualifier 2' :
+           match.match_number === '74' ? 'Final' :
+           `#${match.match_number}`}
         </div>
         <div className={styles.matchTime}>{formatTime(match.time_ist)}</div>
       </div>

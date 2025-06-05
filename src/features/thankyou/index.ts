@@ -1,0 +1,1 @@
+export { ThankYouPage } from './pages/ThankYouPage' 

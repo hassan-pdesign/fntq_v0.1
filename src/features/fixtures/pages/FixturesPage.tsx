@@ -1,10 +1,7 @@
-import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import styles from './FixturesPage.module.css'
 import { Match } from '../../../types/match'
 import { useMatches } from '../hooks/useMatches'
-import { useScrollPosition } from '../../shared/hooks/useScrollPosition'
-import { Tabs } from '../../shared/components/Tabs'
 import { DateSection } from '../components/DateSection'
 import { LoadingState } from '../../shared/components/LoadingState'
 import { EmptyState } from '../../shared/components/EmptyState'
@@ -12,20 +9,10 @@ import { EmptyState } from '../../shared/components/EmptyState'
 type ActiveTab = 'UPCOMING' | 'COMPLETED'
 
 export function FixturesPage() {
-  const [activeTab, setActiveTab] = useState<ActiveTab>('COMPLETED')
+  const activeTab: ActiveTab = 'COMPLETED'
   const navigate = useNavigate()
   
   const { loading, matchesByDate } = useMatches(activeTab)
-  const SCROLL_POSITION_KEY = 'fixturesScrollPosition'
-  const { clearScrollPosition } = useScrollPosition({ 
-    key: SCROLL_POSITION_KEY,
-    dependencyArray: [loading]
-  })
-
-  const handleTabChange = (tabId: string) => {
-    setActiveTab(tabId as ActiveTab)
-    clearScrollPosition()
-  }
 
   const handleMatchClick = (match: Match) => {
     // Only handle clicks for completed matches
@@ -40,18 +27,13 @@ export function FixturesPage() {
     }
   }
 
-  const tabs = [
-    { id: 'COMPLETED', label: 'Completed' },
-    { id: 'UPCOMING', label: 'Upcoming' }
-  ]
-
   return (
     <div className={styles.fixturesContainer}>
-      <Tabs 
+      {/* <Tabs 
         activeTab={activeTab} 
         tabs={tabs} 
         onTabChange={handleTabChange} 
-      />
+      /> */}
       
       {loading ? (
         <LoadingState message="Loading fixtures..." />

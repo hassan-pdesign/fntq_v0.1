@@ -117,22 +117,13 @@
     "overall_rank_change": "-"
   },
   "Utkarsh": {
-    "matches_played": 9,
-    "cumulative_points": 877,
-    "average": 97.44,
+    "matches_played": 11,
+    "cumulative_points": 1129,
+    "average": 102.64,
     "wins": 1,
-    "podiums": 2,
+    "podiums": 3,
     "overall_rank": 14,
     "overall_rank_change": "-"
-  },
-  "Utkarsh Ved": {
-    "matches_played": 2,
-    "cumulative_points": 252,
-    "average": 126.0,
-    "wins": 0,
-    "podiums": 1,
-    "overall_rank": 15,
-    "overall_rank_change": "↑1"
   },
   "Sunil": {
     "matches_played": 2,
@@ -140,7 +131,7 @@
     "average": 114.0,
     "wins": 0,
     "podiums": 0,
-    "overall_rank": 16,
-    "overall_rank_change": "↓1"
+    "overall_rank": 15,
+    "overall_rank_change": "-"
   }
 }

@@ -4,12 +4,8 @@ import { useOverallLeaderboard } from '../hooks/useOverallLeaderboard'
 import { OverallLeaderboardCards } from '../components/OverallLeaderboardCards'
 import { LoadingState } from '../../shared/components/LoadingState'
 import { EmptyState } from '../../shared/components/EmptyState'
-import { Tabs } from '../../shared/components/Tabs'
-
-type ActiveTab = 'OVERALL'
 
 export function OverallLeaderboardPage() {
-  const [activeTab, setActiveTab] = useState<ActiveTab>('OVERALL')
   const [selectedMatch, setSelectedMatch] = useState<number | undefined>(undefined);
   const [availableMatches, setAvailableMatches] = useState<number[]>([]);
   const { entries, loading, error } = useOverallLeaderboard(selectedMatch);
@@ -29,11 +25,7 @@ export function OverallLeaderboardPage() {
     }
   }, [availableMatches, selectedMatch]);
   
-  const handleTabChange = (tabId: string) => {
-    setActiveTab(tabId as ActiveTab)
-  }
-  
-  const handleMatchChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    const handleMatchChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const value = e.target.value;
     if (value === "") {
       setSelectedMatch(undefined);
@@ -42,18 +34,14 @@ export function OverallLeaderboardPage() {
     }
   };
   
-  const tabs = [
-    { id: 'OVERALL', label: 'Overall' }
-  ]
-  
   return (
     <div className={styles.container}>
       <div className={styles.tabsWithSelector}>
-        <Tabs 
+        {/* <Tabs 
           activeTab={activeTab} 
           tabs={tabs} 
           onTabChange={handleTabChange} 
-        />
+        /> */}
         
         <div className={styles.matchSelector}>
           <select 

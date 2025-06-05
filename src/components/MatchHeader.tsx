@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import styles from './MatchHeader.module.css'
-import teamAcronyms from '../../data/team_acronyms.json'
+import teamAcronyms from '../../public/data/team_acronyms.json'
 
 // Define the type for the team acronyms object
 type TeamAcronyms = {

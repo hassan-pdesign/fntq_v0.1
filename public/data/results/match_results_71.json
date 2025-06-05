@@ -1,0 +1,272 @@
+{
+  "match_number": 71,
+  "match_title": "PBKS v RCB - May 29, 2025",
+  "teams": {
+    "team1": "PBKS",
+    "team2": "RCB",
+    "winner": "RCB"
+  },
+  "participant_scores": [
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": -0.8,
+          "effective_points": -0.8
+        },
+        {
+          "player": "Josh Hazlewood",
+          "is_captain": true,
+          "points": 74.45,
+          "effective_points": 148.9
+        },
+        {
+          "player": "Phil Salt",
+          "is_captain": false,
+          "points": 54.33,
+          "effective_points": 54.33
+        }
+      ],
+      "total_points": 202,
+      "rounded_off_total_points": 202,
+      "rank": 1,
+      "overall_points": 9199,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 6.91,
+          "effective_points": 6.91
+        },
+        {
+          "player": "Prabhsimran Singh",
+          "is_captain": false,
+          "points": 32.49,
+          "effective_points": 32.49
+        },
+        {
+          "player": "Josh Hazlewood",
+          "is_captain": true,
+          "points": 74.45,
+          "effective_points": 148.9
+        }
+      ],
+      "total_points": 188,
+      "rounded_off_total_points": 188,
+      "rank": 2,
+      "overall_points": 7797,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Josh Hazlewood",
+          "is_captain": false,
+          "points": 74.45,
+          "effective_points": 74.45
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 6.91,
+          "effective_points": 6.91
+        },
+        {
+          "player": "Prabhsimran Singh",
+          "is_captain": true,
+          "points": 32.49,
+          "effective_points": 64.98
+        }
+      ],
+      "total_points": 146,
+      "rounded_off_total_points": 146,
+      "rank": 3,
+      "overall_points": 5620,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 6.91,
+          "effective_points": 13.82
+        },
+        {
+          "player": "Josh Hazlewood",
+          "is_captain": false,
+          "points": 74.45,
+          "effective_points": 74.45
+        },
+        {
+          "player": "Krunal Pandya",
+          "is_captain": false,
+          "points": -2.07,
+          "effective_points": -2.07
+        }
+      ],
+      "total_points": 86,
+      "rounded_off_total_points": 86,
+      "rank": 4,
+      "overall_points": 8764,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 6.91,
+          "effective_points": 13.82
+        },
+        {
+          "player": "Phil Salt",
+          "is_captain": false,
+          "points": 54.33,
+          "effective_points": 54.33
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": -0.8,
+          "effective_points": -0.8
+        }
+      ],
+      "total_points": 67,
+      "rounded_off_total_points": 67,
+      "rank": 5,
+      "overall_points": 7878,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Prabhsimran Singh",
+          "is_captain": false,
+          "points": 32.49,
+          "effective_points": 32.49
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": true,
+          "points": -0.8,
+          "effective_points": -1.6
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 6.91,
+          "effective_points": 6.91
+        }
+      ],
+      "total_points": 38,
+      "rounded_off_total_points": 38,
+      "rank": 6,
+      "overall_points": 6440,
+      "overall_rank": 7,
+      "overall_rank_change": "↑2"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Priyansh Arya",
+          "is_captain": true,
+          "points": 8.86,
+          "effective_points": 17.72
+        },
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": -0.8,
+          "effective_points": -0.8
+        },
+        {
+          "player": "Jitesh Sharma",
+          "is_captain": false,
+          "points": 0.0,
+          "effective_points": 0.0
+        }
+      ],
+      "total_points": 17,
+      "rounded_off_total_points": 17,
+      "rank": 7,
+      "overall_points": 5064,
+      "overall_rank": 11,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Shreyas Iyer",
+          "is_captain": false,
+          "points": -0.8,
+          "effective_points": -0.8
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 6.91,
+          "effective_points": 13.82
+        },
+        {
+          "player": "Liam Livingstone",
+          "is_captain": false,
+          "points": 0.0,
+          "effective_points": 0.0
+        }
+      ],
+      "total_points": 13,
+      "rounded_off_total_points": 13,
+      "rank": 8,
+      "overall_points": 6420,
+      "overall_rank": 8,
+      "overall_rank_change": "↓1"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Trent Boult",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Jonny Bairstow",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Suryakumar Yadav",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 9,
+      "overall_points": 6405,
+      "overall_rank": 9,
+      "overall_rank_change": "↓1"
+    }
+  ]
+}

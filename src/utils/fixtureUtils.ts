@@ -1,4 +1,4 @@
-import fixturesData from '../../data/fixtures.json'
+import fixturesData from '../../public/data/fixtures.json'
 
 export interface FixtureDetails {
   matchNumber: number
@@ -13,7 +13,7 @@ export interface FixtureDetails {
 export function getMatchDetails(matchNumber: number): FixtureDetails | null {
   try {
     const matchDetails = fixturesData.find(
-      fixture => fixture.matchNumber === matchNumber
+      (fixture: FixtureDetails) => fixture.matchNumber === matchNumber
     )
     return matchDetails || null
   } catch (error) {

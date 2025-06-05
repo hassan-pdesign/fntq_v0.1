@@ -1,0 +1,388 @@
+{
+  "match_number": 58,
+  "match_title": "RCB v KKR - May 17, 2025",
+  "teams": {
+    "team1": "RCB",
+    "team2": "KKR",
+    "winner": "NA"
+  },
+  "participant_scores": [
+    {
+      "name": "Dubai Deepak",
+      "players": [
+        {
+          "player": "Rohit Sharma",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Jasprit Bumrah",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 1,
+      "overall_points": 6480,
+      "overall_rank": 3,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Ducati Deepak",
+      "players": [
+        {
+          "player": "Virat Kohli",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Tilak Varma",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 2,
+      "overall_points": 3810,
+      "overall_rank": 11,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Bipin",
+      "players": [
+        {
+          "player": "Jasprit Bumrah",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Glenn Maxwell",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Ishan Kishan",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 3,
+      "overall_points": 7409,
+      "overall_rank": 1,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Sawant",
+      "players": [
+        {
+          "player": "Mohammed Siraj",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Rohit Sharma",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Glenn Maxwell",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 4,
+      "overall_points": 7207,
+      "overall_rank": 2,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Praveen",
+      "players": [
+        {
+          "player": "Hardik Pandya",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Dinesh Karthik",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 5,
+      "overall_points": 4896,
+      "overall_rank": 9,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "KV",
+      "players": [
+        {
+          "player": "Tilak Varma",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Faf du Plessis",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Jasprit Bumrah",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 6,
+      "overall_points": 5760,
+      "overall_rank": 7,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Joshua",
+      "players": [
+        {
+          "player": "Glenn Maxwell",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Rohit Sharma",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Yuzvendra Chahal",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 7,
+      "overall_points": 6109,
+      "overall_rank": 5,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Dr Vivek",
+      "players": [
+        {
+          "player": "Faf du Plessis",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Ishan Kishan",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Mohammed Siraj",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 8,
+      "overall_points": 4526,
+      "overall_rank": 10,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Janeesh",
+      "players": [
+        {
+          "player": "Dinesh Karthik",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Anuj Rawat",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Tilak Varma",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 9,
+      "overall_points": 5286,
+      "overall_rank": 8,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Karthik",
+      "players": [
+        {
+          "player": "Will Jacks",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Faf du Plessis",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Hardik Pandya",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 10,
+      "overall_points": 5921,
+      "overall_rank": 6,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Pavethy",
+      "players": [
+        {
+          "player": "Yuzvendra Chahal",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Virat Kohli",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Anuj Rawat",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 11,
+      "overall_points": 6272,
+      "overall_rank": 4,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Vikki",
+      "players": [
+        {
+          "player": "Will Jacks",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Anuj Rawat",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Lockie Ferguson",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 12,
+      "overall_points": 3760,
+      "overall_rank": 13,
+      "overall_rank_change": "-"
+    },
+    {
+      "name": "Utkarsh",
+      "players": [
+        {
+          "player": "Cameron Green",
+          "is_captain": true,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Yuzvendra Chahal",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        },
+        {
+          "player": "Anuj Rawat",
+          "is_captain": false,
+          "points": 0,
+          "effective_points": 0
+        }
+      ],
+      "total_points": 0,
+      "rounded_off_total_points": 0,
+      "rank": 13,
+      "overall_points": 1648,
+      "overall_rank": 14,
+      "overall_rank_change": "-"
+    }
+  ]
+}

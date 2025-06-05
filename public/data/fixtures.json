@@ -1,0 +1,668 @@
+[
+  {
+    "matchNumber": 1,
+    "date": "Sat, 22 Mar '25",
+    "time": "7:30 PM",
+    "venue": "Eden Gardens",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bengaluru",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 2,
+    "date": "Sun, 23 Mar '25",
+    "time": "3:30 PM",
+    "venue": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Rajasthan Royals",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 3,
+    "date": "Sun, 23 Mar '25",
+    "time": "7:30 PM",
+    "venue": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Mumbai Indians",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 4,
+    "date": "Mon, 24 Mar '25",
+    "time": "7:30 PM",
+    "venue": "Visakhapatnam",
+    "team1": "Delhi Capitals",
+    "team2": "Lucknow Super Giants",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 5,
+    "date": "Tue, 25 Mar '25",
+    "time": "7:30 PM",
+    "venue": "Ahmedabad",
+    "team1": "Gujarat Titans",
+    "team2": "Punjab Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 6,
+    "date": "Wed, 26 Mar '25",
+    "time": "7:30 PM",
+    "venue": "Guwahati",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 7,
+    "date": "Thu, 27 Mar '25",
+    "time": "7:30 PM",
+    "venue": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Lucknow Super Giants",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 8,
+    "date": "Fri, 28 Mar '25",
+    "time": "7:30 PM",
+    "venue": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Royal Challengers Bengaluru",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 9,
+    "date": "Sat, 29 Mar '25",
+    "time": "7:30 PM",
+    "venue": "Ahmedabad",
+    "team1": "Gujarat Titans",
+    "team2": "Mumbai Indians",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 10,
+    "date": "Sun, 30 Mar '25",
+    "time": "3:30 PM",
+    "venue": "Visakhapatnam",
+    "team1": "Delhi Capitals",
+    "team2": "Sunrisers Hyderabad",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 11,
+    "date": "Sun, 30 Mar '25",
+    "time": "7:30 PM",
+    "venue": "Guwahati",
+    "team1": "Rajasthan Royals",
+    "team2": "Chennai Super Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 12,
+    "date": "Mon, 31 Mar '25",
+    "time": "7:30 PM",
+    "venue": "Wankhede",
+    "team1": "Mumbai Indians",
+    "team2": "Kolkata Knight Riders",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 13,
+    "date": "Tue, 01 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Lucknow",
+    "team1": "Lucknow Super Giants",
+    "team2": "Punjab Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 14,
+    "date": "Wed, 02 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Bengaluru",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Gujarat Titans",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 15,
+    "date": "Thu, 03 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Eden Gardens",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Sunrisers Hyderabad",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 16,
+    "date": "Fri, 04 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Lucknow",
+    "team1": "Lucknow Super Giants",
+    "team2": "Mumbai Indians",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 17,
+    "date": "Sat, 05 Apr '25",
+    "time": "3:30 PM",
+    "venue": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Capitals",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 18,
+    "date": "Sat, 05 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Mullanpur",
+    "team1": "Punjab Kings",
+    "team2": "Rajasthan Royals",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 19,
+    "date": "Sun, 06 Apr '25",
+    "time": "3:30 PM",
+    "venue": "Eden Gardens",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Lucknow Super Giants",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 20,
+    "date": "Sun, 06 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Gujarat Titans",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 21,
+    "date": "Mon, 07 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Wankhede",
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bengaluru",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 22,
+    "date": "Tue, 08 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Mullanpur",
+    "team1": "Punjab Kings",
+    "team2": "Chennai Super Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 23,
+    "date": "Wed, 09 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Ahmedabad",
+    "team1": "Gujarat Titans",
+    "team2": "Rajasthan Royals",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 24,
+    "date": "Thu, 10 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Bengaluru",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Delhi Capitals",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 25,
+    "date": "Fri, 11 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 26,
+    "date": "Sat, 12 Apr '25",
+    "time": "3:30 PM",
+    "venue": "Lucknow",
+    "team1": "Lucknow Super Giants",
+    "team2": "Gujarat Titans",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 27,
+    "date": "Sat, 12 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Punjab Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 28,
+    "date": "Sun, 13 Apr '25",
+    "time": "3:30 PM",
+    "venue": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Royal Challengers Bengaluru",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 29,
+    "date": "Sun, 13 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Delhi",
+    "team1": "Delhi Capitals",
+    "team2": "Mumbai Indians",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 30,
+    "date": "Mon, 14 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Lucknow",
+    "team1": "Lucknow Super Giants",
+    "team2": "Chennai Super Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 31,
+    "date": "Tue, 15 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Mullanpur",
+    "team1": "Punjab Kings",
+    "team2": "Kolkata Knight Riders",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 32,
+    "date": "Wed, 16 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Delhi",
+    "team1": "Delhi Capitals",
+    "team2": "Rajasthan Royals",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 33,
+    "date": "Thu, 17 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Wankhede",
+    "team1": "Mumbai Indians",
+    "team2": "Sunrisers Hyderabad",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 34,
+    "date": "Fri, 18 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Bengaluru",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Punjab Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 35,
+    "date": "Sat, 19 Apr '25",
+    "time": "3:30 PM",
+    "venue": "Ahmedabad",
+    "team1": "Gujarat Titans",
+    "team2": "Delhi Capitals",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 36,
+    "date": "Sat, 19 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Lucknow Super Giants",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 37,
+    "date": "Sun, 20 Apr '25",
+    "time": "3:30 PM",
+    "venue": "Mullanpur",
+    "team1": "Punjab Kings",
+    "team2": "Royal Challengers Bengaluru",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 38,
+    "date": "Sun, 20 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Wankhede",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 39,
+    "date": "Mon, 21 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Eden Gardens",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Gujarat Titans",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 40,
+    "date": "Tue, 22 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Lucknow",
+    "team1": "Lucknow Super Giants",
+    "team2": "Delhi Capitals",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 41,
+    "date": "Wed, 23 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Mumbai Indians",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 42,
+    "date": "Thu, 24 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Bengaluru",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Rajasthan Royals",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 43,
+    "date": "Fri, 25 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Sunrisers Hyderabad",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 44,
+    "date": "Sat, 26 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Eden Gardens",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Punjab Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 45,
+    "date": "Sun, 27 Apr '25",
+    "time": "3:30 PM",
+    "venue": "Wankhede",
+    "team1": "Mumbai Indians",
+    "team2": "Lucknow Super Giants",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 46,
+    "date": "Sun, 27 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Delhi",
+    "team1": "Delhi Capitals",
+    "team2": "Royal Challengers Bengaluru",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 47,
+    "date": "Mon, 28 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Gujarat Titans",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 48,
+    "date": "Tue, 29 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Delhi",
+    "team1": "Delhi Capitals",
+    "team2": "Kolkata Knight Riders",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 49,
+    "date": "Wed, 30 Apr '25",
+    "time": "7:30 PM",
+    "venue": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Punjab Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 50,
+    "date": "Thu, 01 May '25",
+    "time": "7:30 PM",
+    "venue": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Mumbai Indians",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 51,
+    "date": "Fri, 02 May '25",
+    "time": "7:30 PM",
+    "venue": "Ahmedabad",
+    "team1": "Gujarat Titans",
+    "team2": "Sunrisers Hyderabad",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 52,
+    "date": "Sat, 03 May '25",
+    "time": "7:30 PM",
+    "venue": "Bengaluru",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Chennai Super Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 53,
+    "date": "Sun, 04 May '25",
+    "time": "3:30 PM",
+    "venue": "Eden Gardens",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Rajasthan Royals",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 54,
+    "date": "Sun, 04 May '25",
+    "time": "7:30 PM",
+    "venue": "Dharamsala",
+    "team1": "Punjab Kings",
+    "team2": "Lucknow Super Giants",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 55,
+    "date": "Mon, 05 May '25",
+    "time": "7:30 PM",
+    "venue": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Delhi Capitals",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 56,
+    "date": "Tue, 06 May '25",
+    "time": "7:30 PM",
+    "venue": "Wankhede",
+    "team1": "Mumbai Indians",
+    "team2": "Gujarat Titans",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 57,
+    "date": "Wed, 07 May '25",
+    "time": "7:30 PM",
+    "venue": "Eden Gardens",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Chennai Super Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 58,
+    "date": "Sat, 17 May '25",
+    "time": "7:30 PM",
+    "venue": "Bengaluru",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Kolkata Knight Riders",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 59,
+    "date": "Sun, 18 May '25",
+    "time": "3:30 PM",
+    "venue": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Punjab Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 60,
+    "date": "Sun, 18 May '25",
+    "time": "7:30 PM",
+    "venue": "Delhi",
+    "team1": "Delhi Capitals",
+    "team2": "Gujarat Titans",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 61,
+    "date": "Mon, 19 May '25",
+    "time": "7:30 PM",
+    "venue": "Lucknow",
+    "team1": "Lucknow Super Giants",
+    "team2": "Sunrisers Hyderabad",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 62,
+    "date": "Tue, 20 May '25",
+    "time": "7:30 PM",
+    "venue": "Delhi",
+    "team1": "Chennai Super Kings",
+    "team2": "Rajasthan Royals",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 63,
+    "date": "Wed, 21 May '25",
+    "time": "7:30 PM",
+    "venue": "Wankhede",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Capitals",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 64,
+    "date": "Thu, 22 May '25",
+    "time": "7:30 PM",
+    "venue": "Ahmedabad",
+    "team1": "Gujarat Titans",
+    "team2": "Lucknow Super Giants",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 65,
+    "date": "Fri, 23 May '25",
+    "time": "7:30 PM",
+    "venue": "Bengaluru",
+    "team1": "Royal Challengers Bengaluru",
+    "team2": "Sunrisers Hyderabad",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 66,
+    "date": "Sat, 24 May '25",
+    "time": "7:30 PM",
+    "venue": "Jaipur",
+    "team1": "Delhi Capitals",
+    "team2": "Punjab Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 67,
+    "date": "Sun, 25 May '25",
+    "time": "3:30 PM",
+    "venue": "Ahmedabad",
+    "team1": "Gujarat Titans",
+    "team2": "Chennai Super Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 68,
+    "date": "Sun, 25 May '25",
+    "time": "7:30 PM",
+    "venue": "Delhi",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Sunrisers Hyderabad",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 69,
+    "date": "Mon, 26 May '25",
+    "time": "7:30 PM",
+    "venue": "Jaipur",
+    "team1": "Mumbai Indians",
+    "team2": "Punjab Kings",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 70,
+    "date": "Tue, 27 May '25",
+    "time": "7:30 PM",
+    "venue": "Lucknow",
+    "team1": "Lucknow Super Giants",
+    "team2": "Royal Challengers Bengaluru",
+    "matchType": "League"
+  },
+  {
+    "matchNumber": 71,
+    "date": "Thu, 29 May '25",
+    "time": "7:30 PM",
+    "venue": "TBA",
+    "team1": "TBA",
+    "team2": "TBA",
+    "matchType": "Qualifier 1"
+  },
+  {
+    "matchNumber": 72,
+    "date": "Fri, 30 May '25",
+    "time": "7:30 PM",
+    "venue": "TBA",
+    "team1": "TBA",
+    "team2": "TBA",
+    "matchType": "Eliminator"
+  },
+  {
+    "matchNumber": 73,
+    "date": "Sun, 01 Jun '25",
+    "time": "7:30 PM",
+    "venue": "TBA",
+    "team1": "TBA",
+    "team2": "TBA",
+    "matchType": "Qualifier 2"
+  },
+  {
+    "matchNumber": 74,
+    "date": "Tue, 03 Jun '25",
+    "time": "7:30 PM",
+    "venue": "TBA",
+    "team1": "TBA",
+    "team2": "TBA",
+    "matchType": "Final"
+  }
+]
